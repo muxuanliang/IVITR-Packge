@@ -1,0 +1,72 @@
+---
+title: "Reproducing the IV-ITR simulation figures"
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+output:
+  pdf_document:
+    toc: true
+  html_document:
+    toc: true
+    toc_float: true
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = TRUE, warning = TRUE)
+repo_root <- normalizePath(".")
+if (!file.exists(file.path(repo_root, "README.md"))) {
+  stop("Render this report with scripts/render_reproduction_report.R from the repository root.")
+}
+setwd(repo_root)
+
+embed_pdf <- function(path, height = "650px") {
+  if (!file.exists(path)) stop("Expected figure was not created: ", path)
+  knitr::asis_output(sprintf(
+    '<object data="%s" type="application/pdf" width="100%%" height="%s">\n<a href="%s">Open figure PDF</a>\n</object>',
+    path, height, path
+  ))
+}
+```
+
+# Purpose
+
+This literate report recreates and displays the manuscript simulation figures
+from the archived, replication-ready CSV files in `results/`. Each code chunk
+calls the same figure script used for the manuscript. Consequently, compiling
+this document does not require rerunning the full Monte Carlo simulations.
+
+The canonical mapping to the uploaded manuscript and supplementary-material
+figure numbers is in [`docs/FIGURE_MAP.md`](docs/FIGURE_MAP.md). The
+restricted-data application figures (main Figure 6 and supplementary Figures
+S9–S11) are not run by this public report.
+
+# Canonical manuscript and supplementary figures
+
+```{r canonical-figures}
+canonical_scripts <- c(
+  sprintf("scripts/manuscript_figure_%d.R", 1:5),
+  sprintf("scripts/supplementary_figure_%d.R", 1:8)
+)
+invisible(lapply(canonical_scripts, source, chdir = FALSE))
+```
+
+```{r show-canonical-figures, results='asis', echo=FALSE}
+canonical_figures <- c(
+  sprintf("figures/generated/manuscript_figure_%d.pdf", 1:5),
+  sprintf("figures/generated/supplementary_figure_%d.pdf", 1:8)
+)
+for (figure in canonical_figures) {
+  cat("\n## ", tools::file_path_sans_ext(basename(figure)), "\n\n", sep = "")
+  cat(embed_pdf(figure), "\n\n")
+}
+```
+
+The exact data-generating models are in
+[`docs/SIMULATION_MODELS.md`](docs/SIMULATION_MODELS.md). To rerun the
+Monte Carlo experiments themselves, use the numbered scripts documented in
+[`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md).
+
+# Output
+
+The regenerated PDFs and their underlying summary CSV files are in
+`figures/generated/`. This report is a convenient visual audit trail; the
+standalone scripts remain the primary figure-reproduction entry points.

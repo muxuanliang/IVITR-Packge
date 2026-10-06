@@ -1,0 +1,26 @@
+Package: IVITR
+Type: Package
+Title: Instrumental-Variable Individualized Treatment Rules
+Version: 0.1.0
+Author: Muxuan Liang [aut, cre]
+Maintainer: Muxuan Liang <TODO@example.com>
+Authors@R: c(
+    person("Muxuan", "Liang", role = c("aut", "cre"), email = "TODO@example.com")
+    )
+Description: Research code implementing the individualized treatment-rule
+    estimators used in the accompanying manuscript.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 7.3.2
+Imports:
+    CVXR,
+    doParallel,
+    foreach,
+    glmnet,
+    mgcv,
+    Matrix,
+    VariableScreening
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

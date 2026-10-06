@@ -1,0 +1,2001 @@
+"","value","d","metric","method","index","n","lambda","xi","delta","setting1","setting2"
+"31",0.806444384048794,0.2,"value on non-rejected","Debiased",1,500,0.5,0.5,0.5,2,2
+"32",0.541013153077935,0.2,"value on non-rejected","Qiu",1,500,0.5,0.5,0.5,2,2
+"33",0.613,0.2,"porp rejected","Debiased",1,500,0.5,0.5,0.5,2,2
+"34",0.613,0.2,"porp rejected","Qiu",1,500,0.5,0.5,0.5,2,2
+"35",0.028999741425384,0.2,"loss in value","Debiased",1,500,0.5,0.5,0.5,2,2
+"36",0.125086746592883,0.2,"loss in value","Qiu",1,500,0.5,0.5,0.5,2,2
+"37",0.518760195758564,0.2,"prop deferred with bounds crossing zero","Debiased",1,500,0.5,0.5,0.5,2,2
+"38",0.541598694942904,0.2,"prop deferred with bounds crossing zero","Qiu",1,500,0.5,0.5,0.5,2,2
+"39",0.00258397932816537,0.2,"prop wrong treatment among non-deferred","Debiased",1,500,0.5,0.5,0.5,2,2
+"40",0.356589147286822,0.2,"prop wrong treatment among non-deferred","Qiu",1,500,0.5,0.5,0.5,2,2
+"81",0.891315740991301,0.2,"value on non-rejected","Debiased",2,500,0.5,0.5,0.5,2,2
+"82",0.678286718063676,0.2,"value on non-rejected","Qiu",2,500,0.5,0.5,0.5,2,2
+"83",0.331,0.2,"porp rejected","Debiased",2,500,0.5,0.5,0.5,2,2
+"84",0.331,0.2,"porp rejected","Qiu",2,500,0.5,0.5,0.5,2,2
+"85",0.0506452227303661,0.2,"loss in value","Debiased",2,500,0.5,0.5,0.5,2,2
+"86",0.165869408391962,0.2,"loss in value","Qiu",2,500,0.5,0.5,0.5,2,2
+"87",0.948640483383686,0.2,"prop deferred with bounds crossing zero","Debiased",2,500,0.5,0.5,0.5,2,2
+"88",0.570996978851964,0.2,"prop deferred with bounds crossing zero","Qiu",2,500,0.5,0.5,0.5,2,2
+"89",0,0.2,"prop wrong treatment among non-deferred","Debiased",2,500,0.5,0.5,0.5,2,2
+"90",0.276532137518685,0.2,"prop wrong treatment among non-deferred","Qiu",2,500,0.5,0.5,0.5,2,2
+"131",NA,0.2,"value on non-rejected","Debiased",3,500,0.5,0.5,0.5,2,2
+"132",NA,0.2,"value on non-rejected","Qiu",3,500,0.5,0.5,0.5,2,2
+"133",1,0.2,"porp rejected","Debiased",3,500,0.5,0.5,0.5,2,2
+"134",1,0.2,"porp rejected","Qiu",3,500,0.5,0.5,0.5,2,2
+"135",0.065092885754839,0.2,"loss in value","Debiased",3,500,0.5,0.5,0.5,2,2
+"136",0.0594814200984059,0.2,"loss in value","Qiu",3,500,0.5,0.5,0.5,2,2
+"137",0.567,0.2,"prop deferred with bounds crossing zero","Debiased",3,500,0.5,0.5,0.5,2,2
+"138",0.546,0.2,"prop deferred with bounds crossing zero","Qiu",3,500,0.5,0.5,0.5,2,2
+"139",NA,0.2,"prop wrong treatment among non-deferred","Debiased",3,500,0.5,0.5,0.5,2,2
+"140",NA,0.2,"prop wrong treatment among non-deferred","Qiu",3,500,0.5,0.5,0.5,2,2
+"181",0.768276709520834,0.2,"value on non-rejected","Debiased",4,500,0.5,0.5,0.5,2,2
+"182",0.665352347972541,0.2,"value on non-rejected","Qiu",4,500,0.5,0.5,0.5,2,2
+"183",0.524,0.2,"porp rejected","Debiased",4,500,0.5,0.5,0.5,2,2
+"184",0.524,0.2,"porp rejected","Qiu",4,500,0.5,0.5,0.5,2,2
+"185",0.0337177672052976,0.2,"loss in value","Debiased",4,500,0.5,0.5,0.5,2,2
+"186",0.111077172455982,0.2,"loss in value","Qiu",4,500,0.5,0.5,0.5,2,2
+"187",0.490458015267176,0.2,"prop deferred with bounds crossing zero","Debiased",4,500,0.5,0.5,0.5,2,2
+"188",0.58969465648855,0.2,"prop deferred with bounds crossing zero","Qiu",4,500,0.5,0.5,0.5,2,2
+"189",0.0336134453781513,0.2,"prop wrong treatment among non-deferred","Debiased",4,500,0.5,0.5,0.5,2,2
+"190",0.226890756302521,0.2,"prop wrong treatment among non-deferred","Qiu",4,500,0.5,0.5,0.5,2,2
+"231",NA,0.2,"value on non-rejected","Debiased",5,500,0.5,0.5,0.5,2,2
+"232",NA,0.2,"value on non-rejected","Qiu",5,500,0.5,0.5,0.5,2,2
+"233",1,0.2,"porp rejected","Debiased",5,500,0.5,0.5,0.5,2,2
+"234",1,0.2,"porp rejected","Qiu",5,500,0.5,0.5,0.5,2,2
+"235",0.0644121330748714,0.2,"loss in value","Debiased",5,500,0.5,0.5,0.5,2,2
+"236",0.0616205485378875,0.2,"loss in value","Qiu",5,500,0.5,0.5,0.5,2,2
+"237",0.585,0.2,"prop deferred with bounds crossing zero","Debiased",5,500,0.5,0.5,0.5,2,2
+"238",0.553,0.2,"prop deferred with bounds crossing zero","Qiu",5,500,0.5,0.5,0.5,2,2
+"239",NA,0.2,"prop wrong treatment among non-deferred","Debiased",5,500,0.5,0.5,0.5,2,2
+"240",NA,0.2,"prop wrong treatment among non-deferred","Qiu",5,500,0.5,0.5,0.5,2,2
+"281",0.779575079277748,0.2,"value on non-rejected","Debiased",6,500,0.5,0.5,0.5,2,2
+"282",0.614284905839828,0.2,"value on non-rejected","Qiu",6,500,0.5,0.5,0.5,2,2
+"283",0.417,0.2,"porp rejected","Debiased",6,500,0.5,0.5,0.5,2,2
+"284",0.417,0.2,"porp rejected","Qiu",6,500,0.5,0.5,0.5,2,2
+"285",0.0386616125228419,0.2,"loss in value","Debiased",6,500,0.5,0.5,0.5,2,2
+"286",0.160966870488752,0.2,"loss in value","Qiu",6,500,0.5,0.5,0.5,2,2
+"287",0.525179856115108,0.2,"prop deferred with bounds crossing zero","Debiased",6,500,0.5,0.5,0.5,2,2
+"288",0.616306954436451,0.2,"prop deferred with bounds crossing zero","Qiu",6,500,0.5,0.5,0.5,2,2
+"289",0.0188679245283019,0.2,"prop wrong treatment among non-deferred","Debiased",6,500,0.5,0.5,0.5,2,2
+"290",0.308747855917667,0.2,"prop wrong treatment among non-deferred","Qiu",6,500,0.5,0.5,0.5,2,2
+"331",0.778697833660698,0.2,"value on non-rejected","Debiased",7,500,0.5,0.5,0.5,2,2
+"332",0.638801528323623,0.2,"value on non-rejected","Qiu",7,500,0.5,0.5,0.5,2,2
+"333",0.901,0.2,"porp rejected","Debiased",7,500,0.5,0.5,0.5,2,2
+"334",0.901,0.2,"porp rejected","Qiu",7,500,0.5,0.5,0.5,2,2
+"335",0.0458712664614317,0.2,"loss in value","Debiased",7,500,0.5,0.5,0.5,2,2
+"336",0.0805466468407785,0.2,"loss in value","Qiu",7,500,0.5,0.5,0.5,2,2
+"337",0.536071032186459,0.2,"prop deferred with bounds crossing zero","Debiased",7,500,0.5,0.5,0.5,2,2
+"338",0.654827968923418,0.2,"prop deferred with bounds crossing zero","Qiu",7,500,0.5,0.5,0.5,2,2
+"339",0,0.2,"prop wrong treatment among non-deferred","Debiased",7,500,0.5,0.5,0.5,2,2
+"340",0.191919191919192,0.2,"prop wrong treatment among non-deferred","Qiu",7,500,0.5,0.5,0.5,2,2
+"381",0.830200138665184,0.2,"value on non-rejected","Debiased",8,500,0.5,0.5,0.5,2,2
+"382",0.510486276513297,0.2,"value on non-rejected","Qiu",8,500,0.5,0.5,0.5,2,2
+"383",0.374,0.2,"porp rejected","Debiased",8,500,0.5,0.5,0.5,2,2
+"384",0.374,0.2,"porp rejected","Qiu",8,500,0.5,0.5,0.5,2,2
+"385",0.0401839456216052,0.2,"loss in value","Debiased",8,500,0.5,0.5,0.5,2,2
+"386",0.242053602452637,0.2,"loss in value","Qiu",8,500,0.5,0.5,0.5,2,2
+"387",0.879679144385027,0.2,"prop deferred with bounds crossing zero","Debiased",8,500,0.5,0.5,0.5,2,2
+"388",0.67379679144385,0.2,"prop deferred with bounds crossing zero","Qiu",8,500,0.5,0.5,0.5,2,2
+"389",0.00319488817891374,0.2,"prop wrong treatment among non-deferred","Debiased",8,500,0.5,0.5,0.5,2,2
+"390",0.477635782747604,0.2,"prop wrong treatment among non-deferred","Qiu",8,500,0.5,0.5,0.5,2,2
+"431",0.799514917711651,0.2,"value on non-rejected","Debiased",9,500,0.5,0.5,0.5,2,2
+"432",0.598554454339831,0.2,"value on non-rejected","Qiu",9,500,0.5,0.5,0.5,2,2
+"433",0.394,0.2,"porp rejected","Debiased",9,500,0.5,0.5,0.5,2,2
+"434",0.394,0.2,"porp rejected","Qiu",9,500,0.5,0.5,0.5,2,2
+"435",0.0349756470372148,0.2,"loss in value","Debiased",9,500,0.5,0.5,0.5,2,2
+"436",0.169451515784845,0.2,"loss in value","Qiu",9,500,0.5,0.5,0.5,2,2
+"437",0.718274111675127,0.2,"prop deferred with bounds crossing zero","Debiased",9,500,0.5,0.5,0.5,2,2
+"438",0.510152284263959,0.2,"prop deferred with bounds crossing zero","Qiu",9,500,0.5,0.5,0.5,2,2
+"439",0.0462046204620462,0.2,"prop wrong treatment among non-deferred","Debiased",9,500,0.5,0.5,0.5,2,2
+"440",0.389438943894389,0.2,"prop wrong treatment among non-deferred","Qiu",9,500,0.5,0.5,0.5,2,2
+"481",0.854051938420853,0.2,"value on non-rejected","Debiased",10,500,0.5,0.5,0.5,2,2
+"482",0.673630853121325,0.2,"value on non-rejected","Qiu",10,500,0.5,0.5,0.5,2,2
+"483",0.262,0.2,"porp rejected","Debiased",10,500,0.5,0.5,0.5,2,2
+"484",0.262,0.2,"porp rejected","Qiu",10,500,0.5,0.5,0.5,2,2
+"485",0.036491020934055,0.2,"loss in value","Debiased",10,500,0.5,0.5,0.5,2,2
+"486",0.165956988079845,0.2,"loss in value","Qiu",10,500,0.5,0.5,0.5,2,2
+"487",0.820610687022901,0.2,"prop deferred with bounds crossing zero","Debiased",10,500,0.5,0.5,0.5,2,2
+"488",0.564885496183206,0.2,"prop deferred with bounds crossing zero","Qiu",10,500,0.5,0.5,0.5,2,2
+"489",0.0013550135501355,0.2,"prop wrong treatment among non-deferred","Debiased",10,500,0.5,0.5,0.5,2,2
+"490",0.273712737127371,0.2,"prop wrong treatment among non-deferred","Qiu",10,500,0.5,0.5,0.5,2,2
+"531",NA,0.2,"value on non-rejected","Debiased",11,500,0.5,0.5,0.5,2,2
+"532",NA,0.2,"value on non-rejected","Qiu",11,500,0.5,0.5,0.5,2,2
+"533",1,0.2,"porp rejected","Debiased",11,500,0.5,0.5,0.5,2,2
+"534",1,0.2,"porp rejected","Qiu",11,500,0.5,0.5,0.5,2,2
+"535",0.0694947961670804,0.2,"loss in value","Debiased",11,500,0.5,0.5,0.5,2,2
+"536",0.049824416239642,0.2,"loss in value","Qiu",11,500,0.5,0.5,0.5,2,2
+"537",0.615,0.2,"prop deferred with bounds crossing zero","Debiased",11,500,0.5,0.5,0.5,2,2
+"538",0.479,0.2,"prop deferred with bounds crossing zero","Qiu",11,500,0.5,0.5,0.5,2,2
+"539",NA,0.2,"prop wrong treatment among non-deferred","Debiased",11,500,0.5,0.5,0.5,2,2
+"540",NA,0.2,"prop wrong treatment among non-deferred","Qiu",11,500,0.5,0.5,0.5,2,2
+"581",0.811695581123715,0.2,"value on non-rejected","Debiased",12,500,0.5,0.5,0.5,2,2
+"582",0.625067402321736,0.2,"value on non-rejected","Qiu",12,500,0.5,0.5,0.5,2,2
+"583",0.445,0.2,"porp rejected","Debiased",12,500,0.5,0.5,0.5,2,2
+"584",0.445,0.2,"porp rejected","Qiu",12,500,0.5,0.5,0.5,2,2
+"585",0.0460237562679108,0.2,"loss in value","Debiased",12,500,0.5,0.5,0.5,2,2
+"586",0.146073847128755,0.2,"loss in value","Qiu",12,500,0.5,0.5,0.5,2,2
+"587",0.721348314606742,0.2,"prop deferred with bounds crossing zero","Debiased",12,500,0.5,0.5,0.5,2,2
+"588",0.534831460674157,0.2,"prop deferred with bounds crossing zero","Qiu",12,500,0.5,0.5,0.5,2,2
+"589",0.0036036036036036,0.2,"prop wrong treatment among non-deferred","Debiased",12,500,0.5,0.5,0.5,2,2
+"590",0.306306306306306,0.2,"prop wrong treatment among non-deferred","Qiu",12,500,0.5,0.5,0.5,2,2
+"631",0.888433740197131,0.2,"value on non-rejected","Debiased",13,500,0.5,0.5,0.5,2,2
+"632",0.5949434464469,0.2,"value on non-rejected","Qiu",13,500,0.5,0.5,0.5,2,2
+"633",0.343,0.2,"porp rejected","Debiased",13,500,0.5,0.5,0.5,2,2
+"634",0.343,0.2,"porp rejected","Qiu",13,500,0.5,0.5,0.5,2,2
+"635",0.0425240033051333,0.2,"loss in value","Debiased",13,500,0.5,0.5,0.5,2,2
+"636",0.17716066143743,0.2,"loss in value","Qiu",13,500,0.5,0.5,0.5,2,2
+"637",0.880466472303207,0.2,"prop deferred with bounds crossing zero","Debiased",13,500,0.5,0.5,0.5,2,2
+"638",0.495626822157434,0.2,"prop deferred with bounds crossing zero","Qiu",13,500,0.5,0.5,0.5,2,2
+"639",0,0.2,"prop wrong treatment among non-deferred","Debiased",13,500,0.5,0.5,0.5,2,2
+"640",0.351598173515982,0.2,"prop wrong treatment among non-deferred","Qiu",13,500,0.5,0.5,0.5,2,2
+"681",0.831936516811996,0.2,"value on non-rejected","Debiased",14,500,0.5,0.5,0.5,2,2
+"682",0.552732591277146,0.2,"value on non-rejected","Qiu",14,500,0.5,0.5,0.5,2,2
+"683",0.538,0.2,"porp rejected","Debiased",14,500,0.5,0.5,0.5,2,2
+"684",0.538,0.2,"porp rejected","Qiu",14,500,0.5,0.5,0.5,2,2
+"685",0.0296156306066752,0.2,"loss in value","Debiased",14,500,0.5,0.5,0.5,2,2
+"686",0.139719689911484,0.2,"loss in value","Qiu",14,500,0.5,0.5,0.5,2,2
+"687",0.611524163568773,0.2,"prop deferred with bounds crossing zero","Debiased",14,500,0.5,0.5,0.5,2,2
+"688",0.485130111524164,0.2,"prop deferred with bounds crossing zero","Qiu",14,500,0.5,0.5,0.5,2,2
+"689",0,0.2,"prop wrong treatment among non-deferred","Debiased",14,500,0.5,0.5,0.5,2,2
+"690",0.357142857142857,0.2,"prop wrong treatment among non-deferred","Qiu",14,500,0.5,0.5,0.5,2,2
+"731",0.786893567034849,0.2,"value on non-rejected","Debiased",15,500,0.5,0.5,0.5,2,2
+"732",0.660777127374182,0.2,"value on non-rejected","Qiu",15,500,0.5,0.5,0.5,2,2
+"733",0.365,0.2,"porp rejected","Debiased",15,500,0.5,0.5,0.5,2,2
+"734",0.365,0.2,"porp rejected","Qiu",15,500,0.5,0.5,0.5,2,2
+"735",0.0410395422030337,0.2,"loss in value","Debiased",15,500,0.5,0.5,0.5,2,2
+"736",0.134808930634502,0.2,"loss in value","Qiu",15,500,0.5,0.5,0.5,2,2
+"737",0.635616438356164,0.2,"prop deferred with bounds crossing zero","Debiased",15,500,0.5,0.5,0.5,2,2
+"738",0.671232876712329,0.2,"prop deferred with bounds crossing zero","Qiu",15,500,0.5,0.5,0.5,2,2
+"739",0.0362204724409449,0.2,"prop wrong treatment among non-deferred","Debiased",15,500,0.5,0.5,0.5,2,2
+"740",0.307086614173228,0.2,"prop wrong treatment among non-deferred","Qiu",15,500,0.5,0.5,0.5,2,2
+"781",0.765797399640346,0.2,"value on non-rejected","Debiased",16,500,0.5,0.5,0.5,2,2
+"782",0.651506597098775,0.2,"value on non-rejected","Qiu",16,500,0.5,0.5,0.5,2,2
+"783",0.623,0.2,"porp rejected","Debiased",16,500,0.5,0.5,0.5,2,2
+"784",0.623,0.2,"porp rejected","Qiu",16,500,0.5,0.5,0.5,2,2
+"785",0.0371252688511195,0.2,"loss in value","Debiased",16,500,0.5,0.5,0.5,2,2
+"786",0.0894548673765194,0.2,"loss in value","Qiu",16,500,0.5,0.5,0.5,2,2
+"787",0.548956661316212,0.2,"prop deferred with bounds crossing zero","Debiased",16,500,0.5,0.5,0.5,2,2
+"788",0.537720706260032,0.2,"prop deferred with bounds crossing zero","Qiu",16,500,0.5,0.5,0.5,2,2
+"789",0,0.2,"prop wrong treatment among non-deferred","Debiased",16,500,0.5,0.5,0.5,2,2
+"790",0.175066312997347,0.2,"prop wrong treatment among non-deferred","Qiu",16,500,0.5,0.5,0.5,2,2
+"831",0.720101455580795,0.2,"value on non-rejected","Debiased",17,500,0.5,0.5,0.5,2,2
+"832",0.667177650121051,0.2,"value on non-rejected","Qiu",17,500,0.5,0.5,0.5,2,2
+"833",0.424,0.2,"porp rejected","Debiased",17,500,0.5,0.5,0.5,2,2
+"834",0.424,0.2,"porp rejected","Qiu",17,500,0.5,0.5,0.5,2,2
+"835",0.0337479038232624,0.2,"loss in value","Debiased",17,500,0.5,0.5,0.5,2,2
+"836",0.108561798514677,0.2,"loss in value","Qiu",17,500,0.5,0.5,0.5,2,2
+"837",0.504716981132076,0.2,"prop deferred with bounds crossing zero","Debiased",17,500,0.5,0.5,0.5,2,2
+"838",0.568396226415094,0.2,"prop deferred with bounds crossing zero","Qiu",17,500,0.5,0.5,0.5,2,2
+"839",0.135416666666667,0.2,"prop wrong treatment among non-deferred","Debiased",17,500,0.5,0.5,0.5,2,2
+"840",0.270833333333333,0.2,"prop wrong treatment among non-deferred","Qiu",17,500,0.5,0.5,0.5,2,2
+"881",0.841709189345382,0.2,"value on non-rejected","Debiased",18,500,0.5,0.5,0.5,2,2
+"882",0.661756396127559,0.2,"value on non-rejected","Qiu",18,500,0.5,0.5,0.5,2,2
+"883",0.326,0.2,"porp rejected","Debiased",18,500,0.5,0.5,0.5,2,2
+"884",0.326,0.2,"porp rejected","Qiu",18,500,0.5,0.5,0.5,2,2
+"885",0.0366339195095051,0.2,"loss in value","Debiased",18,500,0.5,0.5,0.5,2,2
+"886",0.139354459747794,0.2,"loss in value","Qiu",18,500,0.5,0.5,0.5,2,2
+"887",0.849693251533742,0.2,"prop deferred with bounds crossing zero","Debiased",18,500,0.5,0.5,0.5,2,2
+"888",0.530674846625767,0.2,"prop deferred with bounds crossing zero","Qiu",18,500,0.5,0.5,0.5,2,2
+"889",0,0.2,"prop wrong treatment among non-deferred","Debiased",18,500,0.5,0.5,0.5,2,2
+"890",0.250741839762611,0.2,"prop wrong treatment among non-deferred","Qiu",18,500,0.5,0.5,0.5,2,2
+"931",0.844594246934739,0.2,"value on non-rejected","Debiased",19,500,0.5,0.5,0.5,2,2
+"932",0.71924376926302,0.2,"value on non-rejected","Qiu",19,500,0.5,0.5,0.5,2,2
+"933",0.341,0.2,"porp rejected","Debiased",19,500,0.5,0.5,0.5,2,2
+"934",0.341,0.2,"porp rejected","Qiu",19,500,0.5,0.5,0.5,2,2
+"935",0.0454604507268034,0.2,"loss in value","Debiased",19,500,0.5,0.5,0.5,2,2
+"936",0.12083981269648,0.2,"loss in value","Qiu",19,500,0.5,0.5,0.5,2,2
+"937",0.797653958944281,0.2,"prop deferred with bounds crossing zero","Debiased",19,500,0.5,0.5,0.5,2,2
+"938",0.63049853372434,0.2,"prop deferred with bounds crossing zero","Qiu",19,500,0.5,0.5,0.5,2,2
+"939",0.00606980273141123,0.2,"prop wrong treatment among non-deferred","Debiased",19,500,0.5,0.5,0.5,2,2
+"940",0.197268588770865,0.2,"prop wrong treatment among non-deferred","Qiu",19,500,0.5,0.5,0.5,2,2
+"981",0.762551915925793,0.2,"value on non-rejected","Debiased",20,500,0.5,0.5,0.5,2,2
+"982",0.643844891969872,0.2,"value on non-rejected","Qiu",20,500,0.5,0.5,0.5,2,2
+"983",0.321,0.2,"porp rejected","Debiased",20,500,0.5,0.5,0.5,2,2
+"984",0.321,0.2,"porp rejected","Qiu",20,500,0.5,0.5,0.5,2,2
+"985",0.0213338712922436,0.2,"loss in value","Debiased",20,500,0.5,0.5,0.5,2,2
+"986",0.148627136914155,0.2,"loss in value","Qiu",20,500,0.5,0.5,0.5,2,2
+"987",0.660436137071651,0.2,"prop deferred with bounds crossing zero","Debiased",20,500,0.5,0.5,0.5,2,2
+"988",0.461059190031153,0.2,"prop deferred with bounds crossing zero","Qiu",20,500,0.5,0.5,0.5,2,2
+"989",0.104565537555228,0.2,"prop wrong treatment among non-deferred","Debiased",20,500,0.5,0.5,0.5,2,2
+"990",0.344624447717231,0.2,"prop wrong treatment among non-deferred","Qiu",20,500,0.5,0.5,0.5,2,2
+"1031",0.817500585634689,0.2,"value on non-rejected","Debiased",21,500,0.5,0.5,0.5,2,2
+"1032",0.542568375118689,0.2,"value on non-rejected","Qiu",21,500,0.5,0.5,0.5,2,2
+"1033",0.598,0.2,"porp rejected","Debiased",21,500,0.5,0.5,0.5,2,2
+"1034",0.598,0.2,"porp rejected","Qiu",21,500,0.5,0.5,0.5,2,2
+"1035",0.0448015370555419,0.2,"loss in value","Debiased",21,500,0.5,0.5,0.5,2,2
+"1036",0.154530405293373,0.2,"loss in value","Qiu",21,500,0.5,0.5,0.5,2,2
+"1037",0.620401337792642,0.2,"prop deferred with bounds crossing zero","Debiased",21,500,0.5,0.5,0.5,2,2
+"1038",0.618729096989967,0.2,"prop deferred with bounds crossing zero","Qiu",21,500,0.5,0.5,0.5,2,2
+"1039",0,0.2,"prop wrong treatment among non-deferred","Debiased",21,500,0.5,0.5,0.5,2,2
+"1040",0.36318407960199,0.2,"prop wrong treatment among non-deferred","Qiu",21,500,0.5,0.5,0.5,2,2
+"1081",0.771295417807802,0.2,"value on non-rejected","Debiased",22,500,0.5,0.5,0.5,2,2
+"1082",0.715718843686958,0.2,"value on non-rejected","Qiu",22,500,0.5,0.5,0.5,2,2
+"1083",0.368,0.2,"porp rejected","Debiased",22,500,0.5,0.5,0.5,2,2
+"1084",0.368,0.2,"porp rejected","Qiu",22,500,0.5,0.5,0.5,2,2
+"1085",0.0385652809290773,0.2,"loss in value","Debiased",22,500,0.5,0.5,0.5,2,2
+"1086",0.107809092972654,0.2,"loss in value","Qiu",22,500,0.5,0.5,0.5,2,2
+"1087",0.567934782608696,0.2,"prop deferred with bounds crossing zero","Debiased",22,500,0.5,0.5,0.5,2,2
+"1088",0.548913043478261,0.2,"prop deferred with bounds crossing zero","Qiu",22,500,0.5,0.5,0.5,2,2
+"1089",0.0791139240506329,0.2,"prop wrong treatment among non-deferred","Debiased",22,500,0.5,0.5,0.5,2,2
+"1090",0.21993670886076,0.2,"prop wrong treatment among non-deferred","Qiu",22,500,0.5,0.5,0.5,2,2
+"1131",0.79638456335088,0.2,"value on non-rejected","Debiased",23,500,0.5,0.5,0.5,2,2
+"1132",0.708918109323074,0.2,"value on non-rejected","Qiu",23,500,0.5,0.5,0.5,2,2
+"1133",0.419,0.2,"porp rejected","Debiased",23,500,0.5,0.5,0.5,2,2
+"1134",0.419,0.2,"porp rejected","Qiu",23,500,0.5,0.5,0.5,2,2
+"1135",0.0596063186706132,0.2,"loss in value","Debiased",23,500,0.5,0.5,0.5,2,2
+"1136",0.113425498434052,0.2,"loss in value","Qiu",23,500,0.5,0.5,0.5,2,2
+"1137",0.675417661097852,0.2,"prop deferred with bounds crossing zero","Debiased",23,500,0.5,0.5,0.5,2,2
+"1138",0.553699284009546,0.2,"prop deferred with bounds crossing zero","Qiu",23,500,0.5,0.5,0.5,2,2
+"1139",0.0189328743545611,0.2,"prop wrong treatment among non-deferred","Debiased",23,500,0.5,0.5,0.5,2,2
+"1140",0.21342512908778,0.2,"prop wrong treatment among non-deferred","Qiu",23,500,0.5,0.5,0.5,2,2
+"1181",0.757109550085908,0.2,"value on non-rejected","Debiased",24,500,0.5,0.5,0.5,2,2
+"1182",0.66359943564962,0.2,"value on non-rejected","Qiu",24,500,0.5,0.5,0.5,2,2
+"1183",0.393,0.2,"porp rejected","Debiased",24,500,0.5,0.5,0.5,2,2
+"1184",0.393,0.2,"porp rejected","Qiu",24,500,0.5,0.5,0.5,2,2
+"1185",0.0367424511847445,0.2,"loss in value","Debiased",24,500,0.5,0.5,0.5,2,2
+"1186",0.147731028192979,0.2,"loss in value","Qiu",24,500,0.5,0.5,0.5,2,2
+"1187",0.529262086513995,0.2,"prop deferred with bounds crossing zero","Debiased",24,500,0.5,0.5,0.5,2,2
+"1188",0.694656488549618,0.2,"prop deferred with bounds crossing zero","Qiu",24,500,0.5,0.5,0.5,2,2
+"1189",0.0955518945634267,0.2,"prop wrong treatment among non-deferred","Debiased",24,500,0.5,0.5,0.5,2,2
+"1190",0.270181219110379,0.2,"prop wrong treatment among non-deferred","Qiu",24,500,0.5,0.5,0.5,2,2
+"1231",0.823436046181804,0.2,"value on non-rejected","Debiased",25,500,0.5,0.5,0.5,2,2
+"1232",0.628030666948958,0.2,"value on non-rejected","Qiu",25,500,0.5,0.5,0.5,2,2
+"1233",0.377,0.2,"porp rejected","Debiased",25,500,0.5,0.5,0.5,2,2
+"1234",0.377,0.2,"porp rejected","Qiu",25,500,0.5,0.5,0.5,2,2
+"1235",0.0339846530884941,0.2,"loss in value","Debiased",25,500,0.5,0.5,0.5,2,2
+"1236",0.151240023800656,0.2,"loss in value","Qiu",25,500,0.5,0.5,0.5,2,2
+"1237",0.742705570291777,0.2,"prop deferred with bounds crossing zero","Debiased",25,500,0.5,0.5,0.5,2,2
+"1238",0.570291777188329,0.2,"prop deferred with bounds crossing zero","Qiu",25,500,0.5,0.5,0.5,2,2
+"1239",0.00963081861958266,0.2,"prop wrong treatment among non-deferred","Debiased",25,500,0.5,0.5,0.5,2,2
+"1240",0.292134831460674,0.2,"prop wrong treatment among non-deferred","Qiu",25,500,0.5,0.5,0.5,2,2
+"1281",0.844424004178875,0.2,"value on non-rejected","Debiased",26,500,0.5,0.5,0.5,2,2
+"1282",0.712144282990333,0.2,"value on non-rejected","Qiu",26,500,0.5,0.5,0.5,2,2
+"1283",0.345,0.2,"porp rejected","Debiased",26,500,0.5,0.5,0.5,2,2
+"1284",0.345,0.2,"porp rejected","Qiu",26,500,0.5,0.5,0.5,2,2
+"1285",0.0487830978303633,0.2,"loss in value","Debiased",26,500,0.5,0.5,0.5,2,2
+"1286",0.133171429486813,0.2,"loss in value","Qiu",26,500,0.5,0.5,0.5,2,2
+"1287",0.884057971014493,0.2,"prop deferred with bounds crossing zero","Debiased",26,500,0.5,0.5,0.5,2,2
+"1288",0.617391304347826,0.2,"prop deferred with bounds crossing zero","Qiu",26,500,0.5,0.5,0.5,2,2
+"1289",0,0.2,"prop wrong treatment among non-deferred","Debiased",26,500,0.5,0.5,0.5,2,2
+"1290",0.218320610687023,0.2,"prop wrong treatment among non-deferred","Qiu",26,500,0.5,0.5,0.5,2,2
+"1331",0.776963183519132,0.2,"value on non-rejected","Debiased",27,500,0.5,0.5,0.5,2,2
+"1332",0.654593539722235,0.2,"value on non-rejected","Qiu",27,500,0.5,0.5,0.5,2,2
+"1333",0.39,0.2,"porp rejected","Debiased",27,500,0.5,0.5,0.5,2,2
+"1334",0.39,0.2,"porp rejected","Qiu",27,500,0.5,0.5,0.5,2,2
+"1335",0.0472776483961963,0.2,"loss in value","Debiased",27,500,0.5,0.5,0.5,2,2
+"1336",0.130172830189602,0.2,"loss in value","Qiu",27,500,0.5,0.5,0.5,2,2
+"1337",0.643589743589744,0.2,"prop deferred with bounds crossing zero","Debiased",27,500,0.5,0.5,0.5,2,2
+"1338",0.57948717948718,0.2,"prop deferred with bounds crossing zero","Qiu",27,500,0.5,0.5,0.5,2,2
+"1339",0.0295081967213115,0.2,"prop wrong treatment among non-deferred","Debiased",27,500,0.5,0.5,0.5,2,2
+"1340",0.265573770491803,0.2,"prop wrong treatment among non-deferred","Qiu",27,500,0.5,0.5,0.5,2,2
+"1381",0.82467462757526,0.2,"value on non-rejected","Debiased",28,500,0.5,0.5,0.5,2,2
+"1382",0.617255366342917,0.2,"value on non-rejected","Qiu",28,500,0.5,0.5,0.5,2,2
+"1383",0.329,0.2,"porp rejected","Debiased",28,500,0.5,0.5,0.5,2,2
+"1384",0.329,0.2,"porp rejected","Qiu",28,500,0.5,0.5,0.5,2,2
+"1385",0.0375113939492334,0.2,"loss in value","Debiased",28,500,0.5,0.5,0.5,2,2
+"1386",0.185918988103815,0.2,"loss in value","Qiu",28,500,0.5,0.5,0.5,2,2
+"1387",0.820668693009118,0.2,"prop deferred with bounds crossing zero","Debiased",28,500,0.5,0.5,0.5,2,2
+"1388",0.565349544072948,0.2,"prop deferred with bounds crossing zero","Qiu",28,500,0.5,0.5,0.5,2,2
+"1389",0.0014903129657228,0.2,"prop wrong treatment among non-deferred","Debiased",28,500,0.5,0.5,0.5,2,2
+"1390",0.326378539493294,0.2,"prop wrong treatment among non-deferred","Qiu",28,500,0.5,0.5,0.5,2,2
+"1431",0.848807707394116,0.2,"value on non-rejected","Debiased",29,500,0.5,0.5,0.5,2,2
+"1432",0.626155370620132,0.2,"value on non-rejected","Qiu",29,500,0.5,0.5,0.5,2,2
+"1433",0.289,0.2,"porp rejected","Debiased",29,500,0.5,0.5,0.5,2,2
+"1434",0.289,0.2,"porp rejected","Qiu",29,500,0.5,0.5,0.5,2,2
+"1435",0.0425944202548061,0.2,"loss in value","Debiased",29,500,0.5,0.5,0.5,2,2
+"1436",0.191739086787271,0.2,"loss in value","Qiu",29,500,0.5,0.5,0.5,2,2
+"1437",0.826989619377163,0.2,"prop deferred with bounds crossing zero","Debiased",29,500,0.5,0.5,0.5,2,2
+"1438",0.70242214532872,0.2,"prop deferred with bounds crossing zero","Qiu",29,500,0.5,0.5,0.5,2,2
+"1439",0.00140646976090014,0.2,"prop wrong treatment among non-deferred","Debiased",29,500,0.5,0.5,0.5,2,2
+"1440",0.29676511954993,0.2,"prop wrong treatment among non-deferred","Qiu",29,500,0.5,0.5,0.5,2,2
+"1481",0.858660001693843,0.2,"value on non-rejected","Debiased",30,500,0.5,0.5,0.5,2,2
+"1482",0.671759238629285,0.2,"value on non-rejected","Qiu",30,500,0.5,0.5,0.5,2,2
+"1483",0.321,0.2,"porp rejected","Debiased",30,500,0.5,0.5,0.5,2,2
+"1484",0.321,0.2,"porp rejected","Qiu",30,500,0.5,0.5,0.5,2,2
+"1485",0.0339279153265754,0.2,"loss in value","Debiased",30,500,0.5,0.5,0.5,2,2
+"1486",0.139516781255154,0.2,"loss in value","Qiu",30,500,0.5,0.5,0.5,2,2
+"1487",0.70404984423676,0.2,"prop deferred with bounds crossing zero","Debiased",30,500,0.5,0.5,0.5,2,2
+"1488",0.604361370716511,0.2,"prop deferred with bounds crossing zero","Qiu",30,500,0.5,0.5,0.5,2,2
+"1489",0,0.2,"prop wrong treatment among non-deferred","Debiased",30,500,0.5,0.5,0.5,2,2
+"1490",0.273932253313697,0.2,"prop wrong treatment among non-deferred","Qiu",30,500,0.5,0.5,0.5,2,2
+"1531",0.848182192294205,0.2,"value on non-rejected","Debiased",31,500,0.5,0.5,0.5,2,2
+"1532",0.621698173721502,0.2,"value on non-rejected","Qiu",31,500,0.5,0.5,0.5,2,2
+"1533",0.347,0.2,"porp rejected","Debiased",31,500,0.5,0.5,0.5,2,2
+"1534",0.347,0.2,"porp rejected","Qiu",31,500,0.5,0.5,0.5,2,2
+"1535",0.0434635861725024,0.2,"loss in value","Debiased",31,500,0.5,0.5,0.5,2,2
+"1536",0.166476138023904,0.2,"loss in value","Qiu",31,500,0.5,0.5,0.5,2,2
+"1537",0.878962536023055,0.2,"prop deferred with bounds crossing zero","Debiased",31,500,0.5,0.5,0.5,2,2
+"1538",0.570605187319885,0.2,"prop deferred with bounds crossing zero","Qiu",31,500,0.5,0.5,0.5,2,2
+"1539",0,0.2,"prop wrong treatment among non-deferred","Debiased",31,500,0.5,0.5,0.5,2,2
+"1540",0.290964777947933,0.2,"prop wrong treatment among non-deferred","Qiu",31,500,0.5,0.5,0.5,2,2
+"1581",0.811770636471835,0.2,"value on non-rejected","Debiased",32,500,0.5,0.5,0.5,2,2
+"1582",0.655134869203173,0.2,"value on non-rejected","Qiu",32,500,0.5,0.5,0.5,2,2
+"1583",0.475,0.2,"porp rejected","Debiased",32,500,0.5,0.5,0.5,2,2
+"1584",0.475,0.2,"porp rejected","Qiu",32,500,0.5,0.5,0.5,2,2
+"1585",0.0372243719364221,0.2,"loss in value","Debiased",32,500,0.5,0.5,0.5,2,2
+"1586",0.144387471311621,0.2,"loss in value","Qiu",32,500,0.5,0.5,0.5,2,2
+"1587",0.642105263157895,0.2,"prop deferred with bounds crossing zero","Debiased",32,500,0.5,0.5,0.5,2,2
+"1588",0.585263157894737,0.2,"prop deferred with bounds crossing zero","Qiu",32,500,0.5,0.5,0.5,2,2
+"1589",0,0.2,"prop wrong treatment among non-deferred","Debiased",32,500,0.5,0.5,0.5,2,2
+"1590",0.278095238095238,0.2,"prop wrong treatment among non-deferred","Qiu",32,500,0.5,0.5,0.5,2,2
+"1631",0.8436068172734,0.2,"value on non-rejected","Debiased",33,500,0.5,0.5,0.5,2,2
+"1632",0.632638603309914,0.2,"value on non-rejected","Qiu",33,500,0.5,0.5,0.5,2,2
+"1633",0.348,0.2,"porp rejected","Debiased",33,500,0.5,0.5,0.5,2,2
+"1634",0.348,0.2,"porp rejected","Qiu",33,500,0.5,0.5,0.5,2,2
+"1635",0.0332894595556031,0.2,"loss in value","Debiased",33,500,0.5,0.5,0.5,2,2
+"1636",0.150856418557649,0.2,"loss in value","Qiu",33,500,0.5,0.5,0.5,2,2
+"1637",0.727011494252874,0.2,"prop deferred with bounds crossing zero","Debiased",33,500,0.5,0.5,0.5,2,2
+"1638",0.545977011494253,0.2,"prop deferred with bounds crossing zero","Qiu",33,500,0.5,0.5,0.5,2,2
+"1639",0,0.2,"prop wrong treatment among non-deferred","Debiased",33,500,0.5,0.5,0.5,2,2
+"1640",0.30521472392638,0.2,"prop wrong treatment among non-deferred","Qiu",33,500,0.5,0.5,0.5,2,2
+"1681",0.714797576864573,0.2,"value on non-rejected","Debiased",34,500,0.5,0.5,0.5,2,2
+"1682",0.66701869742428,0.2,"value on non-rejected","Qiu",34,500,0.5,0.5,0.5,2,2
+"1683",0.337,0.2,"porp rejected","Debiased",34,500,0.5,0.5,0.5,2,2
+"1684",0.337,0.2,"porp rejected","Qiu",34,500,0.5,0.5,0.5,2,2
+"1685",0.0646390537212072,0.2,"loss in value","Debiased",34,500,0.5,0.5,0.5,2,2
+"1686",0.122938974772292,0.2,"loss in value","Qiu",34,500,0.5,0.5,0.5,2,2
+"1687",0.353115727002967,0.2,"prop deferred with bounds crossing zero","Debiased",34,500,0.5,0.5,0.5,2,2
+"1688",0.602373887240356,0.2,"prop deferred with bounds crossing zero","Qiu",34,500,0.5,0.5,0.5,2,2
+"1689",0.26395173453997,0.2,"prop wrong treatment among non-deferred","Debiased",34,500,0.5,0.5,0.5,2,2
+"1690",0.337858220211161,0.2,"prop wrong treatment among non-deferred","Qiu",34,500,0.5,0.5,0.5,2,2
+"1731",0.746878911866657,0.2,"value on non-rejected","Debiased",35,500,0.5,0.5,0.5,2,2
+"1732",0.657750885735046,0.2,"value on non-rejected","Qiu",35,500,0.5,0.5,0.5,2,2
+"1733",0.554,0.2,"porp rejected","Debiased",35,500,0.5,0.5,0.5,2,2
+"1734",0.554,0.2,"porp rejected","Qiu",35,500,0.5,0.5,0.5,2,2
+"1735",0.0330955689601391,0.2,"loss in value","Debiased",35,500,0.5,0.5,0.5,2,2
+"1736",0.0935118017506019,0.2,"loss in value","Qiu",35,500,0.5,0.5,0.5,2,2
+"1737",0.433212996389892,0.2,"prop deferred with bounds crossing zero","Debiased",35,500,0.5,0.5,0.5,2,2
+"1738",0.525270758122744,0.2,"prop deferred with bounds crossing zero","Qiu",35,500,0.5,0.5,0.5,2,2
+"1739",0.0336322869955157,0.2,"prop wrong treatment among non-deferred","Debiased",35,500,0.5,0.5,0.5,2,2
+"1740",0.213004484304933,0.2,"prop wrong treatment among non-deferred","Qiu",35,500,0.5,0.5,0.5,2,2
+"1781",0.779906726024811,0.2,"value on non-rejected","Debiased",36,500,0.5,0.5,0.5,2,2
+"1782",0.672766275252945,0.2,"value on non-rejected","Qiu",36,500,0.5,0.5,0.5,2,2
+"1783",0.596,0.2,"porp rejected","Debiased",36,500,0.5,0.5,0.5,2,2
+"1784",0.596,0.2,"porp rejected","Qiu",36,500,0.5,0.5,0.5,2,2
+"1785",0.043816210322402,0.2,"loss in value","Debiased",36,500,0.5,0.5,0.5,2,2
+"1786",0.111717299957821,0.2,"loss in value","Qiu",36,500,0.5,0.5,0.5,2,2
+"1787",0.63758389261745,0.2,"prop deferred with bounds crossing zero","Debiased",36,500,0.5,0.5,0.5,2,2
+"1788",0.630872483221476,0.2,"prop deferred with bounds crossing zero","Qiu",36,500,0.5,0.5,0.5,2,2
+"1789",0.00495049504950495,0.2,"prop wrong treatment among non-deferred","Debiased",36,500,0.5,0.5,0.5,2,2
+"1790",0.217821782178218,0.2,"prop wrong treatment among non-deferred","Qiu",36,500,0.5,0.5,0.5,2,2
+"1831",0.822996337950427,0.2,"value on non-rejected","Debiased",37,500,0.5,0.5,0.5,2,2
+"1832",0.658713576567664,0.2,"value on non-rejected","Qiu",37,500,0.5,0.5,0.5,2,2
+"1833",0.366,0.2,"porp rejected","Debiased",37,500,0.5,0.5,0.5,2,2
+"1834",0.366,0.2,"porp rejected","Qiu",37,500,0.5,0.5,0.5,2,2
+"1835",0.0368864834042956,0.2,"loss in value","Debiased",37,500,0.5,0.5,0.5,2,2
+"1836",0.152442985773629,0.2,"loss in value","Qiu",37,500,0.5,0.5,0.5,2,2
+"1837",0.765027322404372,0.2,"prop deferred with bounds crossing zero","Debiased",37,500,0.5,0.5,0.5,2,2
+"1838",0.658469945355191,0.2,"prop deferred with bounds crossing zero","Qiu",37,500,0.5,0.5,0.5,2,2
+"1839",0.00157728706624606,0.2,"prop wrong treatment among non-deferred","Debiased",37,500,0.5,0.5,0.5,2,2
+"1840",0.260252365930599,0.2,"prop wrong treatment among non-deferred","Qiu",37,500,0.5,0.5,0.5,2,2
+"1881",0.783375533166986,0.2,"value on non-rejected","Debiased",38,500,0.5,0.5,0.5,2,2
+"1882",0.62366505521109,0.2,"value on non-rejected","Qiu",38,500,0.5,0.5,0.5,2,2
+"1883",0.523,0.2,"porp rejected","Debiased",38,500,0.5,0.5,0.5,2,2
+"1884",0.523,0.2,"porp rejected","Qiu",38,500,0.5,0.5,0.5,2,2
+"1885",0.0370667271870291,0.2,"loss in value","Debiased",38,500,0.5,0.5,0.5,2,2
+"1886",0.120642442922156,0.2,"loss in value","Qiu",38,500,0.5,0.5,0.5,2,2
+"1887",0.653919694072658,0.2,"prop deferred with bounds crossing zero","Debiased",38,500,0.5,0.5,0.5,2,2
+"1888",0.516252390057361,0.2,"prop deferred with bounds crossing zero","Qiu",38,500,0.5,0.5,0.5,2,2
+"1889",0.0440251572327044,0.2,"prop wrong treatment among non-deferred","Debiased",38,500,0.5,0.5,0.5,2,2
+"1890",0.264150943396226,0.2,"prop wrong treatment among non-deferred","Qiu",38,500,0.5,0.5,0.5,2,2
+"1931",0.73067286612739,0.2,"value on non-rejected","Debiased",39,500,0.5,0.5,0.5,2,2
+"1932",0.650068620175515,0.2,"value on non-rejected","Qiu",39,500,0.5,0.5,0.5,2,2
+"1933",0.539,0.2,"porp rejected","Debiased",39,500,0.5,0.5,0.5,2,2
+"1934",0.539,0.2,"porp rejected","Qiu",39,500,0.5,0.5,0.5,2,2
+"1935",0.0425500838361171,0.2,"loss in value","Debiased",39,500,0.5,0.5,0.5,2,2
+"1936",0.116283392201958,0.2,"loss in value","Qiu",39,500,0.5,0.5,0.5,2,2
+"1937",0.476808905380334,0.2,"prop deferred with bounds crossing zero","Debiased",39,500,0.5,0.5,0.5,2,2
+"1938",0.614100185528757,0.2,"prop deferred with bounds crossing zero","Qiu",39,500,0.5,0.5,0.5,2,2
+"1939",0.0130151843817787,0.2,"prop wrong treatment among non-deferred","Debiased",39,500,0.5,0.5,0.5,2,2
+"1940",0.266811279826464,0.2,"prop wrong treatment among non-deferred","Qiu",39,500,0.5,0.5,0.5,2,2
+"1981",0.758304774589817,0.2,"value on non-rejected","Debiased",40,500,0.5,0.5,0.5,2,2
+"1982",0.595966353658443,0.2,"value on non-rejected","Qiu",40,500,0.5,0.5,0.5,2,2
+"1983",0.406,0.2,"porp rejected","Debiased",40,500,0.5,0.5,0.5,2,2
+"1984",0.406,0.2,"porp rejected","Qiu",40,500,0.5,0.5,0.5,2,2
+"1985",0.03191175596938,0.2,"loss in value","Debiased",40,500,0.5,0.5,0.5,2,2
+"1986",0.181569994765192,0.2,"loss in value","Qiu",40,500,0.5,0.5,0.5,2,2
+"1987",0.544334975369458,0.2,"prop deferred with bounds crossing zero","Debiased",40,500,0.5,0.5,0.5,2,2
+"1988",0.532019704433498,0.2,"prop deferred with bounds crossing zero","Qiu",40,500,0.5,0.5,0.5,2,2
+"1989",0.0774410774410774,0.2,"prop wrong treatment among non-deferred","Debiased",40,500,0.5,0.5,0.5,2,2
+"1990",0.34006734006734,0.2,"prop wrong treatment among non-deferred","Qiu",40,500,0.5,0.5,0.5,2,2
+"2031",0.802958803139786,0.2,"value on non-rejected","Debiased",41,500,0.5,0.5,0.5,2,2
+"2032",0.444736595094823,0.2,"value on non-rejected","Qiu",41,500,0.5,0.5,0.5,2,2
+"2033",0.948,0.2,"porp rejected","Debiased",41,500,0.5,0.5,0.5,2,2
+"2034",0.948,0.2,"porp rejected","Qiu",41,500,0.5,0.5,0.5,2,2
+"2035",0.0640247576844686,0.2,"loss in value","Debiased",41,500,0.5,0.5,0.5,2,2
+"2036",0.0974534513946738,0.2,"loss in value","Qiu",41,500,0.5,0.5,0.5,2,2
+"2037",0.626582278481013,0.2,"prop deferred with bounds crossing zero","Debiased",41,500,0.5,0.5,0.5,2,2
+"2038",0.712025316455696,0.2,"prop deferred with bounds crossing zero","Qiu",41,500,0.5,0.5,0.5,2,2
+"2039",0,0.2,"prop wrong treatment among non-deferred","Debiased",41,500,0.5,0.5,0.5,2,2
+"2040",0.442307692307692,0.2,"prop wrong treatment among non-deferred","Qiu",41,500,0.5,0.5,0.5,2,2
+"2081",0.841075601043588,0.2,"value on non-rejected","Debiased",42,500,0.5,0.5,0.5,2,2
+"2082",0.658357957903628,0.2,"value on non-rejected","Qiu",42,500,0.5,0.5,0.5,2,2
+"2083",0.291,0.2,"porp rejected","Debiased",42,500,0.5,0.5,0.5,2,2
+"2084",0.291,0.2,"porp rejected","Qiu",42,500,0.5,0.5,0.5,2,2
+"2085",0.0408222840866614,0.2,"loss in value","Debiased",42,500,0.5,0.5,0.5,2,2
+"2086",0.144612122841449,0.2,"loss in value","Qiu",42,500,0.5,0.5,0.5,2,2
+"2087",0.93127147766323,0.2,"prop deferred with bounds crossing zero","Debiased",42,500,0.5,0.5,0.5,2,2
+"2088",0.518900343642612,0.2,"prop deferred with bounds crossing zero","Qiu",42,500,0.5,0.5,0.5,2,2
+"2089",0,0.2,"prop wrong treatment among non-deferred","Debiased",42,500,0.5,0.5,0.5,2,2
+"2090",0.255289139633286,0.2,"prop wrong treatment among non-deferred","Qiu",42,500,0.5,0.5,0.5,2,2
+"2131",0.858677996459165,0.2,"value on non-rejected","Debiased",43,500,0.5,0.5,0.5,2,2
+"2132",0.68603822527168,0.2,"value on non-rejected","Qiu",43,500,0.5,0.5,0.5,2,2
+"2133",0.305,0.2,"porp rejected","Debiased",43,500,0.5,0.5,0.5,2,2
+"2134",0.305,0.2,"porp rejected","Qiu",43,500,0.5,0.5,0.5,2,2
+"2135",0.0499262339468908,0.2,"loss in value","Debiased",43,500,0.5,0.5,0.5,2,2
+"2136",0.178670522197071,0.2,"loss in value","Qiu",43,500,0.5,0.5,0.5,2,2
+"2137",0.898360655737705,0.2,"prop deferred with bounds crossing zero","Debiased",43,500,0.5,0.5,0.5,2,2
+"2138",0.672131147540984,0.2,"prop deferred with bounds crossing zero","Qiu",43,500,0.5,0.5,0.5,2,2
+"2139",0,0.2,"prop wrong treatment among non-deferred","Debiased",43,500,0.5,0.5,0.5,2,2
+"2140",0.253237410071942,0.2,"prop wrong treatment among non-deferred","Qiu",43,500,0.5,0.5,0.5,2,2
+"2181",0.721065004571571,0.2,"value on non-rejected","Debiased",44,500,0.5,0.5,0.5,2,2
+"2182",0.61344627157958,0.2,"value on non-rejected","Qiu",44,500,0.5,0.5,0.5,2,2
+"2183",0.453,0.2,"porp rejected","Debiased",44,500,0.5,0.5,0.5,2,2
+"2184",0.453,0.2,"porp rejected","Qiu",44,500,0.5,0.5,0.5,2,2
+"2185",0.0516058081281725,0.2,"loss in value","Debiased",44,500,0.5,0.5,0.5,2,2
+"2186",0.151116466281111,0.2,"loss in value","Qiu",44,500,0.5,0.5,0.5,2,2
+"2187",0.50551876379691,0.2,"prop deferred with bounds crossing zero","Debiased",44,500,0.5,0.5,0.5,2,2
+"2188",0.644591611479029,0.2,"prop deferred with bounds crossing zero","Qiu",44,500,0.5,0.5,0.5,2,2
+"2189",0.137111517367459,0.2,"prop wrong treatment among non-deferred","Debiased",44,500,0.5,0.5,0.5,2,2
+"2190",0.294332723948812,0.2,"prop wrong treatment among non-deferred","Qiu",44,500,0.5,0.5,0.5,2,2
+"2231",NA,0.2,"value on non-rejected","Debiased",45,500,0.5,0.5,0.5,2,2
+"2232",NA,0.2,"value on non-rejected","Qiu",45,500,0.5,0.5,0.5,2,2
+"2233",1,0.2,"porp rejected","Debiased",45,500,0.5,0.5,0.5,2,2
+"2234",1,0.2,"porp rejected","Qiu",45,500,0.5,0.5,0.5,2,2
+"2235",0.0632278763753564,0.2,"loss in value","Debiased",45,500,0.5,0.5,0.5,2,2
+"2236",0.0626082769007918,0.2,"loss in value","Qiu",45,500,0.5,0.5,0.5,2,2
+"2237",0.556,0.2,"prop deferred with bounds crossing zero","Debiased",45,500,0.5,0.5,0.5,2,2
+"2238",0.558,0.2,"prop deferred with bounds crossing zero","Qiu",45,500,0.5,0.5,0.5,2,2
+"2239",NA,0.2,"prop wrong treatment among non-deferred","Debiased",45,500,0.5,0.5,0.5,2,2
+"2240",NA,0.2,"prop wrong treatment among non-deferred","Qiu",45,500,0.5,0.5,0.5,2,2
+"2281",0.815194424783839,0.2,"value on non-rejected","Debiased",46,500,0.5,0.5,0.5,2,2
+"2282",0.615311671156505,0.2,"value on non-rejected","Qiu",46,500,0.5,0.5,0.5,2,2
+"2283",0.533,0.2,"porp rejected","Debiased",46,500,0.5,0.5,0.5,2,2
+"2284",0.533,0.2,"porp rejected","Qiu",46,500,0.5,0.5,0.5,2,2
+"2285",0.0499616512912882,0.2,"loss in value","Debiased",46,500,0.5,0.5,0.5,2,2
+"2286",0.129106463733552,0.2,"loss in value","Qiu",46,500,0.5,0.5,0.5,2,2
+"2287",0.712945590994371,0.2,"prop deferred with bounds crossing zero","Debiased",46,500,0.5,0.5,0.5,2,2
+"2288",0.530956848030019,0.2,"prop deferred with bounds crossing zero","Qiu",46,500,0.5,0.5,0.5,2,2
+"2289",0,0.2,"prop wrong treatment among non-deferred","Debiased",46,500,0.5,0.5,0.5,2,2
+"2290",0.295503211991435,0.2,"prop wrong treatment among non-deferred","Qiu",46,500,0.5,0.5,0.5,2,2
+"2331",0.823861335416718,0.2,"value on non-rejected","Debiased",47,500,0.5,0.5,0.5,2,2
+"2332",0.619816113842009,0.2,"value on non-rejected","Qiu",47,500,0.5,0.5,0.5,2,2
+"2333",0.417,0.2,"porp rejected","Debiased",47,500,0.5,0.5,0.5,2,2
+"2334",0.417,0.2,"porp rejected","Qiu",47,500,0.5,0.5,0.5,2,2
+"2335",0.0412397869655657,0.2,"loss in value","Debiased",47,500,0.5,0.5,0.5,2,2
+"2336",0.157078503199329,0.2,"loss in value","Qiu",47,500,0.5,0.5,0.5,2,2
+"2337",0.820143884892086,0.2,"prop deferred with bounds crossing zero","Debiased",47,500,0.5,0.5,0.5,2,2
+"2338",0.594724220623501,0.2,"prop deferred with bounds crossing zero","Qiu",47,500,0.5,0.5,0.5,2,2
+"2339",0.00514579759862779,0.2,"prop wrong treatment among non-deferred","Debiased",47,500,0.5,0.5,0.5,2,2
+"2340",0.336192109777015,0.2,"prop wrong treatment among non-deferred","Qiu",47,500,0.5,0.5,0.5,2,2
+"2381",0.841617085255866,0.2,"value on non-rejected","Debiased",48,500,0.5,0.5,0.5,2,2
+"2382",0.640906534715314,0.2,"value on non-rejected","Qiu",48,500,0.5,0.5,0.5,2,2
+"2383",0.334,0.2,"porp rejected","Debiased",48,500,0.5,0.5,0.5,2,2
+"2384",0.334,0.2,"porp rejected","Qiu",48,500,0.5,0.5,0.5,2,2
+"2385",0.0374182068469385,0.2,"loss in value","Debiased",48,500,0.5,0.5,0.5,2,2
+"2386",0.150611513058981,0.2,"loss in value","Qiu",48,500,0.5,0.5,0.5,2,2
+"2387",0.850299401197605,0.2,"prop deferred with bounds crossing zero","Debiased",48,500,0.5,0.5,0.5,2,2
+"2388",0.55688622754491,0.2,"prop deferred with bounds crossing zero","Qiu",48,500,0.5,0.5,0.5,2,2
+"2389",0,0.2,"prop wrong treatment among non-deferred","Debiased",48,500,0.5,0.5,0.5,2,2
+"2390",0.333333333333333,0.2,"prop wrong treatment among non-deferred","Qiu",48,500,0.5,0.5,0.5,2,2
+"2431",0.771847936556075,0.2,"value on non-rejected","Debiased",49,500,0.5,0.5,0.5,2,2
+"2432",0.697122446216888,0.2,"value on non-rejected","Qiu",49,500,0.5,0.5,0.5,2,2
+"2433",0.339,0.2,"porp rejected","Debiased",49,500,0.5,0.5,0.5,2,2
+"2434",0.339,0.2,"porp rejected","Qiu",49,500,0.5,0.5,0.5,2,2
+"2435",0.046632842697067,0.2,"loss in value","Debiased",49,500,0.5,0.5,0.5,2,2
+"2436",0.126227887836914,0.2,"loss in value","Qiu",49,500,0.5,0.5,0.5,2,2
+"2437",0.575221238938053,0.2,"prop deferred with bounds crossing zero","Debiased",49,500,0.5,0.5,0.5,2,2
+"2438",0.533923303834808,0.2,"prop deferred with bounds crossing zero","Qiu",49,500,0.5,0.5,0.5,2,2
+"2439",0.1089258698941,0.2,"prop wrong treatment among non-deferred","Debiased",49,500,0.5,0.5,0.5,2,2
+"2440",0.232980332829047,0.2,"prop wrong treatment among non-deferred","Qiu",49,500,0.5,0.5,0.5,2,2
+"2481",0.747016674729622,0.2,"value on non-rejected","Debiased",50,500,0.5,0.5,0.5,2,2
+"2482",0.640750666109637,0.2,"value on non-rejected","Qiu",50,500,0.5,0.5,0.5,2,2
+"2483",0.547,0.2,"porp rejected","Debiased",50,500,0.5,0.5,0.5,2,2
+"2484",0.547,0.2,"porp rejected","Qiu",50,500,0.5,0.5,0.5,2,2
+"2485",0.0376278928461154,0.2,"loss in value","Debiased",50,500,0.5,0.5,0.5,2,2
+"2486",0.100009744331232,0.2,"loss in value","Qiu",50,500,0.5,0.5,0.5,2,2
+"2487",0.552102376599634,0.2,"prop deferred with bounds crossing zero","Debiased",50,500,0.5,0.5,0.5,2,2
+"2488",0.497257769652651,0.2,"prop deferred with bounds crossing zero","Qiu",50,500,0.5,0.5,0.5,2,2
+"2489",0.0286975717439294,0.2,"prop wrong treatment among non-deferred","Debiased",50,500,0.5,0.5,0.5,2,2
+"2490",0.209713024282561,0.2,"prop wrong treatment among non-deferred","Qiu",50,500,0.5,0.5,0.5,2,2
+"2531",NA,0.2,"value on non-rejected","Debiased",51,500,0.5,0.5,0.5,2,2
+"2532",NA,0.2,"value on non-rejected","Qiu",51,500,0.5,0.5,0.5,2,2
+"2533",1,0.2,"porp rejected","Debiased",51,500,0.5,0.5,0.5,2,2
+"2534",1,0.2,"porp rejected","Qiu",51,500,0.5,0.5,0.5,2,2
+"2535",0.0702885515993012,0.2,"loss in value","Debiased",51,500,0.5,0.5,0.5,2,2
+"2536",0.0622688807388862,0.2,"loss in value","Qiu",51,500,0.5,0.5,0.5,2,2
+"2537",0.617,0.2,"prop deferred with bounds crossing zero","Debiased",51,500,0.5,0.5,0.5,2,2
+"2538",0.565,0.2,"prop deferred with bounds crossing zero","Qiu",51,500,0.5,0.5,0.5,2,2
+"2539",NA,0.2,"prop wrong treatment among non-deferred","Debiased",51,500,0.5,0.5,0.5,2,2
+"2540",NA,0.2,"prop wrong treatment among non-deferred","Qiu",51,500,0.5,0.5,0.5,2,2
+"2581",0.777955756476378,0.2,"value on non-rejected","Debiased",52,500,0.5,0.5,0.5,2,2
+"2582",0.641824338664271,0.2,"value on non-rejected","Qiu",52,500,0.5,0.5,0.5,2,2
+"2583",0.516,0.2,"porp rejected","Debiased",52,500,0.5,0.5,0.5,2,2
+"2584",0.516,0.2,"porp rejected","Qiu",52,500,0.5,0.5,0.5,2,2
+"2585",0.0299651046573388,0.2,"loss in value","Debiased",52,500,0.5,0.5,0.5,2,2
+"2586",0.0996177968026037,0.2,"loss in value","Qiu",52,500,0.5,0.5,0.5,2,2
+"2587",0.612403100775194,0.2,"prop deferred with bounds crossing zero","Debiased",52,500,0.5,0.5,0.5,2,2
+"2588",0.552325581395349,0.2,"prop deferred with bounds crossing zero","Qiu",52,500,0.5,0.5,0.5,2,2
+"2589",0.0103305785123967,0.2,"prop wrong treatment among non-deferred","Debiased",52,500,0.5,0.5,0.5,2,2
+"2590",0.235537190082645,0.2,"prop wrong treatment among non-deferred","Qiu",52,500,0.5,0.5,0.5,2,2
+"2631",NA,0.2,"value on non-rejected","Debiased",53,500,0.5,0.5,0.5,2,2
+"2632",NA,0.2,"value on non-rejected","Qiu",53,500,0.5,0.5,0.5,2,2
+"2633",1,0.2,"porp rejected","Debiased",53,500,0.5,0.5,0.5,2,2
+"2634",1,0.2,"porp rejected","Qiu",53,500,0.5,0.5,0.5,2,2
+"2635",0.0617992297466182,0.2,"loss in value","Debiased",53,500,0.5,0.5,0.5,2,2
+"2636",0.0758007023880795,0.2,"loss in value","Qiu",53,500,0.5,0.5,0.5,2,2
+"2637",0.573,0.2,"prop deferred with bounds crossing zero","Debiased",53,500,0.5,0.5,0.5,2,2
+"2638",0.642,0.2,"prop deferred with bounds crossing zero","Qiu",53,500,0.5,0.5,0.5,2,2
+"2639",NA,0.2,"prop wrong treatment among non-deferred","Debiased",53,500,0.5,0.5,0.5,2,2
+"2640",NA,0.2,"prop wrong treatment among non-deferred","Qiu",53,500,0.5,0.5,0.5,2,2
+"2681",0.768052524935028,0.2,"value on non-rejected","Debiased",54,500,0.5,0.5,0.5,2,2
+"2682",0.607587221543647,0.2,"value on non-rejected","Qiu",54,500,0.5,0.5,0.5,2,2
+"2683",0.46,0.2,"porp rejected","Debiased",54,500,0.5,0.5,0.5,2,2
+"2684",0.46,0.2,"porp rejected","Qiu",54,500,0.5,0.5,0.5,2,2
+"2685",0.038877829696442,0.2,"loss in value","Debiased",54,500,0.5,0.5,0.5,2,2
+"2686",0.130934284838242,0.2,"loss in value","Qiu",54,500,0.5,0.5,0.5,2,2
+"2687",0.541304347826087,0.2,"prop deferred with bounds crossing zero","Debiased",54,500,0.5,0.5,0.5,2,2
+"2688",0.426086956521739,0.2,"prop deferred with bounds crossing zero","Qiu",54,500,0.5,0.5,0.5,2,2
+"2689",0.0314814814814815,0.2,"prop wrong treatment among non-deferred","Debiased",54,500,0.5,0.5,0.5,2,2
+"2690",0.287037037037037,0.2,"prop wrong treatment among non-deferred","Qiu",54,500,0.5,0.5,0.5,2,2
+"2731",0.868779863945874,0.2,"value on non-rejected","Debiased",55,500,0.5,0.5,0.5,2,2
+"2732",0.681463818846602,0.2,"value on non-rejected","Qiu",55,500,0.5,0.5,0.5,2,2
+"2733",0.234,0.2,"porp rejected","Debiased",55,500,0.5,0.5,0.5,2,2
+"2734",0.234,0.2,"porp rejected","Qiu",55,500,0.5,0.5,0.5,2,2
+"2735",0.0453104112892761,0.2,"loss in value","Debiased",55,500,0.5,0.5,0.5,2,2
+"2736",0.172759896901586,0.2,"loss in value","Qiu",55,500,0.5,0.5,0.5,2,2
+"2737",0.760683760683761,0.2,"prop deferred with bounds crossing zero","Debiased",55,500,0.5,0.5,0.5,2,2
+"2738",0.653846153846154,0.2,"prop deferred with bounds crossing zero","Qiu",55,500,0.5,0.5,0.5,2,2
+"2739",0,0.2,"prop wrong treatment among non-deferred","Debiased",55,500,0.5,0.5,0.5,2,2
+"2740",0.246736292428198,0.2,"prop wrong treatment among non-deferred","Qiu",55,500,0.5,0.5,0.5,2,2
+"2781",0.810758405701884,0.2,"value on non-rejected","Debiased",56,500,0.5,0.5,0.5,2,2
+"2782",0.654926923056361,0.2,"value on non-rejected","Qiu",56,500,0.5,0.5,0.5,2,2
+"2783",0.393,0.2,"porp rejected","Debiased",56,500,0.5,0.5,0.5,2,2
+"2784",0.393,0.2,"porp rejected","Qiu",56,500,0.5,0.5,0.5,2,2
+"2785",0.0349268523314503,0.2,"loss in value","Debiased",56,500,0.5,0.5,0.5,2,2
+"2786",0.176497240486432,0.2,"loss in value","Qiu",56,500,0.5,0.5,0.5,2,2
+"2787",0.758269720101781,0.2,"prop deferred with bounds crossing zero","Debiased",56,500,0.5,0.5,0.5,2,2
+"2788",0.737913486005089,0.2,"prop deferred with bounds crossing zero","Qiu",56,500,0.5,0.5,0.5,2,2
+"2789",0.00164744645799012,0.2,"prop wrong treatment among non-deferred","Debiased",56,500,0.5,0.5,0.5,2,2
+"2790",0.273476112026359,0.2,"prop wrong treatment among non-deferred","Qiu",56,500,0.5,0.5,0.5,2,2
+"2831",0.772345544943748,0.2,"value on non-rejected","Debiased",57,500,0.5,0.5,0.5,2,2
+"2832",0.542102605231139,0.2,"value on non-rejected","Qiu",57,500,0.5,0.5,0.5,2,2
+"2833",0.624,0.2,"porp rejected","Debiased",57,500,0.5,0.5,0.5,2,2
+"2834",0.624,0.2,"porp rejected","Qiu",57,500,0.5,0.5,0.5,2,2
+"2835",0.0447965124065156,0.2,"loss in value","Debiased",57,500,0.5,0.5,0.5,2,2
+"2836",0.120895193190529,0.2,"loss in value","Qiu",57,500,0.5,0.5,0.5,2,2
+"2837",0.711538461538462,0.2,"prop deferred with bounds crossing zero","Debiased",57,500,0.5,0.5,0.5,2,2
+"2838",0.55448717948718,0.2,"prop deferred with bounds crossing zero","Qiu",57,500,0.5,0.5,0.5,2,2
+"2839",0,0.2,"prop wrong treatment among non-deferred","Debiased",57,500,0.5,0.5,0.5,2,2
+"2840",0.337765957446808,0.2,"prop wrong treatment among non-deferred","Qiu",57,500,0.5,0.5,0.5,2,2
+"2881",0.75610333501951,0.2,"value on non-rejected","Debiased",58,500,0.5,0.5,0.5,2,2
+"2882",0.587608379162661,0.2,"value on non-rejected","Qiu",58,500,0.5,0.5,0.5,2,2
+"2883",0.61,0.2,"porp rejected","Debiased",58,500,0.5,0.5,0.5,2,2
+"2884",0.61,0.2,"porp rejected","Qiu",58,500,0.5,0.5,0.5,2,2
+"2885",0.0293847664133833,0.2,"loss in value","Debiased",58,500,0.5,0.5,0.5,2,2
+"2886",0.113395255110029,0.2,"loss in value","Qiu",58,500,0.5,0.5,0.5,2,2
+"2887",0.519672131147541,0.2,"prop deferred with bounds crossing zero","Debiased",58,500,0.5,0.5,0.5,2,2
+"2888",0.59344262295082,0.2,"prop deferred with bounds crossing zero","Qiu",58,500,0.5,0.5,0.5,2,2
+"2889",0,0.2,"prop wrong treatment among non-deferred","Debiased",58,500,0.5,0.5,0.5,2,2
+"2890",0.28974358974359,0.2,"prop wrong treatment among non-deferred","Qiu",58,500,0.5,0.5,0.5,2,2
+"2931",0.847561900332299,0.2,"value on non-rejected","Debiased",59,500,0.5,0.5,0.5,2,2
+"2932",0.655409025428332,0.2,"value on non-rejected","Qiu",59,500,0.5,0.5,0.5,2,2
+"2933",0.327,0.2,"porp rejected","Debiased",59,500,0.5,0.5,0.5,2,2
+"2934",0.327,0.2,"porp rejected","Qiu",59,500,0.5,0.5,0.5,2,2
+"2935",0.0399505553808165,0.2,"loss in value","Debiased",59,500,0.5,0.5,0.5,2,2
+"2936",0.145962629281314,0.2,"loss in value","Qiu",59,500,0.5,0.5,0.5,2,2
+"2937",0.908256880733945,0.2,"prop deferred with bounds crossing zero","Debiased",59,500,0.5,0.5,0.5,2,2
+"2938",0.547400611620795,0.2,"prop deferred with bounds crossing zero","Qiu",59,500,0.5,0.5,0.5,2,2
+"2939",0,0.2,"prop wrong treatment among non-deferred","Debiased",59,500,0.5,0.5,0.5,2,2
+"2940",0.280832095096582,0.2,"prop wrong treatment among non-deferred","Qiu",59,500,0.5,0.5,0.5,2,2
+"2981",0.828764210689546,0.2,"value on non-rejected","Debiased",60,500,0.5,0.5,0.5,2,2
+"2982",0.711017347336994,0.2,"value on non-rejected","Qiu",60,500,0.5,0.5,0.5,2,2
+"2983",0.395,0.2,"porp rejected","Debiased",60,500,0.5,0.5,0.5,2,2
+"2984",0.395,0.2,"porp rejected","Qiu",60,500,0.5,0.5,0.5,2,2
+"2985",0.0399741198582748,0.2,"loss in value","Debiased",60,500,0.5,0.5,0.5,2,2
+"2986",0.123956348503355,0.2,"loss in value","Qiu",60,500,0.5,0.5,0.5,2,2
+"2987",0.681012658227848,0.2,"prop deferred with bounds crossing zero","Debiased",60,500,0.5,0.5,0.5,2,2
+"2988",0.559493670886076,0.2,"prop deferred with bounds crossing zero","Qiu",60,500,0.5,0.5,0.5,2,2
+"2989",0,0.2,"prop wrong treatment among non-deferred","Debiased",60,500,0.5,0.5,0.5,2,2
+"2990",0.241322314049587,0.2,"prop wrong treatment among non-deferred","Qiu",60,500,0.5,0.5,0.5,2,2
+"3031",0.814953007101285,0.2,"value on non-rejected","Debiased",61,500,0.5,0.5,0.5,2,2
+"3032",0.718544566202751,0.2,"value on non-rejected","Qiu",61,500,0.5,0.5,0.5,2,2
+"3033",0.311,0.2,"porp rejected","Debiased",61,500,0.5,0.5,0.5,2,2
+"3034",0.311,0.2,"porp rejected","Qiu",61,500,0.5,0.5,0.5,2,2
+"3035",0.0367900883789352,0.2,"loss in value","Debiased",61,500,0.5,0.5,0.5,2,2
+"3036",0.125669155398994,0.2,"loss in value","Qiu",61,500,0.5,0.5,0.5,2,2
+"3037",0.84887459807074,0.2,"prop deferred with bounds crossing zero","Debiased",61,500,0.5,0.5,0.5,2,2
+"3038",0.713826366559486,0.2,"prop deferred with bounds crossing zero","Qiu",61,500,0.5,0.5,0.5,2,2
+"3039",0.0188679245283019,0.2,"prop wrong treatment among non-deferred","Debiased",61,500,0.5,0.5,0.5,2,2
+"3040",0.240928882438316,0.2,"prop wrong treatment among non-deferred","Qiu",61,500,0.5,0.5,0.5,2,2
+"3081",0.743521747133404,0.2,"value on non-rejected","Debiased",62,500,0.5,0.5,0.5,2,2
+"3082",0.58268555577833,0.2,"value on non-rejected","Qiu",62,500,0.5,0.5,0.5,2,2
+"3083",0.584,0.2,"porp rejected","Debiased",62,500,0.5,0.5,0.5,2,2
+"3084",0.584,0.2,"porp rejected","Qiu",62,500,0.5,0.5,0.5,2,2
+"3085",0.0417468677586348,0.2,"loss in value","Debiased",62,500,0.5,0.5,0.5,2,2
+"3086",0.113434672933278,0.2,"loss in value","Qiu",62,500,0.5,0.5,0.5,2,2
+"3087",0.590753424657534,0.2,"prop deferred with bounds crossing zero","Debiased",62,500,0.5,0.5,0.5,2,2
+"3088",0.51027397260274,0.2,"prop deferred with bounds crossing zero","Qiu",62,500,0.5,0.5,0.5,2,2
+"3089",0.0264423076923077,0.2,"prop wrong treatment among non-deferred","Debiased",62,500,0.5,0.5,0.5,2,2
+"3090",0.293269230769231,0.2,"prop wrong treatment among non-deferred","Qiu",62,500,0.5,0.5,0.5,2,2
+"3131",0.792196320525459,0.2,"value on non-rejected","Debiased",63,500,0.5,0.5,0.5,2,2
+"3132",0.686251589219702,0.2,"value on non-rejected","Qiu",63,500,0.5,0.5,0.5,2,2
+"3133",0.369,0.2,"porp rejected","Debiased",63,500,0.5,0.5,0.5,2,2
+"3134",0.369,0.2,"porp rejected","Qiu",63,500,0.5,0.5,0.5,2,2
+"3135",0.0416179474321765,0.2,"loss in value","Debiased",63,500,0.5,0.5,0.5,2,2
+"3136",0.138906397582579,0.2,"loss in value","Qiu",63,500,0.5,0.5,0.5,2,2
+"3137",0.639566395663957,0.2,"prop deferred with bounds crossing zero","Debiased",63,500,0.5,0.5,0.5,2,2
+"3138",0.598915989159892,0.2,"prop deferred with bounds crossing zero","Qiu",63,500,0.5,0.5,0.5,2,2
+"3139",0.01743264659271,0.2,"prop wrong treatment among non-deferred","Debiased",63,500,0.5,0.5,0.5,2,2
+"3140",0.221870047543582,0.2,"prop wrong treatment among non-deferred","Qiu",63,500,0.5,0.5,0.5,2,2
+"3181",0.813941590068625,0.2,"value on non-rejected","Debiased",64,500,0.5,0.5,0.5,2,2
+"3182",0.704131363589527,0.2,"value on non-rejected","Qiu",64,500,0.5,0.5,0.5,2,2
+"3183",0.333,0.2,"porp rejected","Debiased",64,500,0.5,0.5,0.5,2,2
+"3184",0.333,0.2,"porp rejected","Qiu",64,500,0.5,0.5,0.5,2,2
+"3185",0.0418187169559877,0.2,"loss in value","Debiased",64,500,0.5,0.5,0.5,2,2
+"3186",0.125105799453211,0.2,"loss in value","Qiu",64,500,0.5,0.5,0.5,2,2
+"3187",0.780780780780781,0.2,"prop deferred with bounds crossing zero","Debiased",64,500,0.5,0.5,0.5,2,2
+"3188",0.483483483483483,0.2,"prop deferred with bounds crossing zero","Qiu",64,500,0.5,0.5,0.5,2,2
+"3189",0.00299850074962519,0.2,"prop wrong treatment among non-deferred","Debiased",64,500,0.5,0.5,0.5,2,2
+"3190",0.197901049475262,0.2,"prop wrong treatment among non-deferred","Qiu",64,500,0.5,0.5,0.5,2,2
+"3231",0.755839133314143,0.2,"value on non-rejected","Debiased",65,500,0.5,0.5,0.5,2,2
+"3232",0.703887926817819,0.2,"value on non-rejected","Qiu",65,500,0.5,0.5,0.5,2,2
+"3233",0.789,0.2,"porp rejected","Debiased",65,500,0.5,0.5,0.5,2,2
+"3234",0.789,0.2,"porp rejected","Qiu",65,500,0.5,0.5,0.5,2,2
+"3235",0.0573904818970396,0.2,"loss in value","Debiased",65,500,0.5,0.5,0.5,2,2
+"3236",0.0665796198810657,0.2,"loss in value","Qiu",65,500,0.5,0.5,0.5,2,2
+"3237",0.5893536121673,0.2,"prop deferred with bounds crossing zero","Debiased",65,500,0.5,0.5,0.5,2,2
+"3238",0.546261089987326,0.2,"prop deferred with bounds crossing zero","Qiu",65,500,0.5,0.5,0.5,2,2
+"3239",0,0.2,"prop wrong treatment among non-deferred","Debiased",65,500,0.5,0.5,0.5,2,2
+"3240",0.123222748815166,0.2,"prop wrong treatment among non-deferred","Qiu",65,500,0.5,0.5,0.5,2,2
+"3281",0.770179679944478,0.2,"value on non-rejected","Debiased",66,500,0.5,0.5,0.5,2,2
+"3282",0.533584932110117,0.2,"value on non-rejected","Qiu",66,500,0.5,0.5,0.5,2,2
+"3283",0.826,0.2,"porp rejected","Debiased",66,500,0.5,0.5,0.5,2,2
+"3284",0.826,0.2,"porp rejected","Qiu",66,500,0.5,0.5,0.5,2,2
+"3285",0.0497819167148474,0.2,"loss in value","Debiased",66,500,0.5,0.5,0.5,2,2
+"3286",0.090766429753947,0.2,"loss in value","Qiu",66,500,0.5,0.5,0.5,2,2
+"3287",0.577481840193705,0.2,"prop deferred with bounds crossing zero","Debiased",66,500,0.5,0.5,0.5,2,2
+"3288",0.570217917675545,0.2,"prop deferred with bounds crossing zero","Qiu",66,500,0.5,0.5,0.5,2,2
+"3289",0,0.2,"prop wrong treatment among non-deferred","Debiased",66,500,0.5,0.5,0.5,2,2
+"3290",0.327586206896552,0.2,"prop wrong treatment among non-deferred","Qiu",66,500,0.5,0.5,0.5,2,2
+"3331",0.80136539477295,0.2,"value on non-rejected","Debiased",67,500,0.5,0.5,0.5,2,2
+"3332",0.64078321640793,0.2,"value on non-rejected","Qiu",67,500,0.5,0.5,0.5,2,2
+"3333",0.392,0.2,"porp rejected","Debiased",67,500,0.5,0.5,0.5,2,2
+"3334",0.392,0.2,"porp rejected","Qiu",67,500,0.5,0.5,0.5,2,2
+"3335",0.0415423880163596,0.2,"loss in value","Debiased",67,500,0.5,0.5,0.5,2,2
+"3336",0.14323945414265,0.2,"loss in value","Qiu",67,500,0.5,0.5,0.5,2,2
+"3337",0.767857142857143,0.2,"prop deferred with bounds crossing zero","Debiased",67,500,0.5,0.5,0.5,2,2
+"3338",0.658163265306122,0.2,"prop deferred with bounds crossing zero","Qiu",67,500,0.5,0.5,0.5,2,2
+"3339",0.0131578947368421,0.2,"prop wrong treatment among non-deferred","Debiased",67,500,0.5,0.5,0.5,2,2
+"3340",0.297697368421053,0.2,"prop wrong treatment among non-deferred","Qiu",67,500,0.5,0.5,0.5,2,2
+"3381",0.780349260749038,0.2,"value on non-rejected","Debiased",68,500,0.5,0.5,0.5,2,2
+"3382",0.4201981221457,0.2,"value on non-rejected","Qiu",68,500,0.5,0.5,0.5,2,2
+"3383",0.739,0.2,"porp rejected","Debiased",68,500,0.5,0.5,0.5,2,2
+"3384",0.739,0.2,"porp rejected","Qiu",68,500,0.5,0.5,0.5,2,2
+"3385",0.0473877007844945,0.2,"loss in value","Debiased",68,500,0.5,0.5,0.5,2,2
+"3386",0.143718600656614,0.2,"loss in value","Qiu",68,500,0.5,0.5,0.5,2,2
+"3387",0.621109607577808,0.2,"prop deferred with bounds crossing zero","Debiased",68,500,0.5,0.5,0.5,2,2
+"3388",0.577807848443843,0.2,"prop deferred with bounds crossing zero","Qiu",68,500,0.5,0.5,0.5,2,2
+"3389",0,0.2,"prop wrong treatment among non-deferred","Debiased",68,500,0.5,0.5,0.5,2,2
+"3390",0.498084291187739,0.2,"prop wrong treatment among non-deferred","Qiu",68,500,0.5,0.5,0.5,2,2
+"3431",0.722939865172844,0.2,"value on non-rejected","Debiased",69,500,0.5,0.5,0.5,2,2
+"3432",0.623318860603394,0.2,"value on non-rejected","Qiu",69,500,0.5,0.5,0.5,2,2
+"3433",0.456,0.2,"porp rejected","Debiased",69,500,0.5,0.5,0.5,2,2
+"3434",0.456,0.2,"porp rejected","Qiu",69,500,0.5,0.5,0.5,2,2
+"3435",0.0337399774349422,0.2,"loss in value","Debiased",69,500,0.5,0.5,0.5,2,2
+"3436",0.137457328567006,0.2,"loss in value","Qiu",69,500,0.5,0.5,0.5,2,2
+"3437",0.399122807017544,0.2,"prop deferred with bounds crossing zero","Debiased",69,500,0.5,0.5,0.5,2,2
+"3438",0.56359649122807,0.2,"prop deferred with bounds crossing zero","Qiu",69,500,0.5,0.5,0.5,2,2
+"3439",0.0569852941176471,0.2,"prop wrong treatment among non-deferred","Debiased",69,500,0.5,0.5,0.5,2,2
+"3440",0.367647058823529,0.2,"prop wrong treatment among non-deferred","Qiu",69,500,0.5,0.5,0.5,2,2
+"3481",0.76622010717663,0.2,"value on non-rejected","Debiased",70,500,0.5,0.5,0.5,2,2
+"3482",0.630516906718667,0.2,"value on non-rejected","Qiu",70,500,0.5,0.5,0.5,2,2
+"3483",0.55,0.2,"porp rejected","Debiased",70,500,0.5,0.5,0.5,2,2
+"3484",0.55,0.2,"porp rejected","Qiu",70,500,0.5,0.5,0.5,2,2
+"3485",0.0350052555987829,0.2,"loss in value","Debiased",70,500,0.5,0.5,0.5,2,2
+"3486",0.11588107604781,0.2,"loss in value","Qiu",70,500,0.5,0.5,0.5,2,2
+"3487",0.532727272727273,0.2,"prop deferred with bounds crossing zero","Debiased",70,500,0.5,0.5,0.5,2,2
+"3488",0.532727272727273,0.2,"prop deferred with bounds crossing zero","Qiu",70,500,0.5,0.5,0.5,2,2
+"3489",0.0311111111111111,0.2,"prop wrong treatment among non-deferred","Debiased",70,500,0.5,0.5,0.5,2,2
+"3490",0.264444444444444,0.2,"prop wrong treatment among non-deferred","Qiu",70,500,0.5,0.5,0.5,2,2
+"3531",NA,0.2,"value on non-rejected","Debiased",71,500,0.5,0.5,0.5,2,2
+"3532",NA,0.2,"value on non-rejected","Qiu",71,500,0.5,0.5,0.5,2,2
+"3533",1,0.2,"porp rejected","Debiased",71,500,0.5,0.5,0.5,2,2
+"3534",1,0.2,"porp rejected","Qiu",71,500,0.5,0.5,0.5,2,2
+"3535",0.0661429752329373,0.2,"loss in value","Debiased",71,500,0.5,0.5,0.5,2,2
+"3536",0.0536827425275994,0.2,"loss in value","Qiu",71,500,0.5,0.5,0.5,2,2
+"3537",0.624,0.2,"prop deferred with bounds crossing zero","Debiased",71,500,0.5,0.5,0.5,2,2
+"3538",0.5,0.2,"prop deferred with bounds crossing zero","Qiu",71,500,0.5,0.5,0.5,2,2
+"3539",NA,0.2,"prop wrong treatment among non-deferred","Debiased",71,500,0.5,0.5,0.5,2,2
+"3540",NA,0.2,"prop wrong treatment among non-deferred","Qiu",71,500,0.5,0.5,0.5,2,2
+"3581",NA,0.2,"value on non-rejected","Debiased",72,500,0.5,0.5,0.5,2,2
+"3582",NA,0.2,"value on non-rejected","Qiu",72,500,0.5,0.5,0.5,2,2
+"3583",1,0.2,"porp rejected","Debiased",72,500,0.5,0.5,0.5,2,2
+"3584",1,0.2,"porp rejected","Qiu",72,500,0.5,0.5,0.5,2,2
+"3585",0.0586615002269101,0.2,"loss in value","Debiased",72,500,0.5,0.5,0.5,2,2
+"3586",0.0681191804442452,0.2,"loss in value","Qiu",72,500,0.5,0.5,0.5,2,2
+"3587",0.562,0.2,"prop deferred with bounds crossing zero","Debiased",72,500,0.5,0.5,0.5,2,2
+"3588",0.566,0.2,"prop deferred with bounds crossing zero","Qiu",72,500,0.5,0.5,0.5,2,2
+"3589",NA,0.2,"prop wrong treatment among non-deferred","Debiased",72,500,0.5,0.5,0.5,2,2
+"3590",NA,0.2,"prop wrong treatment among non-deferred","Qiu",72,500,0.5,0.5,0.5,2,2
+"3631",0.838548887398197,0.2,"value on non-rejected","Debiased",73,500,0.5,0.5,0.5,2,2
+"3632",0.620413117693792,0.2,"value on non-rejected","Qiu",73,500,0.5,0.5,0.5,2,2
+"3633",0.375,0.2,"porp rejected","Debiased",73,500,0.5,0.5,0.5,2,2
+"3634",0.375,0.2,"porp rejected","Qiu",73,500,0.5,0.5,0.5,2,2
+"3635",0.0447238697920211,0.2,"loss in value","Debiased",73,500,0.5,0.5,0.5,2,2
+"3636",0.167931486709667,0.2,"loss in value","Qiu",73,500,0.5,0.5,0.5,2,2
+"3637",0.808,0.2,"prop deferred with bounds crossing zero","Debiased",73,500,0.5,0.5,0.5,2,2
+"3638",0.549333333333333,0.2,"prop deferred with bounds crossing zero","Qiu",73,500,0.5,0.5,0.5,2,2
+"3639",0,0.2,"prop wrong treatment among non-deferred","Debiased",73,500,0.5,0.5,0.5,2,2
+"3640",0.3264,0.2,"prop wrong treatment among non-deferred","Qiu",73,500,0.5,0.5,0.5,2,2
+"3681",0.742426785039661,0.2,"value on non-rejected","Debiased",74,500,0.5,0.5,0.5,2,2
+"3682",0.664871716693433,0.2,"value on non-rejected","Qiu",74,500,0.5,0.5,0.5,2,2
+"3683",0.597,0.2,"porp rejected","Debiased",74,500,0.5,0.5,0.5,2,2
+"3684",0.597,0.2,"porp rejected","Qiu",74,500,0.5,0.5,0.5,2,2
+"3685",0.0463169260257059,0.2,"loss in value","Debiased",74,500,0.5,0.5,0.5,2,2
+"3686",0.102382689833902,0.2,"loss in value","Qiu",74,500,0.5,0.5,0.5,2,2
+"3687",0.559463986599665,0.2,"prop deferred with bounds crossing zero","Debiased",74,500,0.5,0.5,0.5,2,2
+"3688",0.611390284757119,0.2,"prop deferred with bounds crossing zero","Qiu",74,500,0.5,0.5,0.5,2,2
+"3689",0.0372208436724566,0.2,"prop wrong treatment among non-deferred","Debiased",74,500,0.5,0.5,0.5,2,2
+"3690",0.210918114143921,0.2,"prop wrong treatment among non-deferred","Qiu",74,500,0.5,0.5,0.5,2,2
+"3731",0.739712261786778,0.2,"value on non-rejected","Debiased",75,500,0.5,0.5,0.5,2,2
+"3732",0.623907512106234,0.2,"value on non-rejected","Qiu",75,500,0.5,0.5,0.5,2,2
+"3733",0.583,0.2,"porp rejected","Debiased",75,500,0.5,0.5,0.5,2,2
+"3734",0.583,0.2,"porp rejected","Qiu",75,500,0.5,0.5,0.5,2,2
+"3735",0.0389917082041636,0.2,"loss in value","Debiased",75,500,0.5,0.5,0.5,2,2
+"3736",0.114430283653888,0.2,"loss in value","Qiu",75,500,0.5,0.5,0.5,2,2
+"3737",0.548885077186964,0.2,"prop deferred with bounds crossing zero","Debiased",75,500,0.5,0.5,0.5,2,2
+"3738",0.562607204116638,0.2,"prop deferred with bounds crossing zero","Qiu",75,500,0.5,0.5,0.5,2,2
+"3739",0,0.2,"prop wrong treatment among non-deferred","Debiased",75,500,0.5,0.5,0.5,2,2
+"3740",0.258992805755396,0.2,"prop wrong treatment among non-deferred","Qiu",75,500,0.5,0.5,0.5,2,2
+"3781",0.879529719329388,0.2,"value on non-rejected","Debiased",76,500,0.5,0.5,0.5,2,2
+"3782",0.618854503801636,0.2,"value on non-rejected","Qiu",76,500,0.5,0.5,0.5,2,2
+"3783",0.276,0.2,"porp rejected","Debiased",76,500,0.5,0.5,0.5,2,2
+"3784",0.276,0.2,"porp rejected","Qiu",76,500,0.5,0.5,0.5,2,2
+"3785",0.0445340005121409,0.2,"loss in value","Debiased",76,500,0.5,0.5,0.5,2,2
+"3786",0.203675417294862,0.2,"loss in value","Qiu",76,500,0.5,0.5,0.5,2,2
+"3787",0.942028985507246,0.2,"prop deferred with bounds crossing zero","Debiased",76,500,0.5,0.5,0.5,2,2
+"3788",0.568840579710145,0.2,"prop deferred with bounds crossing zero","Qiu",76,500,0.5,0.5,0.5,2,2
+"3789",0,0.2,"prop wrong treatment among non-deferred","Debiased",76,500,0.5,0.5,0.5,2,2
+"3790",0.325966850828729,0.2,"prop wrong treatment among non-deferred","Qiu",76,500,0.5,0.5,0.5,2,2
+"3831",0.887337415476953,0.2,"value on non-rejected","Debiased",77,500,0.5,0.5,0.5,2,2
+"3832",0.616852581452503,0.2,"value on non-rejected","Qiu",77,500,0.5,0.5,0.5,2,2
+"3833",0.392,0.2,"porp rejected","Debiased",77,500,0.5,0.5,0.5,2,2
+"3834",0.392,0.2,"porp rejected","Qiu",77,500,0.5,0.5,0.5,2,2
+"3835",0.0357178411979221,0.2,"loss in value","Debiased",77,500,0.5,0.5,0.5,2,2
+"3836",0.182511856138209,0.2,"loss in value","Qiu",77,500,0.5,0.5,0.5,2,2
+"3837",0.752551020408163,0.2,"prop deferred with bounds crossing zero","Debiased",77,500,0.5,0.5,0.5,2,2
+"3838",0.599489795918367,0.2,"prop deferred with bounds crossing zero","Qiu",77,500,0.5,0.5,0.5,2,2
+"3839",0,0.2,"prop wrong treatment among non-deferred","Debiased",77,500,0.5,0.5,0.5,2,2
+"3840",0.325657894736842,0.2,"prop wrong treatment among non-deferred","Qiu",77,500,0.5,0.5,0.5,2,2
+"3881",0.73050027413853,0.2,"value on non-rejected","Debiased",78,500,0.5,0.5,0.5,2,2
+"3882",0.630248615271561,0.2,"value on non-rejected","Qiu",78,500,0.5,0.5,0.5,2,2
+"3883",0.573,0.2,"porp rejected","Debiased",78,500,0.5,0.5,0.5,2,2
+"3884",0.573,0.2,"porp rejected","Qiu",78,500,0.5,0.5,0.5,2,2
+"3885",0.0356921945559844,0.2,"loss in value","Debiased",78,500,0.5,0.5,0.5,2,2
+"3886",0.125944053255051,0.2,"loss in value","Qiu",78,500,0.5,0.5,0.5,2,2
+"3887",0.413612565445026,0.2,"prop deferred with bounds crossing zero","Debiased",78,500,0.5,0.5,0.5,2,2
+"3888",0.62652705061082,0.2,"prop deferred with bounds crossing zero","Qiu",78,500,0.5,0.5,0.5,2,2
+"3889",0.0374707259953162,0.2,"prop wrong treatment among non-deferred","Debiased",78,500,0.5,0.5,0.5,2,2
+"3890",0.257611241217799,0.2,"prop wrong treatment among non-deferred","Qiu",78,500,0.5,0.5,0.5,2,2
+"3931",NA,0.2,"value on non-rejected","Debiased",79,500,0.5,0.5,0.5,2,2
+"3932",NA,0.2,"value on non-rejected","Qiu",79,500,0.5,0.5,0.5,2,2
+"3933",1,0.2,"porp rejected","Debiased",79,500,0.5,0.5,0.5,2,2
+"3934",1,0.2,"porp rejected","Qiu",79,500,0.5,0.5,0.5,2,2
+"3935",0.0491518269431087,0.2,"loss in value","Debiased",79,500,0.5,0.5,0.5,2,2
+"3936",0.0703138373735786,0.2,"loss in value","Qiu",79,500,0.5,0.5,0.5,2,2
+"3937",0.47,0.2,"prop deferred with bounds crossing zero","Debiased",79,500,0.5,0.5,0.5,2,2
+"3938",0.585,0.2,"prop deferred with bounds crossing zero","Qiu",79,500,0.5,0.5,0.5,2,2
+"3939",NA,0.2,"prop wrong treatment among non-deferred","Debiased",79,500,0.5,0.5,0.5,2,2
+"3940",NA,0.2,"prop wrong treatment among non-deferred","Qiu",79,500,0.5,0.5,0.5,2,2
+"3981",0.833951397702701,0.2,"value on non-rejected","Debiased",80,500,0.5,0.5,0.5,2,2
+"3982",0.637137593209839,0.2,"value on non-rejected","Qiu",80,500,0.5,0.5,0.5,2,2
+"3983",0.369,0.2,"porp rejected","Debiased",80,500,0.5,0.5,0.5,2,2
+"3984",0.369,0.2,"porp rejected","Qiu",80,500,0.5,0.5,0.5,2,2
+"3985",0.0341270737681243,0.2,"loss in value","Debiased",80,500,0.5,0.5,0.5,2,2
+"3986",0.161272718878155,0.2,"loss in value","Qiu",80,500,0.5,0.5,0.5,2,2
+"3987",0.818428184281843,0.2,"prop deferred with bounds crossing zero","Debiased",80,500,0.5,0.5,0.5,2,2
+"3988",0.550135501355014,0.2,"prop deferred with bounds crossing zero","Qiu",80,500,0.5,0.5,0.5,2,2
+"3989",0.00316957210776545,0.2,"prop wrong treatment among non-deferred","Debiased",80,500,0.5,0.5,0.5,2,2
+"3990",0.294770206022187,0.2,"prop wrong treatment among non-deferred","Qiu",80,500,0.5,0.5,0.5,2,2
+"4031",0.797773748177606,0.2,"value on non-rejected","Debiased",81,500,0.5,0.5,0.5,2,2
+"4032",0.555630975504753,0.2,"value on non-rejected","Qiu",81,500,0.5,0.5,0.5,2,2
+"4033",0.632,0.2,"porp rejected","Debiased",81,500,0.5,0.5,0.5,2,2
+"4034",0.632,0.2,"porp rejected","Qiu",81,500,0.5,0.5,0.5,2,2
+"4035",0.0407055246637181,0.2,"loss in value","Debiased",81,500,0.5,0.5,0.5,2,2
+"4036",0.129920244799073,0.2,"loss in value","Qiu",81,500,0.5,0.5,0.5,2,2
+"4037",0.602848101265823,0.2,"prop deferred with bounds crossing zero","Debiased",81,500,0.5,0.5,0.5,2,2
+"4038",0.552215189873418,0.2,"prop deferred with bounds crossing zero","Qiu",81,500,0.5,0.5,0.5,2,2
+"4039",0,0.2,"prop wrong treatment among non-deferred","Debiased",81,500,0.5,0.5,0.5,2,2
+"4040",0.35054347826087,0.2,"prop wrong treatment among non-deferred","Qiu",81,500,0.5,0.5,0.5,2,2
+"4081",0.748496116291268,0.2,"value on non-rejected","Debiased",82,500,0.5,0.5,0.5,2,2
+"4082",0.625899014241653,0.2,"value on non-rejected","Qiu",82,500,0.5,0.5,0.5,2,2
+"4083",0.552,0.2,"porp rejected","Debiased",82,500,0.5,0.5,0.5,2,2
+"4084",0.552,0.2,"porp rejected","Qiu",82,500,0.5,0.5,0.5,2,2
+"4085",0.0423738326209694,0.2,"loss in value","Debiased",82,500,0.5,0.5,0.5,2,2
+"4086",0.123485644380483,0.2,"loss in value","Qiu",82,500,0.5,0.5,0.5,2,2
+"4087",0.543478260869565,0.2,"prop deferred with bounds crossing zero","Debiased",82,500,0.5,0.5,0.5,2,2
+"4088",0.632246376811594,0.2,"prop deferred with bounds crossing zero","Qiu",82,500,0.5,0.5,0.5,2,2
+"4089",0.00223214285714286,0.2,"prop wrong treatment among non-deferred","Debiased",82,500,0.5,0.5,0.5,2,2
+"4090",0.270089285714286,0.2,"prop wrong treatment among non-deferred","Qiu",82,500,0.5,0.5,0.5,2,2
+"4131",0.794526519739077,0.2,"value on non-rejected","Debiased",83,500,0.5,0.5,0.5,2,2
+"4132",0.713712323836328,0.2,"value on non-rejected","Qiu",83,500,0.5,0.5,0.5,2,2
+"4133",0.371,0.2,"porp rejected","Debiased",83,500,0.5,0.5,0.5,2,2
+"4134",0.371,0.2,"porp rejected","Qiu",83,500,0.5,0.5,0.5,2,2
+"4135",0.0442128838881425,0.2,"loss in value","Debiased",83,500,0.5,0.5,0.5,2,2
+"4136",0.118028606356215,0.2,"loss in value","Qiu",83,500,0.5,0.5,0.5,2,2
+"4137",0.690026954177898,0.2,"prop deferred with bounds crossing zero","Debiased",83,500,0.5,0.5,0.5,2,2
+"4138",0.592991913746631,0.2,"prop deferred with bounds crossing zero","Qiu",83,500,0.5,0.5,0.5,2,2
+"4139",0.00635930047694754,0.2,"prop wrong treatment among non-deferred","Debiased",83,500,0.5,0.5,0.5,2,2
+"4140",0.197138314785374,0.2,"prop wrong treatment among non-deferred","Qiu",83,500,0.5,0.5,0.5,2,2
+"4181",0.851818373795251,0.2,"value on non-rejected","Debiased",84,500,0.5,0.5,0.5,2,2
+"4182",0.633071417698319,0.2,"value on non-rejected","Qiu",84,500,0.5,0.5,0.5,2,2
+"4183",0.38,0.2,"porp rejected","Debiased",84,500,0.5,0.5,0.5,2,2
+"4184",0.38,0.2,"porp rejected","Qiu",84,500,0.5,0.5,0.5,2,2
+"4185",0.044959273916259,0.2,"loss in value","Debiased",84,500,0.5,0.5,0.5,2,2
+"4186",0.15128966848249,0.2,"loss in value","Qiu",84,500,0.5,0.5,0.5,2,2
+"4187",0.884210526315789,0.2,"prop deferred with bounds crossing zero","Debiased",84,500,0.5,0.5,0.5,2,2
+"4188",0.5,0.2,"prop deferred with bounds crossing zero","Qiu",84,500,0.5,0.5,0.5,2,2
+"4189",0,0.2,"prop wrong treatment among non-deferred","Debiased",84,500,0.5,0.5,0.5,2,2
+"4190",0.27741935483871,0.2,"prop wrong treatment among non-deferred","Qiu",84,500,0.5,0.5,0.5,2,2
+"4231",0.871215756766272,0.2,"value on non-rejected","Debiased",85,500,0.5,0.5,0.5,2,2
+"4232",0.626165825254296,0.2,"value on non-rejected","Qiu",85,500,0.5,0.5,0.5,2,2
+"4233",0.24,0.2,"porp rejected","Debiased",85,500,0.5,0.5,0.5,2,2
+"4234",0.24,0.2,"porp rejected","Qiu",85,500,0.5,0.5,0.5,2,2
+"4235",0.0477750682330041,0.2,"loss in value","Debiased",85,500,0.5,0.5,0.5,2,2
+"4236",0.198140350943702,0.2,"loss in value","Qiu",85,500,0.5,0.5,0.5,2,2
+"4237",0.720833333333333,0.2,"prop deferred with bounds crossing zero","Debiased",85,500,0.5,0.5,0.5,2,2
+"4238",0.7,0.2,"prop deferred with bounds crossing zero","Qiu",85,500,0.5,0.5,0.5,2,2
+"4239",0,0.2,"prop wrong treatment among non-deferred","Debiased",85,500,0.5,0.5,0.5,2,2
+"4240",0.318421052631579,0.2,"prop wrong treatment among non-deferred","Qiu",85,500,0.5,0.5,0.5,2,2
+"4281",0.79354174148246,0.2,"value on non-rejected","Debiased",86,500,0.5,0.5,0.5,2,2
+"4282",0.60850371796601,0.2,"value on non-rejected","Qiu",86,500,0.5,0.5,0.5,2,2
+"4283",0.279,0.2,"porp rejected","Debiased",86,500,0.5,0.5,0.5,2,2
+"4284",0.279,0.2,"porp rejected","Qiu",86,500,0.5,0.5,0.5,2,2
+"4285",0.0319032320294401,0.2,"loss in value","Debiased",86,500,0.5,0.5,0.5,2,2
+"4286",0.202953309660895,0.2,"loss in value","Qiu",86,500,0.5,0.5,0.5,2,2
+"4287",0.777777777777778,0.2,"prop deferred with bounds crossing zero","Debiased",86,500,0.5,0.5,0.5,2,2
+"4288",0.57347670250896,0.2,"prop deferred with bounds crossing zero","Qiu",86,500,0.5,0.5,0.5,2,2
+"4289",0.058252427184466,0.2,"prop wrong treatment among non-deferred","Debiased",86,500,0.5,0.5,0.5,2,2
+"4290",0.325936199722608,0.2,"prop wrong treatment among non-deferred","Qiu",86,500,0.5,0.5,0.5,2,2
+"4331",0.806096178413754,0.2,"value on non-rejected","Debiased",87,500,0.5,0.5,0.5,2,2
+"4332",0.687503487384593,0.2,"value on non-rejected","Qiu",87,500,0.5,0.5,0.5,2,2
+"4333",0.285,0.2,"porp rejected","Debiased",87,500,0.5,0.5,0.5,2,2
+"4334",0.285,0.2,"porp rejected","Qiu",87,500,0.5,0.5,0.5,2,2
+"4335",0.0323805378338147,0.2,"loss in value","Debiased",87,500,0.5,0.5,0.5,2,2
+"4336",0.155063436374691,0.2,"loss in value","Qiu",87,500,0.5,0.5,0.5,2,2
+"4337",0.828070175438597,0.2,"prop deferred with bounds crossing zero","Debiased",87,500,0.5,0.5,0.5,2,2
+"4338",0.645614035087719,0.2,"prop deferred with bounds crossing zero","Qiu",87,500,0.5,0.5,0.5,2,2
+"4339",0.0167832167832168,0.2,"prop wrong treatment among non-deferred","Debiased",87,500,0.5,0.5,0.5,2,2
+"4340",0.251748251748252,0.2,"prop wrong treatment among non-deferred","Qiu",87,500,0.5,0.5,0.5,2,2
+"4381",0.893886605433775,0.2,"value on non-rejected","Debiased",88,500,0.5,0.5,0.5,2,2
+"4382",0.687169684884287,0.2,"value on non-rejected","Qiu",88,500,0.5,0.5,0.5,2,2
+"4383",0.256,0.2,"porp rejected","Debiased",88,500,0.5,0.5,0.5,2,2
+"4384",0.256,0.2,"porp rejected","Qiu",88,500,0.5,0.5,0.5,2,2
+"4385",0.0516242118549668,0.2,"loss in value","Debiased",88,500,0.5,0.5,0.5,2,2
+"4386",0.174537534664294,0.2,"loss in value","Qiu",88,500,0.5,0.5,0.5,2,2
+"4387",0.9296875,0.2,"prop deferred with bounds crossing zero","Debiased",88,500,0.5,0.5,0.5,2,2
+"4388",0.68359375,0.2,"prop deferred with bounds crossing zero","Qiu",88,500,0.5,0.5,0.5,2,2
+"4389",0.00537634408602151,0.2,"prop wrong treatment among non-deferred","Debiased",88,500,0.5,0.5,0.5,2,2
+"4390",0.252688172043011,0.2,"prop wrong treatment among non-deferred","Qiu",88,500,0.5,0.5,0.5,2,2
+"4431",0.756734878821813,0.2,"value on non-rejected","Debiased",89,500,0.5,0.5,0.5,2,2
+"4432",0.666485799095287,0.2,"value on non-rejected","Qiu",89,500,0.5,0.5,0.5,2,2
+"4433",0.776,0.2,"porp rejected","Debiased",89,500,0.5,0.5,0.5,2,2
+"4434",0.776,0.2,"porp rejected","Qiu",89,500,0.5,0.5,0.5,2,2
+"4435",0.0512335764633914,0.2,"loss in value","Debiased",89,500,0.5,0.5,0.5,2,2
+"4436",0.077895559834938,0.2,"loss in value","Qiu",89,500,0.5,0.5,0.5,2,2
+"4437",0.728092783505155,0.2,"prop deferred with bounds crossing zero","Debiased",89,500,0.5,0.5,0.5,2,2
+"4438",0.617268041237113,0.2,"prop deferred with bounds crossing zero","Qiu",89,500,0.5,0.5,0.5,2,2
+"4439",0,0.2,"prop wrong treatment among non-deferred","Debiased",89,500,0.5,0.5,0.5,2,2
+"4440",0.15625,0.2,"prop wrong treatment among non-deferred","Qiu",89,500,0.5,0.5,0.5,2,2
+"4481",NA,0.2,"value on non-rejected","Debiased",90,500,0.5,0.5,0.5,2,2
+"4482",NA,0.2,"value on non-rejected","Qiu",90,500,0.5,0.5,0.5,2,2
+"4483",1,0.2,"porp rejected","Debiased",90,500,0.5,0.5,0.5,2,2
+"4484",1,0.2,"porp rejected","Qiu",90,500,0.5,0.5,0.5,2,2
+"4485",0.0653710172770946,0.2,"loss in value","Debiased",90,500,0.5,0.5,0.5,2,2
+"4486",0.0599083036693663,0.2,"loss in value","Qiu",90,500,0.5,0.5,0.5,2,2
+"4487",0.589,0.2,"prop deferred with bounds crossing zero","Debiased",90,500,0.5,0.5,0.5,2,2
+"4488",0.541,0.2,"prop deferred with bounds crossing zero","Qiu",90,500,0.5,0.5,0.5,2,2
+"4489",NA,0.2,"prop wrong treatment among non-deferred","Debiased",90,500,0.5,0.5,0.5,2,2
+"4490",NA,0.2,"prop wrong treatment among non-deferred","Qiu",90,500,0.5,0.5,0.5,2,2
+"4531",0.847547956276173,0.2,"value on non-rejected","Debiased",91,500,0.5,0.5,0.5,2,2
+"4532",0.648919024432915,0.2,"value on non-rejected","Qiu",91,500,0.5,0.5,0.5,2,2
+"4533",0.344,0.2,"porp rejected","Debiased",91,500,0.5,0.5,0.5,2,2
+"4534",0.344,0.2,"porp rejected","Qiu",91,500,0.5,0.5,0.5,2,2
+"4535",0.0487110262310642,0.2,"loss in value","Debiased",91,500,0.5,0.5,0.5,2,2
+"4536",0.17546664024867,0.2,"loss in value","Qiu",91,500,0.5,0.5,0.5,2,2
+"4537",0.912790697674419,0.2,"prop deferred with bounds crossing zero","Debiased",91,500,0.5,0.5,0.5,2,2
+"4538",0.578488372093023,0.2,"prop deferred with bounds crossing zero","Qiu",91,500,0.5,0.5,0.5,2,2
+"4539",0,0.2,"prop wrong treatment among non-deferred","Debiased",91,500,0.5,0.5,0.5,2,2
+"4540",0.291158536585366,0.2,"prop wrong treatment among non-deferred","Qiu",91,500,0.5,0.5,0.5,2,2
+"4581",0.810632743603745,0.2,"value on non-rejected","Debiased",92,500,0.5,0.5,0.5,2,2
+"4582",0.655727496562867,0.2,"value on non-rejected","Qiu",92,500,0.5,0.5,0.5,2,2
+"4583",0.373,0.2,"porp rejected","Debiased",92,500,0.5,0.5,0.5,2,2
+"4584",0.373,0.2,"porp rejected","Qiu",92,500,0.5,0.5,0.5,2,2
+"4585",0.0406084513831752,0.2,"loss in value","Debiased",92,500,0.5,0.5,0.5,2,2
+"4586",0.129129773373498,0.2,"loss in value","Qiu",92,500,0.5,0.5,0.5,2,2
+"4587",0.801608579088472,0.2,"prop deferred with bounds crossing zero","Debiased",92,500,0.5,0.5,0.5,2,2
+"4588",0.587131367292225,0.2,"prop deferred with bounds crossing zero","Qiu",92,500,0.5,0.5,0.5,2,2
+"4589",0,0.2,"prop wrong treatment among non-deferred","Debiased",92,500,0.5,0.5,0.5,2,2
+"4590",0.317384370015949,0.2,"prop wrong treatment among non-deferred","Qiu",92,500,0.5,0.5,0.5,2,2
+"4631",0.809460892262774,0.2,"value on non-rejected","Debiased",93,500,0.5,0.5,0.5,2,2
+"4632",0.604434056365904,0.2,"value on non-rejected","Qiu",93,500,0.5,0.5,0.5,2,2
+"4633",0.345,0.2,"porp rejected","Debiased",93,500,0.5,0.5,0.5,2,2
+"4634",0.345,0.2,"porp rejected","Qiu",93,500,0.5,0.5,0.5,2,2
+"4635",0.0320629081118611,0.2,"loss in value","Debiased",93,500,0.5,0.5,0.5,2,2
+"4636",0.166329659348268,0.2,"loss in value","Qiu",93,500,0.5,0.5,0.5,2,2
+"4637",0.689855072463768,0.2,"prop deferred with bounds crossing zero","Debiased",93,500,0.5,0.5,0.5,2,2
+"4638",0.466666666666667,0.2,"prop deferred with bounds crossing zero","Qiu",93,500,0.5,0.5,0.5,2,2
+"4639",0,0.2,"prop wrong treatment among non-deferred","Debiased",93,500,0.5,0.5,0.5,2,2
+"4640",0.370992366412214,0.2,"prop wrong treatment among non-deferred","Qiu",93,500,0.5,0.5,0.5,2,2
+"4681",0.785376680092604,0.2,"value on non-rejected","Debiased",94,500,0.5,0.5,0.5,2,2
+"4682",0.638744475279762,0.2,"value on non-rejected","Qiu",94,500,0.5,0.5,0.5,2,2
+"4683",0.361,0.2,"porp rejected","Debiased",94,500,0.5,0.5,0.5,2,2
+"4684",0.361,0.2,"porp rejected","Qiu",94,500,0.5,0.5,0.5,2,2
+"4685",0.0414950998574627,0.2,"loss in value","Debiased",94,500,0.5,0.5,0.5,2,2
+"4686",0.154732480931664,0.2,"loss in value","Qiu",94,500,0.5,0.5,0.5,2,2
+"4687",0.664819944598338,0.2,"prop deferred with bounds crossing zero","Debiased",94,500,0.5,0.5,0.5,2,2
+"4688",0.537396121883656,0.2,"prop deferred with bounds crossing zero","Qiu",94,500,0.5,0.5,0.5,2,2
+"4689",0.0579029733959311,0.2,"prop wrong treatment among non-deferred","Debiased",94,500,0.5,0.5,0.5,2,2
+"4690",0.284820031298905,0.2,"prop wrong treatment among non-deferred","Qiu",94,500,0.5,0.5,0.5,2,2
+"4731",0.778814439755389,0.2,"value on non-rejected","Debiased",95,500,0.5,0.5,0.5,2,2
+"4732",0.606055931731494,0.2,"value on non-rejected","Qiu",95,500,0.5,0.5,0.5,2,2
+"4733",0.399,0.2,"porp rejected","Debiased",95,500,0.5,0.5,0.5,2,2
+"4734",0.399,0.2,"porp rejected","Qiu",95,500,0.5,0.5,0.5,2,2
+"4735",0.0417134488515378,0.2,"loss in value","Debiased",95,500,0.5,0.5,0.5,2,2
+"4736",0.168839338146009,0.2,"loss in value","Qiu",95,500,0.5,0.5,0.5,2,2
+"4737",0.834586466165414,0.2,"prop deferred with bounds crossing zero","Debiased",95,500,0.5,0.5,0.5,2,2
+"4738",0.451127819548872,0.2,"prop deferred with bounds crossing zero","Qiu",95,500,0.5,0.5,0.5,2,2
+"4739",0.0549084858569052,0.2,"prop wrong treatment among non-deferred","Debiased",95,500,0.5,0.5,0.5,2,2
+"4740",0.344425956738769,0.2,"prop wrong treatment among non-deferred","Qiu",95,500,0.5,0.5,0.5,2,2
+"4781",0.797869139423957,0.2,"value on non-rejected","Debiased",96,500,0.5,0.5,0.5,2,2
+"4782",0.578308572632324,0.2,"value on non-rejected","Qiu",96,500,0.5,0.5,0.5,2,2
+"4783",0.4,0.2,"porp rejected","Debiased",96,500,0.5,0.5,0.5,2,2
+"4784",0.4,0.2,"porp rejected","Qiu",96,500,0.5,0.5,0.5,2,2
+"4785",0.0365992078144035,0.2,"loss in value","Debiased",96,500,0.5,0.5,0.5,2,2
+"4786",0.167041643619283,0.2,"loss in value","Qiu",96,500,0.5,0.5,0.5,2,2
+"4787",0.6675,0.2,"prop deferred with bounds crossing zero","Debiased",96,500,0.5,0.5,0.5,2,2
+"4788",0.55,0.2,"prop deferred with bounds crossing zero","Qiu",96,500,0.5,0.5,0.5,2,2
+"4789",0.00666666666666667,0.2,"prop wrong treatment among non-deferred","Debiased",96,500,0.5,0.5,0.5,2,2
+"4790",0.376666666666667,0.2,"prop wrong treatment among non-deferred","Qiu",96,500,0.5,0.5,0.5,2,2
+"4831",0.76567217310316,0.2,"value on non-rejected","Debiased",97,500,0.5,0.5,0.5,2,2
+"4832",0.623578910999402,0.2,"value on non-rejected","Qiu",97,500,0.5,0.5,0.5,2,2
+"4833",0.484,0.2,"porp rejected","Debiased",97,500,0.5,0.5,0.5,2,2
+"4834",0.484,0.2,"porp rejected","Qiu",97,500,0.5,0.5,0.5,2,2
+"4835",0.0392017345450396,0.2,"loss in value","Debiased",97,500,0.5,0.5,0.5,2,2
+"4836",0.116967866394678,0.2,"loss in value","Qiu",97,500,0.5,0.5,0.5,2,2
+"4837",0.584710743801653,0.2,"prop deferred with bounds crossing zero","Debiased",97,500,0.5,0.5,0.5,2,2
+"4838",0.450413223140496,0.2,"prop deferred with bounds crossing zero","Qiu",97,500,0.5,0.5,0.5,2,2
+"4839",0.0174418604651163,0.2,"prop wrong treatment among non-deferred","Debiased",97,500,0.5,0.5,0.5,2,2
+"4840",0.263565891472868,0.2,"prop wrong treatment among non-deferred","Qiu",97,500,0.5,0.5,0.5,2,2
+"4881",0.820888002152256,0.2,"value on non-rejected","Debiased",98,500,0.5,0.5,0.5,2,2
+"4882",0.744929494380308,0.2,"value on non-rejected","Qiu",98,500,0.5,0.5,0.5,2,2
+"4883",0.332,0.2,"porp rejected","Debiased",98,500,0.5,0.5,0.5,2,2
+"4884",0.332,0.2,"porp rejected","Qiu",98,500,0.5,0.5,0.5,2,2
+"4885",0.0383811175688392,0.2,"loss in value","Debiased",98,500,0.5,0.5,0.5,2,2
+"4886",0.0989586687304686,0.2,"loss in value","Qiu",98,500,0.5,0.5,0.5,2,2
+"4887",0.810240963855422,0.2,"prop deferred with bounds crossing zero","Debiased",98,500,0.5,0.5,0.5,2,2
+"4888",0.593373493975904,0.2,"prop deferred with bounds crossing zero","Qiu",98,500,0.5,0.5,0.5,2,2
+"4889",0.0179640718562874,0.2,"prop wrong treatment among non-deferred","Debiased",98,500,0.5,0.5,0.5,2,2
+"4890",0.145209580838323,0.2,"prop wrong treatment among non-deferred","Qiu",98,500,0.5,0.5,0.5,2,2
+"4931",0.771848639996567,0.2,"value on non-rejected","Debiased",99,500,0.5,0.5,0.5,2,2
+"4932",0.654770977194736,0.2,"value on non-rejected","Qiu",99,500,0.5,0.5,0.5,2,2
+"4933",0.385,0.2,"porp rejected","Debiased",99,500,0.5,0.5,0.5,2,2
+"4934",0.385,0.2,"porp rejected","Qiu",99,500,0.5,0.5,0.5,2,2
+"4935",0.029099670034346,0.2,"loss in value","Debiased",99,500,0.5,0.5,0.5,2,2
+"4936",0.137874117172567,0.2,"loss in value","Qiu",99,500,0.5,0.5,0.5,2,2
+"4937",0.612987012987013,0.2,"prop deferred with bounds crossing zero","Debiased",99,500,0.5,0.5,0.5,2,2
+"4938",0.584415584415584,0.2,"prop deferred with bounds crossing zero","Qiu",99,500,0.5,0.5,0.5,2,2
+"4939",0.0341463414634146,0.2,"prop wrong treatment among non-deferred","Debiased",99,500,0.5,0.5,0.5,2,2
+"4940",0.260162601626016,0.2,"prop wrong treatment among non-deferred","Qiu",99,500,0.5,0.5,0.5,2,2
+"4981",0.833970083661683,0.2,"value on non-rejected","Debiased",100,500,0.5,0.5,0.5,2,2
+"4982",0.665350960855859,0.2,"value on non-rejected","Qiu",100,500,0.5,0.5,0.5,2,2
+"4983",0.466,0.2,"porp rejected","Debiased",100,500,0.5,0.5,0.5,2,2
+"4984",0.466,0.2,"porp rejected","Qiu",100,500,0.5,0.5,0.5,2,2
+"4985",0.0463947876018652,0.2,"loss in value","Debiased",100,500,0.5,0.5,0.5,2,2
+"4986",0.122298458650306,0.2,"loss in value","Qiu",100,500,0.5,0.5,0.5,2,2
+"4987",0.744635193133047,0.2,"prop deferred with bounds crossing zero","Debiased",100,500,0.5,0.5,0.5,2,2
+"4988",0.675965665236052,0.2,"prop deferred with bounds crossing zero","Qiu",100,500,0.5,0.5,0.5,2,2
+"4989",0,0.2,"prop wrong treatment among non-deferred","Debiased",100,500,0.5,0.5,0.5,2,2
+"4990",0.234082397003745,0.2,"prop wrong treatment among non-deferred","Qiu",100,500,0.5,0.5,0.5,2,2
+"5031",0.79583178660079,0.2,"value on non-rejected","Debiased",101,500,0.5,0.5,0.5,2,2
+"5032",0.658619500910651,0.2,"value on non-rejected","Qiu",101,500,0.5,0.5,0.5,2,2
+"5033",0.333,0.2,"porp rejected","Debiased",101,500,0.5,0.5,0.5,2,2
+"5034",0.333,0.2,"porp rejected","Qiu",101,500,0.5,0.5,0.5,2,2
+"5035",0.0415590273890714,0.2,"loss in value","Debiased",101,500,0.5,0.5,0.5,2,2
+"5036",0.163956442805596,0.2,"loss in value","Qiu",101,500,0.5,0.5,0.5,2,2
+"5037",0.711711711711712,0.2,"prop deferred with bounds crossing zero","Debiased",101,500,0.5,0.5,0.5,2,2
+"5038",0.603603603603604,0.2,"prop deferred with bounds crossing zero","Qiu",101,500,0.5,0.5,0.5,2,2
+"5039",0.00899550224887556,0.2,"prop wrong treatment among non-deferred","Debiased",101,500,0.5,0.5,0.5,2,2
+"5040",0.272863568215892,0.2,"prop wrong treatment among non-deferred","Qiu",101,500,0.5,0.5,0.5,2,2
+"5081",0.731731940196349,0.2,"value on non-rejected","Debiased",102,500,0.5,0.5,0.5,2,2
+"5082",0.671135412930319,0.2,"value on non-rejected","Qiu",102,500,0.5,0.5,0.5,2,2
+"5083",0.505,0.2,"porp rejected","Debiased",102,500,0.5,0.5,0.5,2,2
+"5084",0.505,0.2,"porp rejected","Qiu",102,500,0.5,0.5,0.5,2,2
+"5085",0.0388599570126168,0.2,"loss in value","Debiased",102,500,0.5,0.5,0.5,2,2
+"5086",0.106689133294231,0.2,"loss in value","Qiu",102,500,0.5,0.5,0.5,2,2
+"5087",0.544554455445545,0.2,"prop deferred with bounds crossing zero","Debiased",102,500,0.5,0.5,0.5,2,2
+"5088",0.512871287128713,0.2,"prop deferred with bounds crossing zero","Qiu",102,500,0.5,0.5,0.5,2,2
+"5089",0.0424242424242424,0.2,"prop wrong treatment among non-deferred","Debiased",102,500,0.5,0.5,0.5,2,2
+"5090",0.21010101010101,0.2,"prop wrong treatment among non-deferred","Qiu",102,500,0.5,0.5,0.5,2,2
+"5131",0.756092199067187,0.2,"value on non-rejected","Debiased",103,500,0.5,0.5,0.5,2,2
+"5132",0.627380720627486,0.2,"value on non-rejected","Qiu",103,500,0.5,0.5,0.5,2,2
+"5133",0.538,0.2,"porp rejected","Debiased",103,500,0.5,0.5,0.5,2,2
+"5134",0.538,0.2,"porp rejected","Qiu",103,500,0.5,0.5,0.5,2,2
+"5135",0.0419988853279694,0.2,"loss in value","Debiased",103,500,0.5,0.5,0.5,2,2
+"5136",0.126562243983376,0.2,"loss in value","Qiu",103,500,0.5,0.5,0.5,2,2
+"5137",0.496282527881041,0.2,"prop deferred with bounds crossing zero","Debiased",103,500,0.5,0.5,0.5,2,2
+"5138",0.644981412639405,0.2,"prop deferred with bounds crossing zero","Qiu",103,500,0.5,0.5,0.5,2,2
+"5139",0.0281385281385281,0.2,"prop wrong treatment among non-deferred","Debiased",103,500,0.5,0.5,0.5,2,2
+"5140",0.268398268398268,0.2,"prop wrong treatment among non-deferred","Qiu",103,500,0.5,0.5,0.5,2,2
+"5181",0.762789897906815,0.2,"value on non-rejected","Debiased",104,500,0.5,0.5,0.5,2,2
+"5182",0.510701161023445,0.2,"value on non-rejected","Qiu",104,500,0.5,0.5,0.5,2,2
+"5183",0.724,0.2,"porp rejected","Debiased",104,500,0.5,0.5,0.5,2,2
+"5184",0.724,0.2,"porp rejected","Qiu",104,500,0.5,0.5,0.5,2,2
+"5185",0.0389325443000732,0.2,"loss in value","Debiased",104,500,0.5,0.5,0.5,2,2
+"5186",0.121981091776729,0.2,"loss in value","Qiu",104,500,0.5,0.5,0.5,2,2
+"5187",0.556629834254144,0.2,"prop deferred with bounds crossing zero","Debiased",104,500,0.5,0.5,0.5,2,2
+"5188",0.68232044198895,0.2,"prop deferred with bounds crossing zero","Qiu",104,500,0.5,0.5,0.5,2,2
+"5189",0,0.2,"prop wrong treatment among non-deferred","Debiased",104,500,0.5,0.5,0.5,2,2
+"5190",0.351449275362319,0.2,"prop wrong treatment among non-deferred","Qiu",104,500,0.5,0.5,0.5,2,2
+"5231",0.815609758340677,0.2,"value on non-rejected","Debiased",105,500,0.5,0.5,0.5,2,2
+"5232",0.628570845140686,0.2,"value on non-rejected","Qiu",105,500,0.5,0.5,0.5,2,2
+"5233",0.321,0.2,"porp rejected","Debiased",105,500,0.5,0.5,0.5,2,2
+"5234",0.321,0.2,"porp rejected","Qiu",105,500,0.5,0.5,0.5,2,2
+"5235",0.045806898280586,0.2,"loss in value","Debiased",105,500,0.5,0.5,0.5,2,2
+"5236",0.166011714150256,0.2,"loss in value","Qiu",105,500,0.5,0.5,0.5,2,2
+"5237",0.763239875389408,0.2,"prop deferred with bounds crossing zero","Debiased",105,500,0.5,0.5,0.5,2,2
+"5238",0.560747663551402,0.2,"prop deferred with bounds crossing zero","Qiu",105,500,0.5,0.5,0.5,2,2
+"5239",0.00147275405007364,0.2,"prop wrong treatment among non-deferred","Debiased",105,500,0.5,0.5,0.5,2,2
+"5240",0.313696612665685,0.2,"prop wrong treatment among non-deferred","Qiu",105,500,0.5,0.5,0.5,2,2
+"5281",0.862304437606467,0.2,"value on non-rejected","Debiased",106,500,0.5,0.5,0.5,2,2
+"5282",0.60461061676305,0.2,"value on non-rejected","Qiu",106,500,0.5,0.5,0.5,2,2
+"5283",0.449,0.2,"porp rejected","Debiased",106,500,0.5,0.5,0.5,2,2
+"5284",0.449,0.2,"porp rejected","Qiu",106,500,0.5,0.5,0.5,2,2
+"5285",0.0405783001878383,0.2,"loss in value","Debiased",106,500,0.5,0.5,0.5,2,2
+"5286",0.14031068458697,0.2,"loss in value","Qiu",106,500,0.5,0.5,0.5,2,2
+"5287",0.770601336302895,0.2,"prop deferred with bounds crossing zero","Debiased",106,500,0.5,0.5,0.5,2,2
+"5288",0.418708240534521,0.2,"prop deferred with bounds crossing zero","Qiu",106,500,0.5,0.5,0.5,2,2
+"5289",0,0.2,"prop wrong treatment among non-deferred","Debiased",106,500,0.5,0.5,0.5,2,2
+"5290",0.310344827586207,0.2,"prop wrong treatment among non-deferred","Qiu",106,500,0.5,0.5,0.5,2,2
+"5331",0.848920194697603,0.2,"value on non-rejected","Debiased",107,500,0.5,0.5,0.5,2,2
+"5332",0.71646426255813,0.2,"value on non-rejected","Qiu",107,500,0.5,0.5,0.5,2,2
+"5333",0.224,0.2,"porp rejected","Debiased",107,500,0.5,0.5,0.5,2,2
+"5334",0.224,0.2,"porp rejected","Qiu",107,500,0.5,0.5,0.5,2,2
+"5335",0.0405113928874534,0.2,"loss in value","Debiased",107,500,0.5,0.5,0.5,2,2
+"5336",0.144121629341547,0.2,"loss in value","Qiu",107,500,0.5,0.5,0.5,2,2
+"5337",0.875,0.2,"prop deferred with bounds crossing zero","Debiased",107,500,0.5,0.5,0.5,2,2
+"5338",0.611607142857143,0.2,"prop deferred with bounds crossing zero","Qiu",107,500,0.5,0.5,0.5,2,2
+"5339",0.00644329896907216,0.2,"prop wrong treatment among non-deferred","Debiased",107,500,0.5,0.5,0.5,2,2
+"5340",0.213917525773196,0.2,"prop wrong treatment among non-deferred","Qiu",107,500,0.5,0.5,0.5,2,2
+"5381",0.715082314980775,0.2,"value on non-rejected","Debiased",108,500,0.5,0.5,0.5,2,2
+"5382",0.675516932503387,0.2,"value on non-rejected","Qiu",108,500,0.5,0.5,0.5,2,2
+"5383",0.434,0.2,"porp rejected","Debiased",108,500,0.5,0.5,0.5,2,2
+"5384",0.434,0.2,"porp rejected","Qiu",108,500,0.5,0.5,0.5,2,2
+"5385",0.0442344290329283,0.2,"loss in value","Debiased",108,500,0.5,0.5,0.5,2,2
+"5386",0.127518063443453,0.2,"loss in value","Qiu",108,500,0.5,0.5,0.5,2,2
+"5387",0.566820276497696,0.2,"prop deferred with bounds crossing zero","Debiased",108,500,0.5,0.5,0.5,2,2
+"5388",0.788018433179724,0.2,"prop deferred with bounds crossing zero","Qiu",108,500,0.5,0.5,0.5,2,2
+"5389",0.106007067137809,0.2,"prop wrong treatment among non-deferred","Debiased",108,500,0.5,0.5,0.5,2,2
+"5390",0.226148409893993,0.2,"prop wrong treatment among non-deferred","Qiu",108,500,0.5,0.5,0.5,2,2
+"5431",0.876035142496303,0.2,"value on non-rejected","Debiased",109,500,0.5,0.5,0.5,2,2
+"5432",0.606360765345608,0.2,"value on non-rejected","Qiu",109,500,0.5,0.5,0.5,2,2
+"5433",0.55,0.2,"porp rejected","Debiased",109,500,0.5,0.5,0.5,2,2
+"5434",0.55,0.2,"porp rejected","Qiu",109,500,0.5,0.5,0.5,2,2
+"5435",0.0553593975580332,0.2,"loss in value","Debiased",109,500,0.5,0.5,0.5,2,2
+"5436",0.129717399839832,0.2,"loss in value","Qiu",109,500,0.5,0.5,0.5,2,2
+"5437",0.816363636363636,0.2,"prop deferred with bounds crossing zero","Debiased",109,500,0.5,0.5,0.5,2,2
+"5438",0.567272727272727,0.2,"prop deferred with bounds crossing zero","Qiu",109,500,0.5,0.5,0.5,2,2
+"5439",0,0.2,"prop wrong treatment among non-deferred","Debiased",109,500,0.5,0.5,0.5,2,2
+"5440",0.293333333333333,0.2,"prop wrong treatment among non-deferred","Qiu",109,500,0.5,0.5,0.5,2,2
+"5481",0.727593472044502,0.2,"value on non-rejected","Debiased",110,500,0.5,0.5,0.5,2,2
+"5482",0.68586064045308,0.2,"value on non-rejected","Qiu",110,500,0.5,0.5,0.5,2,2
+"5483",0.478,0.2,"porp rejected","Debiased",110,500,0.5,0.5,0.5,2,2
+"5484",0.478,0.2,"porp rejected","Qiu",110,500,0.5,0.5,0.5,2,2
+"5485",0.0439268036864904,0.2,"loss in value","Debiased",110,500,0.5,0.5,0.5,2,2
+"5486",0.0980615103471905,0.2,"loss in value","Qiu",110,500,0.5,0.5,0.5,2,2
+"5487",0.393305439330544,0.2,"prop deferred with bounds crossing zero","Debiased",110,500,0.5,0.5,0.5,2,2
+"5488",0.560669456066946,0.2,"prop deferred with bounds crossing zero","Qiu",110,500,0.5,0.5,0.5,2,2
+"5489",0.0842911877394636,0.2,"prop wrong treatment among non-deferred","Debiased",110,500,0.5,0.5,0.5,2,2
+"5490",0.189655172413793,0.2,"prop wrong treatment among non-deferred","Qiu",110,500,0.5,0.5,0.5,2,2
+"5531",0.757177668977953,0.2,"value on non-rejected","Debiased",111,500,0.5,0.5,0.5,2,2
+"5532",0.630857141894911,0.2,"value on non-rejected","Qiu",111,500,0.5,0.5,0.5,2,2
+"5533",0.605,0.2,"porp rejected","Debiased",111,500,0.5,0.5,0.5,2,2
+"5534",0.605,0.2,"porp rejected","Qiu",111,500,0.5,0.5,0.5,2,2
+"5535",0.0323368308430703,0.2,"loss in value","Debiased",111,500,0.5,0.5,0.5,2,2
+"5536",0.101511343807239,0.2,"loss in value","Qiu",111,500,0.5,0.5,0.5,2,2
+"5537",0.644628099173554,0.2,"prop deferred with bounds crossing zero","Debiased",111,500,0.5,0.5,0.5,2,2
+"5538",0.490909090909091,0.2,"prop deferred with bounds crossing zero","Qiu",111,500,0.5,0.5,0.5,2,2
+"5539",0,0.2,"prop wrong treatment among non-deferred","Debiased",111,500,0.5,0.5,0.5,2,2
+"5540",0.30126582278481,0.2,"prop wrong treatment among non-deferred","Qiu",111,500,0.5,0.5,0.5,2,2
+"5581",0.772225850733024,0.2,"value on non-rejected","Debiased",112,500,0.5,0.5,0.5,2,2
+"5582",0.417017177213907,0.2,"value on non-rejected","Qiu",112,500,0.5,0.5,0.5,2,2
+"5583",0.719,0.2,"porp rejected","Debiased",112,500,0.5,0.5,0.5,2,2
+"5584",0.719,0.2,"porp rejected","Qiu",112,500,0.5,0.5,0.5,2,2
+"5585",0.0450808395481,0.2,"loss in value","Debiased",112,500,0.5,0.5,0.5,2,2
+"5586",0.17349766962674,0.2,"loss in value","Qiu",112,500,0.5,0.5,0.5,2,2
+"5587",0.675938803894298,0.2,"prop deferred with bounds crossing zero","Debiased",112,500,0.5,0.5,0.5,2,2
+"5588",0.723226703755216,0.2,"prop deferred with bounds crossing zero","Qiu",112,500,0.5,0.5,0.5,2,2
+"5589",0,0.2,"prop wrong treatment among non-deferred","Debiased",112,500,0.5,0.5,0.5,2,2
+"5590",0.508896797153025,0.2,"prop wrong treatment among non-deferred","Qiu",112,500,0.5,0.5,0.5,2,2
+"5631",NA,0.2,"value on non-rejected","Debiased",113,500,0.5,0.5,0.5,2,2
+"5632",NA,0.2,"value on non-rejected","Qiu",113,500,0.5,0.5,0.5,2,2
+"5633",1,0.2,"porp rejected","Debiased",113,500,0.5,0.5,0.5,2,2
+"5634",1,0.2,"porp rejected","Qiu",113,500,0.5,0.5,0.5,2,2
+"5635",0.0589574272377807,0.2,"loss in value","Debiased",113,500,0.5,0.5,0.5,2,2
+"5636",0.064686800056455,0.2,"loss in value","Qiu",113,500,0.5,0.5,0.5,2,2
+"5637",0.512,0.2,"prop deferred with bounds crossing zero","Debiased",113,500,0.5,0.5,0.5,2,2
+"5638",0.605,0.2,"prop deferred with bounds crossing zero","Qiu",113,500,0.5,0.5,0.5,2,2
+"5639",NA,0.2,"prop wrong treatment among non-deferred","Debiased",113,500,0.5,0.5,0.5,2,2
+"5640",NA,0.2,"prop wrong treatment among non-deferred","Qiu",113,500,0.5,0.5,0.5,2,2
+"5681",0.73211182749105,0.2,"value on non-rejected","Debiased",114,500,0.5,0.5,0.5,2,2
+"5682",0.645111243074861,0.2,"value on non-rejected","Qiu",114,500,0.5,0.5,0.5,2,2
+"5683",0.574,0.2,"porp rejected","Debiased",114,500,0.5,0.5,0.5,2,2
+"5684",0.574,0.2,"porp rejected","Qiu",114,500,0.5,0.5,0.5,2,2
+"5685",0.0380532196651575,0.2,"loss in value","Debiased",114,500,0.5,0.5,0.5,2,2
+"5686",0.101360561754908,0.2,"loss in value","Qiu",114,500,0.5,0.5,0.5,2,2
+"5687",0.526132404181185,0.2,"prop deferred with bounds crossing zero","Debiased",114,500,0.5,0.5,0.5,2,2
+"5688",0.581881533101045,0.2,"prop deferred with bounds crossing zero","Qiu",114,500,0.5,0.5,0.5,2,2
+"5689",0.0187793427230047,0.2,"prop wrong treatment among non-deferred","Debiased",114,500,0.5,0.5,0.5,2,2
+"5690",0.272300469483568,0.2,"prop wrong treatment among non-deferred","Qiu",114,500,0.5,0.5,0.5,2,2
+"5731",0.808939756679188,0.2,"value on non-rejected","Debiased",115,500,0.5,0.5,0.5,2,2
+"5732",0.662401144518876,0.2,"value on non-rejected","Qiu",115,500,0.5,0.5,0.5,2,2
+"5733",0.324,0.2,"porp rejected","Debiased",115,500,0.5,0.5,0.5,2,2
+"5734",0.324,0.2,"porp rejected","Qiu",115,500,0.5,0.5,0.5,2,2
+"5735",0.0333590051971781,0.2,"loss in value","Debiased",115,500,0.5,0.5,0.5,2,2
+"5736",0.145835790521348,0.2,"loss in value","Qiu",115,500,0.5,0.5,0.5,2,2
+"5737",0.87962962962963,0.2,"prop deferred with bounds crossing zero","Debiased",115,500,0.5,0.5,0.5,2,2
+"5738",0.487654320987654,0.2,"prop deferred with bounds crossing zero","Qiu",115,500,0.5,0.5,0.5,2,2
+"5739",0.022189349112426,0.2,"prop wrong treatment among non-deferred","Debiased",115,500,0.5,0.5,0.5,2,2
+"5740",0.25,0.2,"prop wrong treatment among non-deferred","Qiu",115,500,0.5,0.5,0.5,2,2
+"5781",0.740276100765511,0.2,"value on non-rejected","Debiased",116,500,0.5,0.5,0.5,2,2
+"5782",0.716748050942649,0.2,"value on non-rejected","Qiu",116,500,0.5,0.5,0.5,2,2
+"5783",0.568,0.2,"porp rejected","Debiased",116,500,0.5,0.5,0.5,2,2
+"5784",0.568,0.2,"porp rejected","Qiu",116,500,0.5,0.5,0.5,2,2
+"5785",0.0466572173220052,0.2,"loss in value","Debiased",116,500,0.5,0.5,0.5,2,2
+"5786",0.0813480695183147,0.2,"loss in value","Qiu",116,500,0.5,0.5,0.5,2,2
+"5787",0.547535211267606,0.2,"prop deferred with bounds crossing zero","Debiased",116,500,0.5,0.5,0.5,2,2
+"5788",0.651408450704225,0.2,"prop deferred with bounds crossing zero","Qiu",116,500,0.5,0.5,0.5,2,2
+"5789",0.0555555555555556,0.2,"prop wrong treatment among non-deferred","Debiased",116,500,0.5,0.5,0.5,2,2
+"5790",0.138888888888889,0.2,"prop wrong treatment among non-deferred","Qiu",116,500,0.5,0.5,0.5,2,2
+"5831",NA,0.2,"value on non-rejected","Debiased",117,500,0.5,0.5,0.5,2,2
+"5832",NA,0.2,"value on non-rejected","Qiu",117,500,0.5,0.5,0.5,2,2
+"5833",1,0.2,"porp rejected","Debiased",117,500,0.5,0.5,0.5,2,2
+"5834",1,0.2,"porp rejected","Qiu",117,500,0.5,0.5,0.5,2,2
+"5835",0.0828376087608351,0.2,"loss in value","Debiased",117,500,0.5,0.5,0.5,2,2
+"5836",0.0668201844563562,0.2,"loss in value","Qiu",117,500,0.5,0.5,0.5,2,2
+"5837",0.676,0.2,"prop deferred with bounds crossing zero","Debiased",117,500,0.5,0.5,0.5,2,2
+"5838",0.573,0.2,"prop deferred with bounds crossing zero","Qiu",117,500,0.5,0.5,0.5,2,2
+"5839",NA,0.2,"prop wrong treatment among non-deferred","Debiased",117,500,0.5,0.5,0.5,2,2
+"5840",NA,0.2,"prop wrong treatment among non-deferred","Qiu",117,500,0.5,0.5,0.5,2,2
+"5881",0.820673480748996,0.2,"value on non-rejected","Debiased",118,500,0.5,0.5,0.5,2,2
+"5882",0.641988472071802,0.2,"value on non-rejected","Qiu",118,500,0.5,0.5,0.5,2,2
+"5883",0.349,0.2,"porp rejected","Debiased",118,500,0.5,0.5,0.5,2,2
+"5884",0.349,0.2,"porp rejected","Qiu",118,500,0.5,0.5,0.5,2,2
+"5885",0.0425415081408026,0.2,"loss in value","Debiased",118,500,0.5,0.5,0.5,2,2
+"5886",0.167572196805173,0.2,"loss in value","Qiu",118,500,0.5,0.5,0.5,2,2
+"5887",0.750716332378224,0.2,"prop deferred with bounds crossing zero","Debiased",118,500,0.5,0.5,0.5,2,2
+"5888",0.64756446991404,0.2,"prop deferred with bounds crossing zero","Qiu",118,500,0.5,0.5,0.5,2,2
+"5889",0.00460829493087558,0.2,"prop wrong treatment among non-deferred","Debiased",118,500,0.5,0.5,0.5,2,2
+"5890",0.288786482334869,0.2,"prop wrong treatment among non-deferred","Qiu",118,500,0.5,0.5,0.5,2,2
+"5931",0.804206071168323,0.2,"value on non-rejected","Debiased",119,500,0.5,0.5,0.5,2,2
+"5932",0.549077448101735,0.2,"value on non-rejected","Qiu",119,500,0.5,0.5,0.5,2,2
+"5933",0.631,0.2,"porp rejected","Debiased",119,500,0.5,0.5,0.5,2,2
+"5934",0.631,0.2,"porp rejected","Qiu",119,500,0.5,0.5,0.5,2,2
+"5935",0.0490034891278812,0.2,"loss in value","Debiased",119,500,0.5,0.5,0.5,2,2
+"5936",0.125744380484899,0.2,"loss in value","Qiu",119,500,0.5,0.5,0.5,2,2
+"5937",0.667194928684628,0.2,"prop deferred with bounds crossing zero","Debiased",119,500,0.5,0.5,0.5,2,2
+"5938",0.431061806656101,0.2,"prop deferred with bounds crossing zero","Qiu",119,500,0.5,0.5,0.5,2,2
+"5939",0,0.2,"prop wrong treatment among non-deferred","Debiased",119,500,0.5,0.5,0.5,2,2
+"5940",0.363143631436314,0.2,"prop wrong treatment among non-deferred","Qiu",119,500,0.5,0.5,0.5,2,2
+"5981",0.756350053420835,0.2,"value on non-rejected","Debiased",120,500,0.5,0.5,0.5,2,2
+"5982",0.643375227848538,0.2,"value on non-rejected","Qiu",120,500,0.5,0.5,0.5,2,2
+"5983",0.588,0.2,"porp rejected","Debiased",120,500,0.5,0.5,0.5,2,2
+"5984",0.588,0.2,"porp rejected","Qiu",120,500,0.5,0.5,0.5,2,2
+"5985",0.039016967309909,0.2,"loss in value","Debiased",120,500,0.5,0.5,0.5,2,2
+"5986",0.112099736799931,0.2,"loss in value","Qiu",120,500,0.5,0.5,0.5,2,2
+"5987",0.518707482993197,0.2,"prop deferred with bounds crossing zero","Debiased",120,500,0.5,0.5,0.5,2,2
+"5988",0.659863945578231,0.2,"prop deferred with bounds crossing zero","Qiu",120,500,0.5,0.5,0.5,2,2
+"5989",0.00728155339805825,0.2,"prop wrong treatment among non-deferred","Debiased",120,500,0.5,0.5,0.5,2,2
+"5990",0.230582524271845,0.2,"prop wrong treatment among non-deferred","Qiu",120,500,0.5,0.5,0.5,2,2
+"6031",0.786421160319968,0.2,"value on non-rejected","Debiased",121,500,0.5,0.5,0.5,2,2
+"6032",0.641633371786834,0.2,"value on non-rejected","Qiu",121,500,0.5,0.5,0.5,2,2
+"6033",0.431,0.2,"porp rejected","Debiased",121,500,0.5,0.5,0.5,2,2
+"6034",0.431,0.2,"porp rejected","Qiu",121,500,0.5,0.5,0.5,2,2
+"6035",0.0463894325025464,0.2,"loss in value","Debiased",121,500,0.5,0.5,0.5,2,2
+"6036",0.136522684313732,0.2,"loss in value","Qiu",121,500,0.5,0.5,0.5,2,2
+"6037",0.723897911832947,0.2,"prop deferred with bounds crossing zero","Debiased",121,500,0.5,0.5,0.5,2,2
+"6038",0.475638051044084,0.2,"prop deferred with bounds crossing zero","Qiu",121,500,0.5,0.5,0.5,2,2
+"6039",0.054481546572935,0.2,"prop wrong treatment among non-deferred","Debiased",121,500,0.5,0.5,0.5,2,2
+"6040",0.281195079086116,0.2,"prop wrong treatment among non-deferred","Qiu",121,500,0.5,0.5,0.5,2,2
+"6081",0.825286979995095,0.2,"value on non-rejected","Debiased",122,500,0.5,0.5,0.5,2,2
+"6082",0.376171870256747,0.2,"value on non-rejected","Qiu",122,500,0.5,0.5,0.5,2,2
+"6083",0.984,0.2,"porp rejected","Debiased",122,500,0.5,0.5,0.5,2,2
+"6084",0.984,0.2,"porp rejected","Qiu",122,500,0.5,0.5,0.5,2,2
+"6085",0.0732478878320015,0.2,"loss in value","Debiased",122,500,0.5,0.5,0.5,2,2
+"6086",0.0740456095834049,0.2,"loss in value","Qiu",122,500,0.5,0.5,0.5,2,2
+"6087",0.638211382113821,0.2,"prop deferred with bounds crossing zero","Debiased",122,500,0.5,0.5,0.5,2,2
+"6088",0.585365853658537,0.2,"prop deferred with bounds crossing zero","Qiu",122,500,0.5,0.5,0.5,2,2
+"6089",0,0.2,"prop wrong treatment among non-deferred","Debiased",122,500,0.5,0.5,0.5,2,2
+"6090",0.5,0.2,"prop wrong treatment among non-deferred","Qiu",122,500,0.5,0.5,0.5,2,2
+"6131",0.81445852284664,0.2,"value on non-rejected","Debiased",123,500,0.5,0.5,0.5,2,2
+"6132",0.711558486636529,0.2,"value on non-rejected","Qiu",123,500,0.5,0.5,0.5,2,2
+"6133",0.365,0.2,"porp rejected","Debiased",123,500,0.5,0.5,0.5,2,2
+"6134",0.365,0.2,"porp rejected","Qiu",123,500,0.5,0.5,0.5,2,2
+"6135",0.043415304675825,0.2,"loss in value","Debiased",123,500,0.5,0.5,0.5,2,2
+"6136",0.0928105321195866,0.2,"loss in value","Qiu",123,500,0.5,0.5,0.5,2,2
+"6137",0.750684931506849,0.2,"prop deferred with bounds crossing zero","Debiased",123,500,0.5,0.5,0.5,2,2
+"6138",0.613698630136986,0.2,"prop deferred with bounds crossing zero","Qiu",123,500,0.5,0.5,0.5,2,2
+"6139",0.0015748031496063,0.2,"prop wrong treatment among non-deferred","Debiased",123,500,0.5,0.5,0.5,2,2
+"6140",0.168503937007874,0.2,"prop wrong treatment among non-deferred","Qiu",123,500,0.5,0.5,0.5,2,2
+"6181",0.820015702346628,0.2,"value on non-rejected","Debiased",124,500,0.5,0.5,0.5,2,2
+"6182",0.59115928084952,0.2,"value on non-rejected","Qiu",124,500,0.5,0.5,0.5,2,2
+"6183",0.3,0.2,"porp rejected","Debiased",124,500,0.5,0.5,0.5,2,2
+"6184",0.3,0.2,"porp rejected","Qiu",124,500,0.5,0.5,0.5,2,2
+"6185",0.0447464418937561,0.2,"loss in value","Debiased",124,500,0.5,0.5,0.5,2,2
+"6186",0.199027520290944,0.2,"loss in value","Qiu",124,500,0.5,0.5,0.5,2,2
+"6187",0.776666666666667,0.2,"prop deferred with bounds crossing zero","Debiased",124,500,0.5,0.5,0.5,2,2
+"6188",0.393333333333333,0.2,"prop deferred with bounds crossing zero","Qiu",124,500,0.5,0.5,0.5,2,2
+"6189",0.0171428571428571,0.2,"prop wrong treatment among non-deferred","Debiased",124,500,0.5,0.5,0.5,2,2
+"6190",0.365714285714286,0.2,"prop wrong treatment among non-deferred","Qiu",124,500,0.5,0.5,0.5,2,2
+"6231",0.773082787241267,0.2,"value on non-rejected","Debiased",125,500,0.5,0.5,0.5,2,2
+"6232",0.642800254310781,0.2,"value on non-rejected","Qiu",125,500,0.5,0.5,0.5,2,2
+"6233",0.538,0.2,"porp rejected","Debiased",125,500,0.5,0.5,0.5,2,2
+"6234",0.538,0.2,"porp rejected","Qiu",125,500,0.5,0.5,0.5,2,2
+"6235",0.0409012305150257,0.2,"loss in value","Debiased",125,500,0.5,0.5,0.5,2,2
+"6236",0.113916858901955,0.2,"loss in value","Qiu",125,500,0.5,0.5,0.5,2,2
+"6237",0.578066914498141,0.2,"prop deferred with bounds crossing zero","Debiased",125,500,0.5,0.5,0.5,2,2
+"6238",0.496282527881041,0.2,"prop deferred with bounds crossing zero","Qiu",125,500,0.5,0.5,0.5,2,2
+"6239",0.0108225108225108,0.2,"prop wrong treatment among non-deferred","Debiased",125,500,0.5,0.5,0.5,2,2
+"6240",0.24025974025974,0.2,"prop wrong treatment among non-deferred","Qiu",125,500,0.5,0.5,0.5,2,2
+"6281",0.829570139520129,0.2,"value on non-rejected","Debiased",126,500,0.5,0.5,0.5,2,2
+"6282",0.691369642767193,0.2,"value on non-rejected","Qiu",126,500,0.5,0.5,0.5,2,2
+"6283",0.346,0.2,"porp rejected","Debiased",126,500,0.5,0.5,0.5,2,2
+"6284",0.346,0.2,"porp rejected","Qiu",126,500,0.5,0.5,0.5,2,2
+"6285",0.0321086890882602,0.2,"loss in value","Debiased",126,500,0.5,0.5,0.5,2,2
+"6286",0.128948509415177,0.2,"loss in value","Qiu",126,500,0.5,0.5,0.5,2,2
+"6287",0.80635838150289,0.2,"prop deferred with bounds crossing zero","Debiased",126,500,0.5,0.5,0.5,2,2
+"6288",0.488439306358382,0.2,"prop deferred with bounds crossing zero","Qiu",126,500,0.5,0.5,0.5,2,2
+"6289",0.00152905198776758,0.2,"prop wrong treatment among non-deferred","Debiased",126,500,0.5,0.5,0.5,2,2
+"6290",0.22782874617737,0.2,"prop wrong treatment among non-deferred","Qiu",126,500,0.5,0.5,0.5,2,2
+"6331",0.79837863247457,0.2,"value on non-rejected","Debiased",127,500,0.5,0.5,0.5,2,2
+"6332",0.380333869863333,0.2,"value on non-rejected","Qiu",127,500,0.5,0.5,0.5,2,2
+"6333",0.94,0.2,"porp rejected","Debiased",127,500,0.5,0.5,0.5,2,2
+"6334",0.94,0.2,"porp rejected","Qiu",127,500,0.5,0.5,0.5,2,2
+"6335",0.0740811687860952,0.2,"loss in value","Debiased",127,500,0.5,0.5,0.5,2,2
+"6336",0.0790913341443052,0.2,"loss in value","Qiu",127,500,0.5,0.5,0.5,2,2
+"6337",0.625531914893617,0.2,"prop deferred with bounds crossing zero","Debiased",127,500,0.5,0.5,0.5,2,2
+"6338",0.571276595744681,0.2,"prop deferred with bounds crossing zero","Qiu",127,500,0.5,0.5,0.5,2,2
+"6339",0,0.2,"prop wrong treatment among non-deferred","Debiased",127,500,0.5,0.5,0.5,2,2
+"6340",0.5,0.2,"prop wrong treatment among non-deferred","Qiu",127,500,0.5,0.5,0.5,2,2
+"6381",0.806970770573905,0.2,"value on non-rejected","Debiased",128,500,0.5,0.5,0.5,2,2
+"6382",0.588462267955297,0.2,"value on non-rejected","Qiu",128,500,0.5,0.5,0.5,2,2
+"6383",0.522,0.2,"porp rejected","Debiased",128,500,0.5,0.5,0.5,2,2
+"6384",0.522,0.2,"porp rejected","Qiu",128,500,0.5,0.5,0.5,2,2
+"6385",0.0559697400117023,0.2,"loss in value","Debiased",128,500,0.5,0.5,0.5,2,2
+"6386",0.112367863466558,0.2,"loss in value","Qiu",128,500,0.5,0.5,0.5,2,2
+"6387",0.772030651340996,0.2,"prop deferred with bounds crossing zero","Debiased",128,500,0.5,0.5,0.5,2,2
+"6388",0.438697318007663,0.2,"prop deferred with bounds crossing zero","Qiu",128,500,0.5,0.5,0.5,2,2
+"6389",0.0146443514644351,0.2,"prop wrong treatment among non-deferred","Debiased",128,500,0.5,0.5,0.5,2,2
+"6390",0.297071129707113,0.2,"prop wrong treatment among non-deferred","Qiu",128,500,0.5,0.5,0.5,2,2
+"6431",0.824230005274043,0.2,"value on non-rejected","Debiased",129,500,0.5,0.5,0.5,2,2
+"6432",0.608480823598988,0.2,"value on non-rejected","Qiu",129,500,0.5,0.5,0.5,2,2
+"6433",0.329,0.2,"porp rejected","Debiased",129,500,0.5,0.5,0.5,2,2
+"6434",0.329,0.2,"porp rejected","Qiu",129,500,0.5,0.5,0.5,2,2
+"6435",0.0282632701035442,0.2,"loss in value","Debiased",129,500,0.5,0.5,0.5,2,2
+"6436",0.179549990965637,0.2,"loss in value","Qiu",129,500,0.5,0.5,0.5,2,2
+"6437",0.735562310030395,0.2,"prop deferred with bounds crossing zero","Debiased",129,500,0.5,0.5,0.5,2,2
+"6438",0.601823708206687,0.2,"prop deferred with bounds crossing zero","Qiu",129,500,0.5,0.5,0.5,2,2
+"6439",0.0014903129657228,0.2,"prop wrong treatment among non-deferred","Debiased",129,500,0.5,0.5,0.5,2,2
+"6440",0.317436661698957,0.2,"prop wrong treatment among non-deferred","Qiu",129,500,0.5,0.5,0.5,2,2
+"6481",0.884655796043272,0.2,"value on non-rejected","Debiased",130,500,0.5,0.5,0.5,2,2
+"6482",0.644567690360505,0.2,"value on non-rejected","Qiu",130,500,0.5,0.5,0.5,2,2
+"6483",0.263,0.2,"porp rejected","Debiased",130,500,0.5,0.5,0.5,2,2
+"6484",0.263,0.2,"porp rejected","Qiu",130,500,0.5,0.5,0.5,2,2
+"6485",0.0484279301091897,0.2,"loss in value","Debiased",130,500,0.5,0.5,0.5,2,2
+"6486",0.165270514456394,0.2,"loss in value","Qiu",130,500,0.5,0.5,0.5,2,2
+"6487",0.91254752851711,0.2,"prop deferred with bounds crossing zero","Debiased",130,500,0.5,0.5,0.5,2,2
+"6488",0.486692015209125,0.2,"prop deferred with bounds crossing zero","Qiu",130,500,0.5,0.5,0.5,2,2
+"6489",0.00271370420624152,0.2,"prop wrong treatment among non-deferred","Debiased",130,500,0.5,0.5,0.5,2,2
+"6490",0.280868385345997,0.2,"prop wrong treatment among non-deferred","Qiu",130,500,0.5,0.5,0.5,2,2
+"6531",0.869650314477675,0.2,"value on non-rejected","Debiased",131,500,0.5,0.5,0.5,2,2
+"6532",0.664809557664807,0.2,"value on non-rejected","Qiu",131,500,0.5,0.5,0.5,2,2
+"6533",0.241,0.2,"porp rejected","Debiased",131,500,0.5,0.5,0.5,2,2
+"6534",0.241,0.2,"porp rejected","Qiu",131,500,0.5,0.5,0.5,2,2
+"6535",0.0447605419350336,0.2,"loss in value","Debiased",131,500,0.5,0.5,0.5,2,2
+"6536",0.172167771778105,0.2,"loss in value","Qiu",131,500,0.5,0.5,0.5,2,2
+"6537",0.800829875518672,0.2,"prop deferred with bounds crossing zero","Debiased",131,500,0.5,0.5,0.5,2,2
+"6538",0.50207468879668,0.2,"prop deferred with bounds crossing zero","Qiu",131,500,0.5,0.5,0.5,2,2
+"6539",0,0.2,"prop wrong treatment among non-deferred","Debiased",131,500,0.5,0.5,0.5,2,2
+"6540",0.283267457180501,0.2,"prop wrong treatment among non-deferred","Qiu",131,500,0.5,0.5,0.5,2,2
+"6581",0.818480673719425,0.2,"value on non-rejected","Debiased",132,500,0.5,0.5,0.5,2,2
+"6582",0.665561367796437,0.2,"value on non-rejected","Qiu",132,500,0.5,0.5,0.5,2,2
+"6583",0.374,0.2,"porp rejected","Debiased",132,500,0.5,0.5,0.5,2,2
+"6584",0.374,0.2,"porp rejected","Qiu",132,500,0.5,0.5,0.5,2,2
+"6585",0.0351244266610202,0.2,"loss in value","Debiased",132,500,0.5,0.5,0.5,2,2
+"6586",0.159873873114129,0.2,"loss in value","Qiu",132,500,0.5,0.5,0.5,2,2
+"6587",0.783422459893048,0.2,"prop deferred with bounds crossing zero","Debiased",132,500,0.5,0.5,0.5,2,2
+"6588",0.582887700534759,0.2,"prop deferred with bounds crossing zero","Qiu",132,500,0.5,0.5,0.5,2,2
+"6589",0,0.2,"prop wrong treatment among non-deferred","Debiased",132,500,0.5,0.5,0.5,2,2
+"6590",0.346645367412141,0.2,"prop wrong treatment among non-deferred","Qiu",132,500,0.5,0.5,0.5,2,2
+"6631",0.879437719936039,0.2,"value on non-rejected","Debiased",133,500,0.5,0.5,0.5,2,2
+"6632",0.689702034514785,0.2,"value on non-rejected","Qiu",133,500,0.5,0.5,0.5,2,2
+"6633",0.228,0.2,"porp rejected","Debiased",133,500,0.5,0.5,0.5,2,2
+"6634",0.228,0.2,"porp rejected","Qiu",133,500,0.5,0.5,0.5,2,2
+"6635",0.0364311092902963,0.2,"loss in value","Debiased",133,500,0.5,0.5,0.5,2,2
+"6636",0.158492938631104,0.2,"loss in value","Qiu",133,500,0.5,0.5,0.5,2,2
+"6637",0.842105263157895,0.2,"prop deferred with bounds crossing zero","Debiased",133,500,0.5,0.5,0.5,2,2
+"6638",0.583333333333333,0.2,"prop deferred with bounds crossing zero","Qiu",133,500,0.5,0.5,0.5,2,2
+"6639",0,0.2,"prop wrong treatment among non-deferred","Debiased",133,500,0.5,0.5,0.5,2,2
+"6640",0.257772020725389,0.2,"prop wrong treatment among non-deferred","Qiu",133,500,0.5,0.5,0.5,2,2
+"6681",0.838877083004153,0.2,"value on non-rejected","Debiased",134,500,0.5,0.5,0.5,2,2
+"6682",0.574276772410318,0.2,"value on non-rejected","Qiu",134,500,0.5,0.5,0.5,2,2
+"6683",0.555,0.2,"porp rejected","Debiased",134,500,0.5,0.5,0.5,2,2
+"6684",0.555,0.2,"porp rejected","Qiu",134,500,0.5,0.5,0.5,2,2
+"6685",0.0488644150125862,0.2,"loss in value","Debiased",134,500,0.5,0.5,0.5,2,2
+"6686",0.137488212100941,0.2,"loss in value","Qiu",134,500,0.5,0.5,0.5,2,2
+"6687",0.753153153153153,0.2,"prop deferred with bounds crossing zero","Debiased",134,500,0.5,0.5,0.5,2,2
+"6688",0.623423423423423,0.2,"prop deferred with bounds crossing zero","Qiu",134,500,0.5,0.5,0.5,2,2
+"6689",0,0.2,"prop wrong treatment among non-deferred","Debiased",134,500,0.5,0.5,0.5,2,2
+"6690",0.343820224719101,0.2,"prop wrong treatment among non-deferred","Qiu",134,500,0.5,0.5,0.5,2,2
+"6731",0.805017143892392,0.2,"value on non-rejected","Debiased",135,500,0.5,0.5,0.5,2,2
+"6732",0.632216314260879,0.2,"value on non-rejected","Qiu",135,500,0.5,0.5,0.5,2,2
+"6733",0.49,0.2,"porp rejected","Debiased",135,500,0.5,0.5,0.5,2,2
+"6734",0.49,0.2,"porp rejected","Qiu",135,500,0.5,0.5,0.5,2,2
+"6735",0.0416671257799631,0.2,"loss in value","Debiased",135,500,0.5,0.5,0.5,2,2
+"6736",0.151634860607597,0.2,"loss in value","Qiu",135,500,0.5,0.5,0.5,2,2
+"6737",0.620408163265306,0.2,"prop deferred with bounds crossing zero","Debiased",135,500,0.5,0.5,0.5,2,2
+"6738",0.581632653061224,0.2,"prop deferred with bounds crossing zero","Qiu",135,500,0.5,0.5,0.5,2,2
+"6739",0,0.2,"prop wrong treatment among non-deferred","Debiased",135,500,0.5,0.5,0.5,2,2
+"6740",0.294117647058824,0.2,"prop wrong treatment among non-deferred","Qiu",135,500,0.5,0.5,0.5,2,2
+"6781",0.825377084057784,0.2,"value on non-rejected","Debiased",136,500,0.5,0.5,0.5,2,2
+"6782",0.415884238631803,0.2,"value on non-rejected","Qiu",136,500,0.5,0.5,0.5,2,2
+"6783",0.908,0.2,"porp rejected","Debiased",136,500,0.5,0.5,0.5,2,2
+"6784",0.908,0.2,"porp rejected","Qiu",136,500,0.5,0.5,0.5,2,2
+"6785",0.0605273111443599,0.2,"loss in value","Debiased",136,500,0.5,0.5,0.5,2,2
+"6786",0.0806163433230301,0.2,"loss in value","Qiu",136,500,0.5,0.5,0.5,2,2
+"6787",0.602422907488987,0.2,"prop deferred with bounds crossing zero","Debiased",136,500,0.5,0.5,0.5,2,2
+"6788",0.518722466960352,0.2,"prop deferred with bounds crossing zero","Qiu",136,500,0.5,0.5,0.5,2,2
+"6789",0,0.2,"prop wrong treatment among non-deferred","Debiased",136,500,0.5,0.5,0.5,2,2
+"6790",0.467391304347826,0.2,"prop wrong treatment among non-deferred","Qiu",136,500,0.5,0.5,0.5,2,2
+"6831",NA,0.2,"value on non-rejected","Debiased",137,500,0.5,0.5,0.5,2,2
+"6832",NA,0.2,"value on non-rejected","Qiu",137,500,0.5,0.5,0.5,2,2
+"6833",1,0.2,"porp rejected","Debiased",137,500,0.5,0.5,0.5,2,2
+"6834",1,0.2,"porp rejected","Qiu",137,500,0.5,0.5,0.5,2,2
+"6835",0.054785374597701,0.2,"loss in value","Debiased",137,500,0.5,0.5,0.5,2,2
+"6836",0.0506441697815319,0.2,"loss in value","Qiu",137,500,0.5,0.5,0.5,2,2
+"6837",0.53,0.2,"prop deferred with bounds crossing zero","Debiased",137,500,0.5,0.5,0.5,2,2
+"6838",0.515,0.2,"prop deferred with bounds crossing zero","Qiu",137,500,0.5,0.5,0.5,2,2
+"6839",NA,0.2,"prop wrong treatment among non-deferred","Debiased",137,500,0.5,0.5,0.5,2,2
+"6840",NA,0.2,"prop wrong treatment among non-deferred","Qiu",137,500,0.5,0.5,0.5,2,2
+"6881",0.853646556530274,0.2,"value on non-rejected","Debiased",138,500,0.5,0.5,0.5,2,2
+"6882",0.65131949940192,0.2,"value on non-rejected","Qiu",138,500,0.5,0.5,0.5,2,2
+"6883",0.234,0.2,"porp rejected","Debiased",138,500,0.5,0.5,0.5,2,2
+"6884",0.234,0.2,"porp rejected","Qiu",138,500,0.5,0.5,0.5,2,2
+"6885",0.0435873225527702,0.2,"loss in value","Debiased",138,500,0.5,0.5,0.5,2,2
+"6886",0.177309730551806,0.2,"loss in value","Qiu",138,500,0.5,0.5,0.5,2,2
+"6887",0.722222222222222,0.2,"prop deferred with bounds crossing zero","Debiased",138,500,0.5,0.5,0.5,2,2
+"6888",0.602564102564103,0.2,"prop deferred with bounds crossing zero","Qiu",138,500,0.5,0.5,0.5,2,2
+"6889",0.00391644908616188,0.2,"prop wrong treatment among non-deferred","Debiased",138,500,0.5,0.5,0.5,2,2
+"6890",0.296344647519582,0.2,"prop wrong treatment among non-deferred","Qiu",138,500,0.5,0.5,0.5,2,2
+"6931",NA,0.2,"value on non-rejected","Debiased",139,500,0.5,0.5,0.5,2,2
+"6932",NA,0.2,"value on non-rejected","Qiu",139,500,0.5,0.5,0.5,2,2
+"6933",1,0.2,"porp rejected","Debiased",139,500,0.5,0.5,0.5,2,2
+"6934",1,0.2,"porp rejected","Qiu",139,500,0.5,0.5,0.5,2,2
+"6935",0.0723655145261892,0.2,"loss in value","Debiased",139,500,0.5,0.5,0.5,2,2
+"6936",0.0692314614207453,0.2,"loss in value","Qiu",139,500,0.5,0.5,0.5,2,2
+"6937",0.588,0.2,"prop deferred with bounds crossing zero","Debiased",139,500,0.5,0.5,0.5,2,2
+"6938",0.597,0.2,"prop deferred with bounds crossing zero","Qiu",139,500,0.5,0.5,0.5,2,2
+"6939",NA,0.2,"prop wrong treatment among non-deferred","Debiased",139,500,0.5,0.5,0.5,2,2
+"6940",NA,0.2,"prop wrong treatment among non-deferred","Qiu",139,500,0.5,0.5,0.5,2,2
+"6981",0.831234423128387,0.2,"value on non-rejected","Debiased",140,500,0.5,0.5,0.5,2,2
+"6982",0.615119328186008,0.2,"value on non-rejected","Qiu",140,500,0.5,0.5,0.5,2,2
+"6983",0.398,0.2,"porp rejected","Debiased",140,500,0.5,0.5,0.5,2,2
+"6984",0.398,0.2,"porp rejected","Qiu",140,500,0.5,0.5,0.5,2,2
+"6985",0.0369349708370323,0.2,"loss in value","Debiased",140,500,0.5,0.5,0.5,2,2
+"6986",0.169477794236377,0.2,"loss in value","Qiu",140,500,0.5,0.5,0.5,2,2
+"6987",0.819095477386935,0.2,"prop deferred with bounds crossing zero","Debiased",140,500,0.5,0.5,0.5,2,2
+"6988",0.590452261306533,0.2,"prop deferred with bounds crossing zero","Qiu",140,500,0.5,0.5,0.5,2,2
+"6989",0,0.2,"prop wrong treatment among non-deferred","Debiased",140,500,0.5,0.5,0.5,2,2
+"6990",0.308970099667774,0.2,"prop wrong treatment among non-deferred","Qiu",140,500,0.5,0.5,0.5,2,2
+"7031",0.843951159486052,0.2,"value on non-rejected","Debiased",141,500,0.5,0.5,0.5,2,2
+"7032",0.641406038692874,0.2,"value on non-rejected","Qiu",141,500,0.5,0.5,0.5,2,2
+"7033",0.293,0.2,"porp rejected","Debiased",141,500,0.5,0.5,0.5,2,2
+"7034",0.293,0.2,"porp rejected","Qiu",141,500,0.5,0.5,0.5,2,2
+"7035",0.0332053047539301,0.2,"loss in value","Debiased",141,500,0.5,0.5,0.5,2,2
+"7036",0.177738712495576,0.2,"loss in value","Qiu",141,500,0.5,0.5,0.5,2,2
+"7037",0.63481228668942,0.2,"prop deferred with bounds crossing zero","Debiased",141,500,0.5,0.5,0.5,2,2
+"7038",0.532423208191126,0.2,"prop deferred with bounds crossing zero","Qiu",141,500,0.5,0.5,0.5,2,2
+"7039",0.0113154172560113,0.2,"prop wrong treatment among non-deferred","Debiased",141,500,0.5,0.5,0.5,2,2
+"7040",0.323903818953324,0.2,"prop wrong treatment among non-deferred","Qiu",141,500,0.5,0.5,0.5,2,2
+"7081",0.728380433226858,0.2,"value on non-rejected","Debiased",142,500,0.5,0.5,0.5,2,2
+"7082",0.70241581613773,0.2,"value on non-rejected","Qiu",142,500,0.5,0.5,0.5,2,2
+"7083",0.535,0.2,"porp rejected","Debiased",142,500,0.5,0.5,0.5,2,2
+"7084",0.535,0.2,"porp rejected","Qiu",142,500,0.5,0.5,0.5,2,2
+"7085",0.0268705793310584,0.2,"loss in value","Debiased",142,500,0.5,0.5,0.5,2,2
+"7086",0.0741647303972219,0.2,"loss in value","Qiu",142,500,0.5,0.5,0.5,2,2
+"7087",0.585046728971963,0.2,"prop deferred with bounds crossing zero","Debiased",142,500,0.5,0.5,0.5,2,2
+"7088",0.510280373831776,0.2,"prop deferred with bounds crossing zero","Qiu",142,500,0.5,0.5,0.5,2,2
+"7089",0.0043010752688172,0.2,"prop wrong treatment among non-deferred","Debiased",142,500,0.5,0.5,0.5,2,2
+"7090",0.124731182795699,0.2,"prop wrong treatment among non-deferred","Qiu",142,500,0.5,0.5,0.5,2,2
+"7131",0.740841570823396,0.2,"value on non-rejected","Debiased",143,500,0.5,0.5,0.5,2,2
+"7132",0.51503815445082,0.2,"value on non-rejected","Qiu",143,500,0.5,0.5,0.5,2,2
+"7133",0.636,0.2,"porp rejected","Debiased",143,500,0.5,0.5,0.5,2,2
+"7134",0.636,0.2,"porp rejected","Qiu",143,500,0.5,0.5,0.5,2,2
+"7135",0.0359450630283072,0.2,"loss in value","Debiased",143,500,0.5,0.5,0.5,2,2
+"7136",0.141434461289899,0.2,"loss in value","Qiu",143,500,0.5,0.5,0.5,2,2
+"7137",0.498427672955975,0.2,"prop deferred with bounds crossing zero","Debiased",143,500,0.5,0.5,0.5,2,2
+"7138",0.619496855345912,0.2,"prop deferred with bounds crossing zero","Qiu",143,500,0.5,0.5,0.5,2,2
+"7139",0.0164835164835165,0.2,"prop wrong treatment among non-deferred","Debiased",143,500,0.5,0.5,0.5,2,2
+"7140",0.379120879120879,0.2,"prop wrong treatment among non-deferred","Qiu",143,500,0.5,0.5,0.5,2,2
+"7181",NA,0.2,"value on non-rejected","Debiased",144,500,0.5,0.5,0.5,2,2
+"7182",NA,0.2,"value on non-rejected","Qiu",144,500,0.5,0.5,0.5,2,2
+"7183",1,0.2,"porp rejected","Debiased",144,500,0.5,0.5,0.5,2,2
+"7184",1,0.2,"porp rejected","Qiu",144,500,0.5,0.5,0.5,2,2
+"7185",0.0512545294670041,0.2,"loss in value","Debiased",144,500,0.5,0.5,0.5,2,2
+"7186",0.0750047443468722,0.2,"loss in value","Qiu",144,500,0.5,0.5,0.5,2,2
+"7187",0.448,0.2,"prop deferred with bounds crossing zero","Debiased",144,500,0.5,0.5,0.5,2,2
+"7188",0.65,0.2,"prop deferred with bounds crossing zero","Qiu",144,500,0.5,0.5,0.5,2,2
+"7189",NA,0.2,"prop wrong treatment among non-deferred","Debiased",144,500,0.5,0.5,0.5,2,2
+"7190",NA,0.2,"prop wrong treatment among non-deferred","Qiu",144,500,0.5,0.5,0.5,2,2
+"7231",0.838965768625391,0.2,"value on non-rejected","Debiased",145,500,0.5,0.5,0.5,2,2
+"7232",0.688123680696179,0.2,"value on non-rejected","Qiu",145,500,0.5,0.5,0.5,2,2
+"7233",0.314,0.2,"porp rejected","Debiased",145,500,0.5,0.5,0.5,2,2
+"7234",0.314,0.2,"porp rejected","Qiu",145,500,0.5,0.5,0.5,2,2
+"7235",0.0385658864464129,0.2,"loss in value","Debiased",145,500,0.5,0.5,0.5,2,2
+"7236",0.131719864258304,0.2,"loss in value","Qiu",145,500,0.5,0.5,0.5,2,2
+"7237",0.85031847133758,0.2,"prop deferred with bounds crossing zero","Debiased",145,500,0.5,0.5,0.5,2,2
+"7238",0.538216560509554,0.2,"prop deferred with bounds crossing zero","Qiu",145,500,0.5,0.5,0.5,2,2
+"7239",0.0087463556851312,0.2,"prop wrong treatment among non-deferred","Debiased",145,500,0.5,0.5,0.5,2,2
+"7240",0.259475218658892,0.2,"prop wrong treatment among non-deferred","Qiu",145,500,0.5,0.5,0.5,2,2
+"7281",0.819944241613278,0.2,"value on non-rejected","Debiased",146,500,0.5,0.5,0.5,2,2
+"7282",0.633388530480769,0.2,"value on non-rejected","Qiu",146,500,0.5,0.5,0.5,2,2
+"7283",0.342,0.2,"porp rejected","Debiased",146,500,0.5,0.5,0.5,2,2
+"7284",0.342,0.2,"porp rejected","Qiu",146,500,0.5,0.5,0.5,2,2
+"7285",0.0387755042577823,0.2,"loss in value","Debiased",146,500,0.5,0.5,0.5,2,2
+"7286",0.181554406561816,0.2,"loss in value","Qiu",146,500,0.5,0.5,0.5,2,2
+"7287",0.771929824561403,0.2,"prop deferred with bounds crossing zero","Debiased",146,500,0.5,0.5,0.5,2,2
+"7288",0.64327485380117,0.2,"prop deferred with bounds crossing zero","Qiu",146,500,0.5,0.5,0.5,2,2
+"7289",0,0.2,"prop wrong treatment among non-deferred","Debiased",146,500,0.5,0.5,0.5,2,2
+"7290",0.306990881458967,0.2,"prop wrong treatment among non-deferred","Qiu",146,500,0.5,0.5,0.5,2,2
+"7331",0.761904398648433,0.2,"value on non-rejected","Debiased",147,500,0.5,0.5,0.5,2,2
+"7332",0.511469669171043,0.2,"value on non-rejected","Qiu",147,500,0.5,0.5,0.5,2,2
+"7333",0.65,0.2,"porp rejected","Debiased",147,500,0.5,0.5,0.5,2,2
+"7334",0.65,0.2,"porp rejected","Qiu",147,500,0.5,0.5,0.5,2,2
+"7335",0.0368307212232901,0.2,"loss in value","Debiased",147,500,0.5,0.5,0.5,2,2
+"7336",0.13181689859456,0.2,"loss in value","Qiu",147,500,0.5,0.5,0.5,2,2
+"7337",0.553846153846154,0.2,"prop deferred with bounds crossing zero","Debiased",147,500,0.5,0.5,0.5,2,2
+"7338",0.464615384615385,0.2,"prop deferred with bounds crossing zero","Qiu",147,500,0.5,0.5,0.5,2,2
+"7339",0,0.2,"prop wrong treatment among non-deferred","Debiased",147,500,0.5,0.5,0.5,2,2
+"7340",0.397142857142857,0.2,"prop wrong treatment among non-deferred","Qiu",147,500,0.5,0.5,0.5,2,2
+"7381",0.871984341293293,0.2,"value on non-rejected","Debiased",148,500,0.5,0.5,0.5,2,2
+"7382",0.677864767021268,0.2,"value on non-rejected","Qiu",148,500,0.5,0.5,0.5,2,2
+"7383",0.292,0.2,"porp rejected","Debiased",148,500,0.5,0.5,0.5,2,2
+"7384",0.292,0.2,"porp rejected","Qiu",148,500,0.5,0.5,0.5,2,2
+"7385",0.0441899095516263,0.2,"loss in value","Debiased",148,500,0.5,0.5,0.5,2,2
+"7386",0.1490163890822,0.2,"loss in value","Qiu",148,500,0.5,0.5,0.5,2,2
+"7387",0.914383561643836,0.2,"prop deferred with bounds crossing zero","Debiased",148,500,0.5,0.5,0.5,2,2
+"7388",0.537671232876712,0.2,"prop deferred with bounds crossing zero","Qiu",148,500,0.5,0.5,0.5,2,2
+"7389",0,0.2,"prop wrong treatment among non-deferred","Debiased",148,500,0.5,0.5,0.5,2,2
+"7390",0.255649717514124,0.2,"prop wrong treatment among non-deferred","Qiu",148,500,0.5,0.5,0.5,2,2
+"7431",0.830195529832445,0.2,"value on non-rejected","Debiased",149,500,0.5,0.5,0.5,2,2
+"7432",0.65352269014606,0.2,"value on non-rejected","Qiu",149,500,0.5,0.5,0.5,2,2
+"7433",0.399,0.2,"porp rejected","Debiased",149,500,0.5,0.5,0.5,2,2
+"7434",0.399,0.2,"porp rejected","Qiu",149,500,0.5,0.5,0.5,2,2
+"7435",0.0310576288217527,0.2,"loss in value","Debiased",149,500,0.5,0.5,0.5,2,2
+"7436",0.154565730035685,0.2,"loss in value","Qiu",149,500,0.5,0.5,0.5,2,2
+"7437",0.784461152882206,0.2,"prop deferred with bounds crossing zero","Debiased",149,500,0.5,0.5,0.5,2,2
+"7438",0.784461152882206,0.2,"prop deferred with bounds crossing zero","Qiu",149,500,0.5,0.5,0.5,2,2
+"7439",0.00166389351081531,0.2,"prop wrong treatment among non-deferred","Debiased",149,500,0.5,0.5,0.5,2,2
+"7440",0.29450915141431,0.2,"prop wrong treatment among non-deferred","Qiu",149,500,0.5,0.5,0.5,2,2
+"7481",0.873669087831103,0.2,"value on non-rejected","Debiased",150,500,0.5,0.5,0.5,2,2
+"7482",0.69983319423198,0.2,"value on non-rejected","Qiu",150,500,0.5,0.5,0.5,2,2
+"7483",0.313,0.2,"porp rejected","Debiased",150,500,0.5,0.5,0.5,2,2
+"7484",0.313,0.2,"porp rejected","Qiu",150,500,0.5,0.5,0.5,2,2
+"7485",0.0399551288969897,0.2,"loss in value","Debiased",150,500,0.5,0.5,0.5,2,2
+"7486",0.165145026132208,0.2,"loss in value","Qiu",150,500,0.5,0.5,0.5,2,2
+"7487",0.89776357827476,0.2,"prop deferred with bounds crossing zero","Debiased",150,500,0.5,0.5,0.5,2,2
+"7488",0.690095846645367,0.2,"prop deferred with bounds crossing zero","Qiu",150,500,0.5,0.5,0.5,2,2
+"7489",0,0.2,"prop wrong treatment among non-deferred","Debiased",150,500,0.5,0.5,0.5,2,2
+"7490",0.238719068413392,0.2,"prop wrong treatment among non-deferred","Qiu",150,500,0.5,0.5,0.5,2,2
+"7531",0.882186125633663,0.2,"value on non-rejected","Debiased",151,500,0.5,0.5,0.5,2,2
+"7532",0.647184133154729,0.2,"value on non-rejected","Qiu",151,500,0.5,0.5,0.5,2,2
+"7533",0.324,0.2,"porp rejected","Debiased",151,500,0.5,0.5,0.5,2,2
+"7534",0.324,0.2,"porp rejected","Qiu",151,500,0.5,0.5,0.5,2,2
+"7535",0.0453510715008078,0.2,"loss in value","Debiased",151,500,0.5,0.5,0.5,2,2
+"7536",0.15352491676241,0.2,"loss in value","Qiu",151,500,0.5,0.5,0.5,2,2
+"7537",0.882716049382716,0.2,"prop deferred with bounds crossing zero","Debiased",151,500,0.5,0.5,0.5,2,2
+"7538",0.450617283950617,0.2,"prop deferred with bounds crossing zero","Qiu",151,500,0.5,0.5,0.5,2,2
+"7539",0,0.2,"prop wrong treatment among non-deferred","Debiased",151,500,0.5,0.5,0.5,2,2
+"7540",0.285502958579882,0.2,"prop wrong treatment among non-deferred","Qiu",151,500,0.5,0.5,0.5,2,2
+"7581",0.840033971655909,0.2,"value on non-rejected","Debiased",152,500,0.5,0.5,0.5,2,2
+"7582",0.601253973131742,0.2,"value on non-rejected","Qiu",152,500,0.5,0.5,0.5,2,2
+"7583",0.293,0.2,"porp rejected","Debiased",152,500,0.5,0.5,0.5,2,2
+"7584",0.293,0.2,"porp rejected","Qiu",152,500,0.5,0.5,0.5,2,2
+"7585",0.0405566105930104,0.2,"loss in value","Debiased",152,500,0.5,0.5,0.5,2,2
+"7586",0.190926855852867,0.2,"loss in value","Qiu",152,500,0.5,0.5,0.5,2,2
+"7587",0.829351535836177,0.2,"prop deferred with bounds crossing zero","Debiased",152,500,0.5,0.5,0.5,2,2
+"7588",0.559726962457338,0.2,"prop deferred with bounds crossing zero","Qiu",152,500,0.5,0.5,0.5,2,2
+"7589",0.00707213578500707,0.2,"prop wrong treatment among non-deferred","Debiased",152,500,0.5,0.5,0.5,2,2
+"7590",0.369165487977369,0.2,"prop wrong treatment among non-deferred","Qiu",152,500,0.5,0.5,0.5,2,2
+"7631",0.830303640888342,0.2,"value on non-rejected","Debiased",153,500,0.5,0.5,0.5,2,2
+"7632",0.730244394852538,0.2,"value on non-rejected","Qiu",153,500,0.5,0.5,0.5,2,2
+"7633",0.462,0.2,"porp rejected","Debiased",153,500,0.5,0.5,0.5,2,2
+"7634",0.462,0.2,"porp rejected","Qiu",153,500,0.5,0.5,0.5,2,2
+"7635",0.0409356250906912,0.2,"loss in value","Debiased",153,500,0.5,0.5,0.5,2,2
+"7636",0.087714037196093,0.2,"loss in value","Qiu",153,500,0.5,0.5,0.5,2,2
+"7637",0.725108225108225,0.2,"prop deferred with bounds crossing zero","Debiased",153,500,0.5,0.5,0.5,2,2
+"7638",0.575757575757576,0.2,"prop deferred with bounds crossing zero","Qiu",153,500,0.5,0.5,0.5,2,2
+"7639",0,0.2,"prop wrong treatment among non-deferred","Debiased",153,500,0.5,0.5,0.5,2,2
+"7640",0.144981412639405,0.2,"prop wrong treatment among non-deferred","Qiu",153,500,0.5,0.5,0.5,2,2
+"7681",0.798112093796447,0.2,"value on non-rejected","Debiased",154,500,0.5,0.5,0.5,2,2
+"7682",0.662460525561799,0.2,"value on non-rejected","Qiu",154,500,0.5,0.5,0.5,2,2
+"7683",0.441,0.2,"porp rejected","Debiased",154,500,0.5,0.5,0.5,2,2
+"7684",0.441,0.2,"porp rejected","Qiu",154,500,0.5,0.5,0.5,2,2
+"7685",0.0413880120545282,0.2,"loss in value","Debiased",154,500,0.5,0.5,0.5,2,2
+"7686",0.129650990726557,0.2,"loss in value","Qiu",154,500,0.5,0.5,0.5,2,2
+"7687",0.80952380952381,0.2,"prop deferred with bounds crossing zero","Debiased",154,500,0.5,0.5,0.5,2,2
+"7688",0.557823129251701,0.2,"prop deferred with bounds crossing zero","Qiu",154,500,0.5,0.5,0.5,2,2
+"7689",0.0214669051878354,0.2,"prop wrong treatment among non-deferred","Debiased",154,500,0.5,0.5,0.5,2,2
+"7690",0.24865831842576,0.2,"prop wrong treatment among non-deferred","Qiu",154,500,0.5,0.5,0.5,2,2
+"7731",NA,0.2,"value on non-rejected","Debiased",155,500,0.5,0.5,0.5,2,2
+"7732",NA,0.2,"value on non-rejected","Qiu",155,500,0.5,0.5,0.5,2,2
+"7733",1,0.2,"porp rejected","Debiased",155,500,0.5,0.5,0.5,2,2
+"7734",1,0.2,"porp rejected","Qiu",155,500,0.5,0.5,0.5,2,2
+"7735",0.0696674397745137,0.2,"loss in value","Debiased",155,500,0.5,0.5,0.5,2,2
+"7736",0.0672131771081593,0.2,"loss in value","Qiu",155,500,0.5,0.5,0.5,2,2
+"7737",0.571,0.2,"prop deferred with bounds crossing zero","Debiased",155,500,0.5,0.5,0.5,2,2
+"7738",0.629,0.2,"prop deferred with bounds crossing zero","Qiu",155,500,0.5,0.5,0.5,2,2
+"7739",NA,0.2,"prop wrong treatment among non-deferred","Debiased",155,500,0.5,0.5,0.5,2,2
+"7740",NA,0.2,"prop wrong treatment among non-deferred","Qiu",155,500,0.5,0.5,0.5,2,2
+"7781",0.819828944364168,0.2,"value on non-rejected","Debiased",156,500,0.5,0.5,0.5,2,2
+"7782",0.697487037743842,0.2,"value on non-rejected","Qiu",156,500,0.5,0.5,0.5,2,2
+"7783",0.286,0.2,"porp rejected","Debiased",156,500,0.5,0.5,0.5,2,2
+"7784",0.286,0.2,"porp rejected","Qiu",156,500,0.5,0.5,0.5,2,2
+"7785",0.0281832709502832,0.2,"loss in value","Debiased",156,500,0.5,0.5,0.5,2,2
+"7786",0.122787826646559,0.2,"loss in value","Qiu",156,500,0.5,0.5,0.5,2,2
+"7787",0.765734265734266,0.2,"prop deferred with bounds crossing zero","Debiased",156,500,0.5,0.5,0.5,2,2
+"7788",0.608391608391608,0.2,"prop deferred with bounds crossing zero","Qiu",156,500,0.5,0.5,0.5,2,2
+"7789",0.0112044817927171,0.2,"prop wrong treatment among non-deferred","Debiased",156,500,0.5,0.5,0.5,2,2
+"7790",0.303921568627451,0.2,"prop wrong treatment among non-deferred","Qiu",156,500,0.5,0.5,0.5,2,2
+"7831",0.7282053771027,0.2,"value on non-rejected","Debiased",157,500,0.5,0.5,0.5,2,2
+"7832",0.656837229398119,0.2,"value on non-rejected","Qiu",157,500,0.5,0.5,0.5,2,2
+"7833",0.534,0.2,"porp rejected","Debiased",157,500,0.5,0.5,0.5,2,2
+"7834",0.534,0.2,"porp rejected","Qiu",157,500,0.5,0.5,0.5,2,2
+"7835",0.0324573359267069,0.2,"loss in value","Debiased",157,500,0.5,0.5,0.5,2,2
+"7836",0.108794547069684,0.2,"loss in value","Qiu",157,500,0.5,0.5,0.5,2,2
+"7837",0.391385767790262,0.2,"prop deferred with bounds crossing zero","Debiased",157,500,0.5,0.5,0.5,2,2
+"7838",0.578651685393258,0.2,"prop deferred with bounds crossing zero","Qiu",157,500,0.5,0.5,0.5,2,2
+"7839",0.0836909871244635,0.2,"prop wrong treatment among non-deferred","Debiased",157,500,0.5,0.5,0.5,2,2
+"7840",0.253218884120172,0.2,"prop wrong treatment among non-deferred","Qiu",157,500,0.5,0.5,0.5,2,2
+"7881",0.787787140915359,0.2,"value on non-rejected","Debiased",158,500,0.5,0.5,0.5,2,2
+"7882",0.701350441978485,0.2,"value on non-rejected","Qiu",158,500,0.5,0.5,0.5,2,2
+"7883",0.552,0.2,"porp rejected","Debiased",158,500,0.5,0.5,0.5,2,2
+"7884",0.552,0.2,"porp rejected","Qiu",158,500,0.5,0.5,0.5,2,2
+"7885",0.0391564241271907,0.2,"loss in value","Debiased",158,500,0.5,0.5,0.5,2,2
+"7886",0.118970532444107,0.2,"loss in value","Qiu",158,500,0.5,0.5,0.5,2,2
+"7887",0.715579710144927,0.2,"prop deferred with bounds crossing zero","Debiased",158,500,0.5,0.5,0.5,2,2
+"7888",0.75,0.2,"prop deferred with bounds crossing zero","Qiu",158,500,0.5,0.5,0.5,2,2
+"7889",0.00223214285714286,0.2,"prop wrong treatment among non-deferred","Debiased",158,500,0.5,0.5,0.5,2,2
+"7890",0.207589285714286,0.2,"prop wrong treatment among non-deferred","Qiu",158,500,0.5,0.5,0.5,2,2
+"7931",0.815932259075444,0.2,"value on non-rejected","Debiased",159,500,0.5,0.5,0.5,2,2
+"7932",0.485404919571677,0.2,"value on non-rejected","Qiu",159,500,0.5,0.5,0.5,2,2
+"7933",0.883,0.2,"porp rejected","Debiased",159,500,0.5,0.5,0.5,2,2
+"7934",0.883,0.2,"porp rejected","Qiu",159,500,0.5,0.5,0.5,2,2
+"7935",0.0580430979282822,0.2,"loss in value","Debiased",159,500,0.5,0.5,0.5,2,2
+"7936",0.0915081585186488,0.2,"loss in value","Qiu",159,500,0.5,0.5,0.5,2,2
+"7937",0.602491506228766,0.2,"prop deferred with bounds crossing zero","Debiased",159,500,0.5,0.5,0.5,2,2
+"7938",0.54246885617214,0.2,"prop deferred with bounds crossing zero","Qiu",159,500,0.5,0.5,0.5,2,2
+"7939",0,0.2,"prop wrong treatment among non-deferred","Debiased",159,500,0.5,0.5,0.5,2,2
+"7940",0.384615384615385,0.2,"prop wrong treatment among non-deferred","Qiu",159,500,0.5,0.5,0.5,2,2
+"7981",NA,0.2,"value on non-rejected","Debiased",160,500,0.5,0.5,0.5,2,2
+"7982",NA,0.2,"value on non-rejected","Qiu",160,500,0.5,0.5,0.5,2,2
+"7983",1,0.2,"porp rejected","Debiased",160,500,0.5,0.5,0.5,2,2
+"7984",1,0.2,"porp rejected","Qiu",160,500,0.5,0.5,0.5,2,2
+"7985",0.0632761588806825,0.2,"loss in value","Debiased",160,500,0.5,0.5,0.5,2,2
+"7986",0.0791282695792149,0.2,"loss in value","Qiu",160,500,0.5,0.5,0.5,2,2
+"7987",0.565,0.2,"prop deferred with bounds crossing zero","Debiased",160,500,0.5,0.5,0.5,2,2
+"7988",0.672,0.2,"prop deferred with bounds crossing zero","Qiu",160,500,0.5,0.5,0.5,2,2
+"7989",NA,0.2,"prop wrong treatment among non-deferred","Debiased",160,500,0.5,0.5,0.5,2,2
+"7990",NA,0.2,"prop wrong treatment among non-deferred","Qiu",160,500,0.5,0.5,0.5,2,2
+"8031",0.7667809859446,0.2,"value on non-rejected","Debiased",161,500,0.5,0.5,0.5,2,2
+"8032",0.650377974590885,0.2,"value on non-rejected","Qiu",161,500,0.5,0.5,0.5,2,2
+"8033",0.551,0.2,"porp rejected","Debiased",161,500,0.5,0.5,0.5,2,2
+"8034",0.551,0.2,"porp rejected","Qiu",161,500,0.5,0.5,0.5,2,2
+"8035",0.036663159245926,0.2,"loss in value","Debiased",161,500,0.5,0.5,0.5,2,2
+"8036",0.102624226697083,0.2,"loss in value","Qiu",161,500,0.5,0.5,0.5,2,2
+"8037",0.519056261343013,0.2,"prop deferred with bounds crossing zero","Debiased",161,500,0.5,0.5,0.5,2,2
+"8038",0.575317604355717,0.2,"prop deferred with bounds crossing zero","Qiu",161,500,0.5,0.5,0.5,2,2
+"8039",0.0133630289532294,0.2,"prop wrong treatment among non-deferred","Debiased",161,500,0.5,0.5,0.5,2,2
+"8040",0.224944320712695,0.2,"prop wrong treatment among non-deferred","Qiu",161,500,0.5,0.5,0.5,2,2
+"8081",0.795606301504751,0.2,"value on non-rejected","Debiased",162,500,0.5,0.5,0.5,2,2
+"8082",0.668435453619034,0.2,"value on non-rejected","Qiu",162,500,0.5,0.5,0.5,2,2
+"8083",0.861,0.2,"porp rejected","Debiased",162,500,0.5,0.5,0.5,2,2
+"8084",0.861,0.2,"porp rejected","Qiu",162,500,0.5,0.5,0.5,2,2
+"8085",0.0548171311206763,0.2,"loss in value","Debiased",162,500,0.5,0.5,0.5,2,2
+"8086",0.0545522968245121,0.2,"loss in value","Qiu",162,500,0.5,0.5,0.5,2,2
+"8087",0.527293844367015,0.2,"prop deferred with bounds crossing zero","Debiased",162,500,0.5,0.5,0.5,2,2
+"8088",0.465737514518002,0.2,"prop deferred with bounds crossing zero","Qiu",162,500,0.5,0.5,0.5,2,2
+"8089",0,0.2,"prop wrong treatment among non-deferred","Debiased",162,500,0.5,0.5,0.5,2,2
+"8090",0.122302158273381,0.2,"prop wrong treatment among non-deferred","Qiu",162,500,0.5,0.5,0.5,2,2
+"8131",0.740326718884295,0.2,"value on non-rejected","Debiased",163,500,0.5,0.5,0.5,2,2
+"8132",0.683942149686339,0.2,"value on non-rejected","Qiu",163,500,0.5,0.5,0.5,2,2
+"8133",0.634,0.2,"porp rejected","Debiased",163,500,0.5,0.5,0.5,2,2
+"8134",0.634,0.2,"porp rejected","Qiu",163,500,0.5,0.5,0.5,2,2
+"8135",0.0414377713018492,0.2,"loss in value","Debiased",163,500,0.5,0.5,0.5,2,2
+"8136",0.0819189480300711,0.2,"loss in value","Qiu",163,500,0.5,0.5,0.5,2,2
+"8137",0.520504731861199,0.2,"prop deferred with bounds crossing zero","Debiased",163,500,0.5,0.5,0.5,2,2
+"8138",0.591482649842271,0.2,"prop deferred with bounds crossing zero","Qiu",163,500,0.5,0.5,0.5,2,2
+"8139",0.0136612021857923,0.2,"prop wrong treatment among non-deferred","Debiased",163,500,0.5,0.5,0.5,2,2
+"8140",0.139344262295082,0.2,"prop wrong treatment among non-deferred","Qiu",163,500,0.5,0.5,0.5,2,2
+"8181",0.809445820350949,0.2,"value on non-rejected","Debiased",164,500,0.5,0.5,0.5,2,2
+"8182",0.665629841330171,0.2,"value on non-rejected","Qiu",164,500,0.5,0.5,0.5,2,2
+"8183",0.363,0.2,"porp rejected","Debiased",164,500,0.5,0.5,0.5,2,2
+"8184",0.363,0.2,"porp rejected","Qiu",164,500,0.5,0.5,0.5,2,2
+"8185",0.0322635937891594,0.2,"loss in value","Debiased",164,500,0.5,0.5,0.5,2,2
+"8186",0.157261826272481,0.2,"loss in value","Qiu",164,500,0.5,0.5,0.5,2,2
+"8187",0.787878787878788,0.2,"prop deferred with bounds crossing zero","Debiased",164,500,0.5,0.5,0.5,2,2
+"8188",0.523415977961432,0.2,"prop deferred with bounds crossing zero","Qiu",164,500,0.5,0.5,0.5,2,2
+"8189",0.00313971742543171,0.2,"prop wrong treatment among non-deferred","Debiased",164,500,0.5,0.5,0.5,2,2
+"8190",0.262166405023548,0.2,"prop wrong treatment among non-deferred","Qiu",164,500,0.5,0.5,0.5,2,2
+"8231",0.869441465066994,0.2,"value on non-rejected","Debiased",165,500,0.5,0.5,0.5,2,2
+"8232",0.630879502676463,0.2,"value on non-rejected","Qiu",165,500,0.5,0.5,0.5,2,2
+"8233",0.315,0.2,"porp rejected","Debiased",165,500,0.5,0.5,0.5,2,2
+"8234",0.315,0.2,"porp rejected","Qiu",165,500,0.5,0.5,0.5,2,2
+"8235",0.0409238229921143,0.2,"loss in value","Debiased",165,500,0.5,0.5,0.5,2,2
+"8236",0.168196128708453,0.2,"loss in value","Qiu",165,500,0.5,0.5,0.5,2,2
+"8237",0.904761904761905,0.2,"prop deferred with bounds crossing zero","Debiased",165,500,0.5,0.5,0.5,2,2
+"8238",0.507936507936508,0.2,"prop deferred with bounds crossing zero","Qiu",165,500,0.5,0.5,0.5,2,2
+"8239",0,0.2,"prop wrong treatment among non-deferred","Debiased",165,500,0.5,0.5,0.5,2,2
+"8240",0.310948905109489,0.2,"prop wrong treatment among non-deferred","Qiu",165,500,0.5,0.5,0.5,2,2
+"8281",0.760298425217199,0.2,"value on non-rejected","Debiased",166,500,0.5,0.5,0.5,2,2
+"8282",0.580996052441261,0.2,"value on non-rejected","Qiu",166,500,0.5,0.5,0.5,2,2
+"8283",0.757,0.2,"porp rejected","Debiased",166,500,0.5,0.5,0.5,2,2
+"8284",0.757,0.2,"porp rejected","Qiu",166,500,0.5,0.5,0.5,2,2
+"8285",0.0470233292683516,0.2,"loss in value","Debiased",166,500,0.5,0.5,0.5,2,2
+"8286",0.0968499909358088,0.2,"loss in value","Qiu",166,500,0.5,0.5,0.5,2,2
+"8287",0.55217965653897,0.2,"prop deferred with bounds crossing zero","Debiased",166,500,0.5,0.5,0.5,2,2
+"8288",0.541611624834874,0.2,"prop deferred with bounds crossing zero","Qiu",166,500,0.5,0.5,0.5,2,2
+"8289",0.00823045267489712,0.2,"prop wrong treatment among non-deferred","Debiased",166,500,0.5,0.5,0.5,2,2
+"8290",0.259259259259259,0.2,"prop wrong treatment among non-deferred","Qiu",166,500,0.5,0.5,0.5,2,2
+"8331",0.808312954564728,0.2,"value on non-rejected","Debiased",167,500,0.5,0.5,0.5,2,2
+"8332",0.589413706526632,0.2,"value on non-rejected","Qiu",167,500,0.5,0.5,0.5,2,2
+"8333",0.616,0.2,"porp rejected","Debiased",167,500,0.5,0.5,0.5,2,2
+"8334",0.616,0.2,"porp rejected","Qiu",167,500,0.5,0.5,0.5,2,2
+"8335",0.0440845791136858,0.2,"loss in value","Debiased",167,500,0.5,0.5,0.5,2,2
+"8336",0.130557625896222,0.2,"loss in value","Qiu",167,500,0.5,0.5,0.5,2,2
+"8337",0.685064935064935,0.2,"prop deferred with bounds crossing zero","Debiased",167,500,0.5,0.5,0.5,2,2
+"8338",0.542207792207792,0.2,"prop deferred with bounds crossing zero","Qiu",167,500,0.5,0.5,0.5,2,2
+"8339",0,0.2,"prop wrong treatment among non-deferred","Debiased",167,500,0.5,0.5,0.5,2,2
+"8340",0.317708333333333,0.2,"prop wrong treatment among non-deferred","Qiu",167,500,0.5,0.5,0.5,2,2
+"8381",0.84601355457778,0.2,"value on non-rejected","Debiased",168,500,0.5,0.5,0.5,2,2
+"8382",0.662337021705078,0.2,"value on non-rejected","Qiu",168,500,0.5,0.5,0.5,2,2
+"8383",0.37,0.2,"porp rejected","Debiased",168,500,0.5,0.5,0.5,2,2
+"8384",0.37,0.2,"porp rejected","Qiu",168,500,0.5,0.5,0.5,2,2
+"8385",0.0449085963261453,0.2,"loss in value","Debiased",168,500,0.5,0.5,0.5,2,2
+"8386",0.151893097124705,0.2,"loss in value","Qiu",168,500,0.5,0.5,0.5,2,2
+"8387",0.805405405405405,0.2,"prop deferred with bounds crossing zero","Debiased",168,500,0.5,0.5,0.5,2,2
+"8388",0.6,0.2,"prop deferred with bounds crossing zero","Qiu",168,500,0.5,0.5,0.5,2,2
+"8389",0,0.2,"prop wrong treatment among non-deferred","Debiased",168,500,0.5,0.5,0.5,2,2
+"8390",0.249206349206349,0.2,"prop wrong treatment among non-deferred","Qiu",168,500,0.5,0.5,0.5,2,2
+"8431",NA,0.2,"value on non-rejected","Debiased",169,500,0.5,0.5,0.5,2,2
+"8432",NA,0.2,"value on non-rejected","Qiu",169,500,0.5,0.5,0.5,2,2
+"8433",1,0.2,"porp rejected","Debiased",169,500,0.5,0.5,0.5,2,2
+"8434",1,0.2,"porp rejected","Qiu",169,500,0.5,0.5,0.5,2,2
+"8435",0.0702618132495168,0.2,"loss in value","Debiased",169,500,0.5,0.5,0.5,2,2
+"8436",0.0667188237378647,0.2,"loss in value","Qiu",169,500,0.5,0.5,0.5,2,2
+"8437",0.616,0.2,"prop deferred with bounds crossing zero","Debiased",169,500,0.5,0.5,0.5,2,2
+"8438",0.582,0.2,"prop deferred with bounds crossing zero","Qiu",169,500,0.5,0.5,0.5,2,2
+"8439",NA,0.2,"prop wrong treatment among non-deferred","Debiased",169,500,0.5,0.5,0.5,2,2
+"8440",NA,0.2,"prop wrong treatment among non-deferred","Qiu",169,500,0.5,0.5,0.5,2,2
+"8481",0.826466172352659,0.2,"value on non-rejected","Debiased",170,500,0.5,0.5,0.5,2,2
+"8482",0.65894333461098,0.2,"value on non-rejected","Qiu",170,500,0.5,0.5,0.5,2,2
+"8483",0.456,0.2,"porp rejected","Debiased",170,500,0.5,0.5,0.5,2,2
+"8484",0.456,0.2,"porp rejected","Qiu",170,500,0.5,0.5,0.5,2,2
+"8485",0.0392859854199027,0.2,"loss in value","Debiased",170,500,0.5,0.5,0.5,2,2
+"8486",0.123676153428114,0.2,"loss in value","Qiu",170,500,0.5,0.5,0.5,2,2
+"8487",0.723684210526316,0.2,"prop deferred with bounds crossing zero","Debiased",170,500,0.5,0.5,0.5,2,2
+"8488",0.517543859649123,0.2,"prop deferred with bounds crossing zero","Qiu",170,500,0.5,0.5,0.5,2,2
+"8489",0,0.2,"prop wrong treatment among non-deferred","Debiased",170,500,0.5,0.5,0.5,2,2
+"8490",0.262867647058824,0.2,"prop wrong treatment among non-deferred","Qiu",170,500,0.5,0.5,0.5,2,2
+"8531",0.804157520853634,0.2,"value on non-rejected","Debiased",171,500,0.5,0.5,0.5,2,2
+"8532",0.661050603609006,0.2,"value on non-rejected","Qiu",171,500,0.5,0.5,0.5,2,2
+"8533",0.579,0.2,"porp rejected","Debiased",171,500,0.5,0.5,0.5,2,2
+"8534",0.579,0.2,"porp rejected","Qiu",171,500,0.5,0.5,0.5,2,2
+"8535",0.0422698860794008,0.2,"loss in value","Debiased",171,500,0.5,0.5,0.5,2,2
+"8536",0.0914516627459076,0.2,"loss in value","Qiu",171,500,0.5,0.5,0.5,2,2
+"8537",0.614853195164076,0.2,"prop deferred with bounds crossing zero","Debiased",171,500,0.5,0.5,0.5,2,2
+"8538",0.521588946459413,0.2,"prop deferred with bounds crossing zero","Qiu",171,500,0.5,0.5,0.5,2,2
+"8539",0.00475059382422803,0.2,"prop wrong treatment among non-deferred","Debiased",171,500,0.5,0.5,0.5,2,2
+"8540",0.190023752969121,0.2,"prop wrong treatment among non-deferred","Qiu",171,500,0.5,0.5,0.5,2,2
+"8581",0.807326145122135,0.2,"value on non-rejected","Debiased",172,500,0.5,0.5,0.5,2,2
+"8582",0.701747557780097,0.2,"value on non-rejected","Qiu",172,500,0.5,0.5,0.5,2,2
+"8583",0.36,0.2,"porp rejected","Debiased",172,500,0.5,0.5,0.5,2,2
+"8584",0.36,0.2,"porp rejected","Qiu",172,500,0.5,0.5,0.5,2,2
+"8585",0.0371481300679857,0.2,"loss in value","Debiased",172,500,0.5,0.5,0.5,2,2
+"8586",0.110005830463314,0.2,"loss in value","Qiu",172,500,0.5,0.5,0.5,2,2
+"8587",0.627777777777778,0.2,"prop deferred with bounds crossing zero","Debiased",172,500,0.5,0.5,0.5,2,2
+"8588",0.558333333333333,0.2,"prop deferred with bounds crossing zero","Qiu",172,500,0.5,0.5,0.5,2,2
+"8589",0.0453125,0.2,"prop wrong treatment among non-deferred","Debiased",172,500,0.5,0.5,0.5,2,2
+"8590",0.25625,0.2,"prop wrong treatment among non-deferred","Qiu",172,500,0.5,0.5,0.5,2,2
+"8631",0.834565573795121,0.2,"value on non-rejected","Debiased",173,500,0.5,0.5,0.5,2,2
+"8632",0.622070081075047,0.2,"value on non-rejected","Qiu",173,500,0.5,0.5,0.5,2,2
+"8633",0.423,0.2,"porp rejected","Debiased",173,500,0.5,0.5,0.5,2,2
+"8634",0.423,0.2,"porp rejected","Qiu",173,500,0.5,0.5,0.5,2,2
+"8635",0.0320777494140787,0.2,"loss in value","Debiased",173,500,0.5,0.5,0.5,2,2
+"8636",0.157779189740805,0.2,"loss in value","Qiu",173,500,0.5,0.5,0.5,2,2
+"8637",0.690307328605201,0.2,"prop deferred with bounds crossing zero","Debiased",173,500,0.5,0.5,0.5,2,2
+"8638",0.721040189125296,0.2,"prop deferred with bounds crossing zero","Qiu",173,500,0.5,0.5,0.5,2,2
+"8639",0.00173310225303293,0.2,"prop wrong treatment among non-deferred","Debiased",173,500,0.5,0.5,0.5,2,2
+"8640",0.337954939341421,0.2,"prop wrong treatment among non-deferred","Qiu",173,500,0.5,0.5,0.5,2,2
+"8681",0.754467696991396,0.2,"value on non-rejected","Debiased",174,500,0.5,0.5,0.5,2,2
+"8682",0.608474472628524,0.2,"value on non-rejected","Qiu",174,500,0.5,0.5,0.5,2,2
+"8683",0.566,0.2,"porp rejected","Debiased",174,500,0.5,0.5,0.5,2,2
+"8684",0.566,0.2,"porp rejected","Qiu",174,500,0.5,0.5,0.5,2,2
+"8685",0.0458175626464802,0.2,"loss in value","Debiased",174,500,0.5,0.5,0.5,2,2
+"8686",0.103691545134249,0.2,"loss in value","Qiu",174,500,0.5,0.5,0.5,2,2
+"8687",0.524734982332155,0.2,"prop deferred with bounds crossing zero","Debiased",174,500,0.5,0.5,0.5,2,2
+"8688",0.512367491166078,0.2,"prop deferred with bounds crossing zero","Qiu",174,500,0.5,0.5,0.5,2,2
+"8689",0.0506912442396313,0.2,"prop wrong treatment among non-deferred","Debiased",174,500,0.5,0.5,0.5,2,2
+"8690",0.26036866359447,0.2,"prop wrong treatment among non-deferred","Qiu",174,500,0.5,0.5,0.5,2,2
+"8731",0.787678227936906,0.2,"value on non-rejected","Debiased",175,500,0.5,0.5,0.5,2,2
+"8732",0.684260692004404,0.2,"value on non-rejected","Qiu",175,500,0.5,0.5,0.5,2,2
+"8733",0.378,0.2,"porp rejected","Debiased",175,500,0.5,0.5,0.5,2,2
+"8734",0.378,0.2,"porp rejected","Qiu",175,500,0.5,0.5,0.5,2,2
+"8735",0.0419895486063121,0.2,"loss in value","Debiased",175,500,0.5,0.5,0.5,2,2
+"8736",0.127190781341681,0.2,"loss in value","Qiu",175,500,0.5,0.5,0.5,2,2
+"8737",0.841269841269841,0.2,"prop deferred with bounds crossing zero","Debiased",175,500,0.5,0.5,0.5,2,2
+"8738",0.436507936507937,0.2,"prop deferred with bounds crossing zero","Qiu",175,500,0.5,0.5,0.5,2,2
+"8739",0.0369774919614148,0.2,"prop wrong treatment among non-deferred","Debiased",175,500,0.5,0.5,0.5,2,2
+"8740",0.231511254019293,0.2,"prop wrong treatment among non-deferred","Qiu",175,500,0.5,0.5,0.5,2,2
+"8781",0.799240403705648,0.2,"value on non-rejected","Debiased",176,500,0.5,0.5,0.5,2,2
+"8782",0.49176039033163,0.2,"value on non-rejected","Qiu",176,500,0.5,0.5,0.5,2,2
+"8783",0.843,0.2,"porp rejected","Debiased",176,500,0.5,0.5,0.5,2,2
+"8784",0.843,0.2,"porp rejected","Qiu",176,500,0.5,0.5,0.5,2,2
+"8785",0.0576171296562114,0.2,"loss in value","Debiased",176,500,0.5,0.5,0.5,2,2
+"8786",0.095811155570592,0.2,"loss in value","Qiu",176,500,0.5,0.5,0.5,2,2
+"8787",0.695136417556346,0.2,"prop deferred with bounds crossing zero","Debiased",176,500,0.5,0.5,0.5,2,2
+"8788",0.567022538552788,0.2,"prop deferred with bounds crossing zero","Qiu",176,500,0.5,0.5,0.5,2,2
+"8789",0,0.2,"prop wrong treatment among non-deferred","Debiased",176,500,0.5,0.5,0.5,2,2
+"8790",0.382165605095541,0.2,"prop wrong treatment among non-deferred","Qiu",176,500,0.5,0.5,0.5,2,2
+"8831",0.731646008720105,0.2,"value on non-rejected","Debiased",177,500,0.5,0.5,0.5,2,2
+"8832",0.617195392351608,0.2,"value on non-rejected","Qiu",177,500,0.5,0.5,0.5,2,2
+"8833",0.467,0.2,"porp rejected","Debiased",177,500,0.5,0.5,0.5,2,2
+"8834",0.467,0.2,"porp rejected","Qiu",177,500,0.5,0.5,0.5,2,2
+"8835",0.048584664788284,0.2,"loss in value","Debiased",177,500,0.5,0.5,0.5,2,2
+"8836",0.146333025534049,0.2,"loss in value","Qiu",177,500,0.5,0.5,0.5,2,2
+"8837",0.488222698072805,0.2,"prop deferred with bounds crossing zero","Debiased",177,500,0.5,0.5,0.5,2,2
+"8838",0.620985010706638,0.2,"prop deferred with bounds crossing zero","Qiu",177,500,0.5,0.5,0.5,2,2
+"8839",0.114446529080675,0.2,"prop wrong treatment among non-deferred","Debiased",177,500,0.5,0.5,0.5,2,2
+"8840",0.352720450281426,0.2,"prop wrong treatment among non-deferred","Qiu",177,500,0.5,0.5,0.5,2,2
+"8881",NA,0.2,"value on non-rejected","Debiased",178,500,0.5,0.5,0.5,2,2
+"8882",NA,0.2,"value on non-rejected","Qiu",178,500,0.5,0.5,0.5,2,2
+"8883",1,0.2,"porp rejected","Debiased",178,500,0.5,0.5,0.5,2,2
+"8884",1,0.2,"porp rejected","Qiu",178,500,0.5,0.5,0.5,2,2
+"8885",0.0774325848671065,0.2,"loss in value","Debiased",178,500,0.5,0.5,0.5,2,2
+"8886",0.0686566489492443,0.2,"loss in value","Qiu",178,500,0.5,0.5,0.5,2,2
+"8887",0.679,0.2,"prop deferred with bounds crossing zero","Debiased",178,500,0.5,0.5,0.5,2,2
+"8888",0.617,0.2,"prop deferred with bounds crossing zero","Qiu",178,500,0.5,0.5,0.5,2,2
+"8889",NA,0.2,"prop wrong treatment among non-deferred","Debiased",178,500,0.5,0.5,0.5,2,2
+"8890",NA,0.2,"prop wrong treatment among non-deferred","Qiu",178,500,0.5,0.5,0.5,2,2
+"8931",0.76308093308074,0.2,"value on non-rejected","Debiased",179,500,0.5,0.5,0.5,2,2
+"8932",0.543639466426089,0.2,"value on non-rejected","Qiu",179,500,0.5,0.5,0.5,2,2
+"8933",0.601,0.2,"porp rejected","Debiased",179,500,0.5,0.5,0.5,2,2
+"8934",0.601,0.2,"porp rejected","Qiu",179,500,0.5,0.5,0.5,2,2
+"8935",0.0496823279406162,0.2,"loss in value","Debiased",179,500,0.5,0.5,0.5,2,2
+"8936",0.139786905560351,0.2,"loss in value","Qiu",179,500,0.5,0.5,0.5,2,2
+"8937",0.603993344425957,0.2,"prop deferred with bounds crossing zero","Debiased",179,500,0.5,0.5,0.5,2,2
+"8938",0.605657237936772,0.2,"prop deferred with bounds crossing zero","Qiu",179,500,0.5,0.5,0.5,2,2
+"8939",0.0275689223057644,0.2,"prop wrong treatment among non-deferred","Debiased",179,500,0.5,0.5,0.5,2,2
+"8940",0.343358395989975,0.2,"prop wrong treatment among non-deferred","Qiu",179,500,0.5,0.5,0.5,2,2
+"8981",0.759843263572669,0.2,"value on non-rejected","Debiased",180,500,0.5,0.5,0.5,2,2
+"8982",0.59418126078384,0.2,"value on non-rejected","Qiu",180,500,0.5,0.5,0.5,2,2
+"8983",0.57,0.2,"porp rejected","Debiased",180,500,0.5,0.5,0.5,2,2
+"8984",0.57,0.2,"porp rejected","Qiu",180,500,0.5,0.5,0.5,2,2
+"8985",0.0375622850038295,0.2,"loss in value","Debiased",180,500,0.5,0.5,0.5,2,2
+"8986",0.118883467399568,0.2,"loss in value","Qiu",180,500,0.5,0.5,0.5,2,2
+"8987",0.640350877192982,0.2,"prop deferred with bounds crossing zero","Debiased",180,500,0.5,0.5,0.5,2,2
+"8988",0.585964912280702,0.2,"prop deferred with bounds crossing zero","Qiu",180,500,0.5,0.5,0.5,2,2
+"8989",0.00232558139534884,0.2,"prop wrong treatment among non-deferred","Debiased",180,500,0.5,0.5,0.5,2,2
+"8990",0.295348837209302,0.2,"prop wrong treatment among non-deferred","Qiu",180,500,0.5,0.5,0.5,2,2
+"9031",0.773654634472124,0.2,"value on non-rejected","Debiased",181,500,0.5,0.5,0.5,2,2
+"9032",0.621041922585998,0.2,"value on non-rejected","Qiu",181,500,0.5,0.5,0.5,2,2
+"9033",0.598,0.2,"porp rejected","Debiased",181,500,0.5,0.5,0.5,2,2
+"9034",0.598,0.2,"porp rejected","Qiu",181,500,0.5,0.5,0.5,2,2
+"9035",0.0423991448746438,0.2,"loss in value","Debiased",181,500,0.5,0.5,0.5,2,2
+"9036",0.124710445733858,0.2,"loss in value","Qiu",181,500,0.5,0.5,0.5,2,2
+"9037",0.553511705685619,0.2,"prop deferred with bounds crossing zero","Debiased",181,500,0.5,0.5,0.5,2,2
+"9038",0.58695652173913,0.2,"prop deferred with bounds crossing zero","Qiu",181,500,0.5,0.5,0.5,2,2
+"9039",0.00248756218905473,0.2,"prop wrong treatment among non-deferred","Debiased",181,500,0.5,0.5,0.5,2,2
+"9040",0.310945273631841,0.2,"prop wrong treatment among non-deferred","Qiu",181,500,0.5,0.5,0.5,2,2
+"9081",0.741228508255708,0.2,"value on non-rejected","Debiased",182,500,0.5,0.5,0.5,2,2
+"9082",0.616754174810436,0.2,"value on non-rejected","Qiu",182,500,0.5,0.5,0.5,2,2
+"9083",0.385,0.2,"porp rejected","Debiased",182,500,0.5,0.5,0.5,2,2
+"9084",0.385,0.2,"porp rejected","Qiu",182,500,0.5,0.5,0.5,2,2
+"9085",0.0421766089765869,0.2,"loss in value","Debiased",182,500,0.5,0.5,0.5,2,2
+"9086",0.168729220932302,0.2,"loss in value","Qiu",182,500,0.5,0.5,0.5,2,2
+"9087",0.574025974025974,0.2,"prop deferred with bounds crossing zero","Debiased",182,500,0.5,0.5,0.5,2,2
+"9088",0.753246753246753,0.2,"prop deferred with bounds crossing zero","Qiu",182,500,0.5,0.5,0.5,2,2
+"9089",0.104065040650407,0.2,"prop wrong treatment among non-deferred","Debiased",182,500,0.5,0.5,0.5,2,2
+"9090",0.331707317073171,0.2,"prop wrong treatment among non-deferred","Qiu",182,500,0.5,0.5,0.5,2,2
+"9131",0.783532170772447,0.2,"value on non-rejected","Debiased",183,500,0.5,0.5,0.5,2,2
+"9132",0.676862283823477,0.2,"value on non-rejected","Qiu",183,500,0.5,0.5,0.5,2,2
+"9133",0.38,0.2,"porp rejected","Debiased",183,500,0.5,0.5,0.5,2,2
+"9134",0.38,0.2,"porp rejected","Qiu",183,500,0.5,0.5,0.5,2,2
+"9135",0.0524131833327521,0.2,"loss in value","Debiased",183,500,0.5,0.5,0.5,2,2
+"9136",0.135668351249057,0.2,"loss in value","Qiu",183,500,0.5,0.5,0.5,2,2
+"9137",0.605263157894737,0.2,"prop deferred with bounds crossing zero","Debiased",183,500,0.5,0.5,0.5,2,2
+"9138",0.657894736842105,0.2,"prop deferred with bounds crossing zero","Qiu",183,500,0.5,0.5,0.5,2,2
+"9139",0.101612903225806,0.2,"prop wrong treatment among non-deferred","Debiased",183,500,0.5,0.5,0.5,2,2
+"9140",0.216129032258065,0.2,"prop wrong treatment among non-deferred","Qiu",183,500,0.5,0.5,0.5,2,2
+"9181",NA,0.2,"value on non-rejected","Debiased",184,500,0.5,0.5,0.5,2,2
+"9182",NA,0.2,"value on non-rejected","Qiu",184,500,0.5,0.5,0.5,2,2
+"9183",1,0.2,"porp rejected","Debiased",184,500,0.5,0.5,0.5,2,2
+"9184",1,0.2,"porp rejected","Qiu",184,500,0.5,0.5,0.5,2,2
+"9185",0.0700383296460947,0.2,"loss in value","Debiased",184,500,0.5,0.5,0.5,2,2
+"9186",0.0548588852967481,0.2,"loss in value","Qiu",184,500,0.5,0.5,0.5,2,2
+"9187",0.609,0.2,"prop deferred with bounds crossing zero","Debiased",184,500,0.5,0.5,0.5,2,2
+"9188",0.547,0.2,"prop deferred with bounds crossing zero","Qiu",184,500,0.5,0.5,0.5,2,2
+"9189",NA,0.2,"prop wrong treatment among non-deferred","Debiased",184,500,0.5,0.5,0.5,2,2
+"9190",NA,0.2,"prop wrong treatment among non-deferred","Qiu",184,500,0.5,0.5,0.5,2,2
+"9231",0.798739610263688,0.2,"value on non-rejected","Debiased",185,500,0.5,0.5,0.5,2,2
+"9232",0.660515918457585,0.2,"value on non-rejected","Qiu",185,500,0.5,0.5,0.5,2,2
+"9233",0.278,0.2,"porp rejected","Debiased",185,500,0.5,0.5,0.5,2,2
+"9234",0.278,0.2,"porp rejected","Qiu",185,500,0.5,0.5,0.5,2,2
+"9235",0.0507985709465949,0.2,"loss in value","Debiased",185,500,0.5,0.5,0.5,2,2
+"9236",0.147438413395978,0.2,"loss in value","Qiu",185,500,0.5,0.5,0.5,2,2
+"9237",0.557553956834532,0.2,"prop deferred with bounds crossing zero","Debiased",185,500,0.5,0.5,0.5,2,2
+"9238",0.546762589928058,0.2,"prop deferred with bounds crossing zero","Qiu",185,500,0.5,0.5,0.5,2,2
+"9239",0.0775623268698061,0.2,"prop wrong treatment among non-deferred","Debiased",185,500,0.5,0.5,0.5,2,2
+"9240",0.318559556786704,0.2,"prop wrong treatment among non-deferred","Qiu",185,500,0.5,0.5,0.5,2,2
+"9281",0.830802079753539,0.2,"value on non-rejected","Debiased",186,500,0.5,0.5,0.5,2,2
+"9282",0.675014216115116,0.2,"value on non-rejected","Qiu",186,500,0.5,0.5,0.5,2,2
+"9283",0.341,0.2,"porp rejected","Debiased",186,500,0.5,0.5,0.5,2,2
+"9284",0.341,0.2,"porp rejected","Qiu",186,500,0.5,0.5,0.5,2,2
+"9285",0.0377519736219317,0.2,"loss in value","Debiased",186,500,0.5,0.5,0.5,2,2
+"9286",0.136531811135764,0.2,"loss in value","Qiu",186,500,0.5,0.5,0.5,2,2
+"9287",0.826979472140763,0.2,"prop deferred with bounds crossing zero","Debiased",186,500,0.5,0.5,0.5,2,2
+"9288",0.548387096774194,0.2,"prop deferred with bounds crossing zero","Qiu",186,500,0.5,0.5,0.5,2,2
+"9289",0,0.2,"prop wrong treatment among non-deferred","Debiased",186,500,0.5,0.5,0.5,2,2
+"9290",0.233687405159332,0.2,"prop wrong treatment among non-deferred","Qiu",186,500,0.5,0.5,0.5,2,2
+"9331",NA,0.2,"value on non-rejected","Debiased",187,500,0.5,0.5,0.5,2,2
+"9332",NA,0.2,"value on non-rejected","Qiu",187,500,0.5,0.5,0.5,2,2
+"9333",1,0.2,"porp rejected","Debiased",187,500,0.5,0.5,0.5,2,2
+"9334",1,0.2,"porp rejected","Qiu",187,500,0.5,0.5,0.5,2,2
+"9335",0.0506228768526451,0.2,"loss in value","Debiased",187,500,0.5,0.5,0.5,2,2
+"9336",0.0851972203536906,0.2,"loss in value","Qiu",187,500,0.5,0.5,0.5,2,2
+"9337",0.493,0.2,"prop deferred with bounds crossing zero","Debiased",187,500,0.5,0.5,0.5,2,2
+"9338",0.7,0.2,"prop deferred with bounds crossing zero","Qiu",187,500,0.5,0.5,0.5,2,2
+"9339",NA,0.2,"prop wrong treatment among non-deferred","Debiased",187,500,0.5,0.5,0.5,2,2
+"9340",NA,0.2,"prop wrong treatment among non-deferred","Qiu",187,500,0.5,0.5,0.5,2,2
+"9381",0.842188955952331,0.2,"value on non-rejected","Debiased",188,500,0.5,0.5,0.5,2,2
+"9382",0.626723429887304,0.2,"value on non-rejected","Qiu",188,500,0.5,0.5,0.5,2,2
+"9383",0.5,0.2,"porp rejected","Debiased",188,500,0.5,0.5,0.5,2,2
+"9384",0.5,0.2,"porp rejected","Qiu",188,500,0.5,0.5,0.5,2,2
+"9385",0.0396501653005217,0.2,"loss in value","Debiased",188,500,0.5,0.5,0.5,2,2
+"9386",0.123827947178738,0.2,"loss in value","Qiu",188,500,0.5,0.5,0.5,2,2
+"9387",0.742,0.2,"prop deferred with bounds crossing zero","Debiased",188,500,0.5,0.5,0.5,2,2
+"9388",0.562,0.2,"prop deferred with bounds crossing zero","Qiu",188,500,0.5,0.5,0.5,2,2
+"9389",0,0.2,"prop wrong treatment among non-deferred","Debiased",188,500,0.5,0.5,0.5,2,2
+"9390",0.27,0.2,"prop wrong treatment among non-deferred","Qiu",188,500,0.5,0.5,0.5,2,2
+"9431",0.777624275719032,0.2,"value on non-rejected","Debiased",189,500,0.5,0.5,0.5,2,2
+"9432",0.613936593248319,0.2,"value on non-rejected","Qiu",189,500,0.5,0.5,0.5,2,2
+"9433",0.559,0.2,"porp rejected","Debiased",189,500,0.5,0.5,0.5,2,2
+"9434",0.559,0.2,"porp rejected","Qiu",189,500,0.5,0.5,0.5,2,2
+"9435",0.0383674338490919,0.2,"loss in value","Debiased",189,500,0.5,0.5,0.5,2,2
+"9436",0.143788432987709,0.2,"loss in value","Qiu",189,500,0.5,0.5,0.5,2,2
+"9437",0.558139534883721,0.2,"prop deferred with bounds crossing zero","Debiased",189,500,0.5,0.5,0.5,2,2
+"9438",0.676207513416816,0.2,"prop deferred with bounds crossing zero","Qiu",189,500,0.5,0.5,0.5,2,2
+"9439",0,0.2,"prop wrong treatment among non-deferred","Debiased",189,500,0.5,0.5,0.5,2,2
+"9440",0.287981859410431,0.2,"prop wrong treatment among non-deferred","Qiu",189,500,0.5,0.5,0.5,2,2
+"9481",0.863718028321402,0.2,"value on non-rejected","Debiased",190,500,0.5,0.5,0.5,2,2
+"9482",0.692437296172245,0.2,"value on non-rejected","Qiu",190,500,0.5,0.5,0.5,2,2
+"9483",0.233,0.2,"porp rejected","Debiased",190,500,0.5,0.5,0.5,2,2
+"9484",0.233,0.2,"porp rejected","Qiu",190,500,0.5,0.5,0.5,2,2
+"9485",0.0379827665949459,0.2,"loss in value","Debiased",190,500,0.5,0.5,0.5,2,2
+"9486",0.161876827420917,0.2,"loss in value","Qiu",190,500,0.5,0.5,0.5,2,2
+"9487",0.905579399141631,0.2,"prop deferred with bounds crossing zero","Debiased",190,500,0.5,0.5,0.5,2,2
+"9488",0.665236051502146,0.2,"prop deferred with bounds crossing zero","Qiu",190,500,0.5,0.5,0.5,2,2
+"9489",0,0.2,"prop wrong treatment among non-deferred","Debiased",190,500,0.5,0.5,0.5,2,2
+"9490",0.247718383311604,0.2,"prop wrong treatment among non-deferred","Qiu",190,500,0.5,0.5,0.5,2,2
+"9531",0.854807850654448,0.2,"value on non-rejected","Debiased",191,500,0.5,0.5,0.5,2,2
+"9532",0.659476014986415,0.2,"value on non-rejected","Qiu",191,500,0.5,0.5,0.5,2,2
+"9533",0.34,0.2,"porp rejected","Debiased",191,500,0.5,0.5,0.5,2,2
+"9534",0.34,0.2,"porp rejected","Qiu",191,500,0.5,0.5,0.5,2,2
+"9535",0.0401115384782831,0.2,"loss in value","Debiased",191,500,0.5,0.5,0.5,2,2
+"9536",0.15547164083879,0.2,"loss in value","Qiu",191,500,0.5,0.5,0.5,2,2
+"9537",0.870588235294118,0.2,"prop deferred with bounds crossing zero","Debiased",191,500,0.5,0.5,0.5,2,2
+"9538",0.467647058823529,0.2,"prop deferred with bounds crossing zero","Qiu",191,500,0.5,0.5,0.5,2,2
+"9539",0,0.2,"prop wrong treatment among non-deferred","Debiased",191,500,0.5,0.5,0.5,2,2
+"9540",0.275757575757576,0.2,"prop wrong treatment among non-deferred","Qiu",191,500,0.5,0.5,0.5,2,2
+"9581",0.735507435275856,0.2,"value on non-rejected","Debiased",192,500,0.5,0.5,0.5,2,2
+"9582",0.632407036699215,0.2,"value on non-rejected","Qiu",192,500,0.5,0.5,0.5,2,2
+"9583",0.562,0.2,"porp rejected","Debiased",192,500,0.5,0.5,0.5,2,2
+"9584",0.562,0.2,"porp rejected","Qiu",192,500,0.5,0.5,0.5,2,2
+"9585",0.0471357032973498,0.2,"loss in value","Debiased",192,500,0.5,0.5,0.5,2,2
+"9586",0.127051603912234,0.2,"loss in value","Qiu",192,500,0.5,0.5,0.5,2,2
+"9587",0.4644128113879,0.2,"prop deferred with bounds crossing zero","Debiased",192,500,0.5,0.5,0.5,2,2
+"9588",0.663701067615658,0.2,"prop deferred with bounds crossing zero","Qiu",192,500,0.5,0.5,0.5,2,2
+"9589",0.0730593607305936,0.2,"prop wrong treatment among non-deferred","Debiased",192,500,0.5,0.5,0.5,2,2
+"9590",0.264840182648402,0.2,"prop wrong treatment among non-deferred","Qiu",192,500,0.5,0.5,0.5,2,2
+"9631",0.845600287306365,0.2,"value on non-rejected","Debiased",193,500,0.5,0.5,0.5,2,2
+"9632",0.698676673615857,0.2,"value on non-rejected","Qiu",193,500,0.5,0.5,0.5,2,2
+"9633",0.324,0.2,"porp rejected","Debiased",193,500,0.5,0.5,0.5,2,2
+"9634",0.324,0.2,"porp rejected","Qiu",193,500,0.5,0.5,0.5,2,2
+"9635",0.0446630727872433,0.2,"loss in value","Debiased",193,500,0.5,0.5,0.5,2,2
+"9636",0.140592408719901,0.2,"loss in value","Qiu",193,500,0.5,0.5,0.5,2,2
+"9637",0.873456790123457,0.2,"prop deferred with bounds crossing zero","Debiased",193,500,0.5,0.5,0.5,2,2
+"9638",0.685185185185185,0.2,"prop deferred with bounds crossing zero","Qiu",193,500,0.5,0.5,0.5,2,2
+"9639",0,0.2,"prop wrong treatment among non-deferred","Debiased",193,500,0.5,0.5,0.5,2,2
+"9640",0.247041420118343,0.2,"prop wrong treatment among non-deferred","Qiu",193,500,0.5,0.5,0.5,2,2
+"9681",0.755373003843477,0.2,"value on non-rejected","Debiased",194,500,0.5,0.5,0.5,2,2
+"9682",0.602331739206707,0.2,"value on non-rejected","Qiu",194,500,0.5,0.5,0.5,2,2
+"9683",0.796,0.2,"porp rejected","Debiased",194,500,0.5,0.5,0.5,2,2
+"9684",0.796,0.2,"porp rejected","Qiu",194,500,0.5,0.5,0.5,2,2
+"9685",0.059069538430644,0.2,"loss in value","Debiased",194,500,0.5,0.5,0.5,2,2
+"9686",0.0913730005710175,0.2,"loss in value","Qiu",194,500,0.5,0.5,0.5,2,2
+"9687",0.648241206030151,0.2,"prop deferred with bounds crossing zero","Debiased",194,500,0.5,0.5,0.5,2,2
+"9688",0.590452261306533,0.2,"prop deferred with bounds crossing zero","Qiu",194,500,0.5,0.5,0.5,2,2
+"9689",0.00980392156862745,0.2,"prop wrong treatment among non-deferred","Debiased",194,500,0.5,0.5,0.5,2,2
+"9690",0.25,0.2,"prop wrong treatment among non-deferred","Qiu",194,500,0.5,0.5,0.5,2,2
+"9731",0.787552661618864,0.2,"value on non-rejected","Debiased",195,500,0.5,0.5,0.5,2,2
+"9732",0.591737651499561,0.2,"value on non-rejected","Qiu",195,500,0.5,0.5,0.5,2,2
+"9733",0.379,0.2,"porp rejected","Debiased",195,500,0.5,0.5,0.5,2,2
+"9734",0.379,0.2,"porp rejected","Qiu",195,500,0.5,0.5,0.5,2,2
+"9735",0.0490843127990646,0.2,"loss in value","Debiased",195,500,0.5,0.5,0.5,2,2
+"9736",0.180199801988411,0.2,"loss in value","Qiu",195,500,0.5,0.5,0.5,2,2
+"9737",0.630606860158311,0.2,"prop deferred with bounds crossing zero","Debiased",195,500,0.5,0.5,0.5,2,2
+"9738",0.564643799472295,0.2,"prop deferred with bounds crossing zero","Qiu",195,500,0.5,0.5,0.5,2,2
+"9739",0.0338164251207729,0.2,"prop wrong treatment among non-deferred","Debiased",195,500,0.5,0.5,0.5,2,2
+"9740",0.322061191626409,0.2,"prop wrong treatment among non-deferred","Qiu",195,500,0.5,0.5,0.5,2,2
+"9781",0.719816554841329,0.2,"value on non-rejected","Debiased",196,500,0.5,0.5,0.5,2,2
+"9782",0.582240253241115,0.2,"value on non-rejected","Qiu",196,500,0.5,0.5,0.5,2,2
+"9783",0.456,0.2,"porp rejected","Debiased",196,500,0.5,0.5,0.5,2,2
+"9784",0.456,0.2,"porp rejected","Qiu",196,500,0.5,0.5,0.5,2,2
+"9785",0.0397321688249201,0.2,"loss in value","Debiased",196,500,0.5,0.5,0.5,2,2
+"9786",0.159079948314326,0.2,"loss in value","Qiu",196,500,0.5,0.5,0.5,2,2
+"9787",0.405701754385965,0.2,"prop deferred with bounds crossing zero","Debiased",196,500,0.5,0.5,0.5,2,2
+"9788",0.506578947368421,0.2,"prop deferred with bounds crossing zero","Qiu",196,500,0.5,0.5,0.5,2,2
+"9789",0.143382352941176,0.2,"prop wrong treatment among non-deferred","Debiased",196,500,0.5,0.5,0.5,2,2
+"9790",0.3125,0.2,"prop wrong treatment among non-deferred","Qiu",196,500,0.5,0.5,0.5,2,2
+"9831",0.809589985076536,0.2,"value on non-rejected","Debiased",197,500,0.5,0.5,0.5,2,2
+"9832",0.647241413800792,0.2,"value on non-rejected","Qiu",197,500,0.5,0.5,0.5,2,2
+"9833",0.361,0.2,"porp rejected","Debiased",197,500,0.5,0.5,0.5,2,2
+"9834",0.361,0.2,"porp rejected","Qiu",197,500,0.5,0.5,0.5,2,2
+"9835",0.0475967881048477,0.2,"loss in value","Debiased",197,500,0.5,0.5,0.5,2,2
+"9836",0.152050609320962,0.2,"loss in value","Qiu",197,500,0.5,0.5,0.5,2,2
+"9837",0.817174515235457,0.2,"prop deferred with bounds crossing zero","Debiased",197,500,0.5,0.5,0.5,2,2
+"9838",0.642659279778393,0.2,"prop deferred with bounds crossing zero","Qiu",197,500,0.5,0.5,0.5,2,2
+"9839",0,0.2,"prop wrong treatment among non-deferred","Debiased",197,500,0.5,0.5,0.5,2,2
+"9840",0.276995305164319,0.2,"prop wrong treatment among non-deferred","Qiu",197,500,0.5,0.5,0.5,2,2
+"9881",0.813433918888879,0.2,"value on non-rejected","Debiased",198,500,0.5,0.5,0.5,2,2
+"9882",0.675926578996953,0.2,"value on non-rejected","Qiu",198,500,0.5,0.5,0.5,2,2
+"9883",0.379,0.2,"porp rejected","Debiased",198,500,0.5,0.5,0.5,2,2
+"9884",0.379,0.2,"porp rejected","Qiu",198,500,0.5,0.5,0.5,2,2
+"9885",0.0360418002477838,0.2,"loss in value","Debiased",198,500,0.5,0.5,0.5,2,2
+"9886",0.136406290893914,0.2,"loss in value","Qiu",198,500,0.5,0.5,0.5,2,2
+"9887",0.738786279683377,0.2,"prop deferred with bounds crossing zero","Debiased",198,500,0.5,0.5,0.5,2,2
+"9888",0.596306068601583,0.2,"prop deferred with bounds crossing zero","Qiu",198,500,0.5,0.5,0.5,2,2
+"9889",0.00966183574879227,0.2,"prop wrong treatment among non-deferred","Debiased",198,500,0.5,0.5,0.5,2,2
+"9890",0.235104669887279,0.2,"prop wrong treatment among non-deferred","Qiu",198,500,0.5,0.5,0.5,2,2
+"9931",0.843963770772708,0.2,"value on non-rejected","Debiased",199,500,0.5,0.5,0.5,2,2
+"9932",0.604665338532531,0.2,"value on non-rejected","Qiu",199,500,0.5,0.5,0.5,2,2
+"9933",0.281,0.2,"porp rejected","Debiased",199,500,0.5,0.5,0.5,2,2
+"9934",0.281,0.2,"porp rejected","Qiu",199,500,0.5,0.5,0.5,2,2
+"9935",0.0433622603086161,0.2,"loss in value","Debiased",199,500,0.5,0.5,0.5,2,2
+"9936",0.194256629706159,0.2,"loss in value","Qiu",199,500,0.5,0.5,0.5,2,2
+"9937",0.864768683274021,0.2,"prop deferred with bounds crossing zero","Debiased",199,500,0.5,0.5,0.5,2,2
+"9938",0.544483985765125,0.2,"prop deferred with bounds crossing zero","Qiu",199,500,0.5,0.5,0.5,2,2
+"9939",0,0.2,"prop wrong treatment among non-deferred","Debiased",199,500,0.5,0.5,0.5,2,2
+"9940",0.343532684283727,0.2,"prop wrong treatment among non-deferred","Qiu",199,500,0.5,0.5,0.5,2,2
+"9981",0.73380590172921,0.2,"value on non-rejected","Debiased",200,500,0.5,0.5,0.5,2,2
+"9982",0.68080229696784,0.2,"value on non-rejected","Qiu",200,500,0.5,0.5,0.5,2,2
+"9983",0.427,0.2,"porp rejected","Debiased",200,500,0.5,0.5,0.5,2,2
+"9984",0.427,0.2,"porp rejected","Qiu",200,500,0.5,0.5,0.5,2,2
+"9985",0.0335546354400925,0.2,"loss in value","Debiased",200,500,0.5,0.5,0.5,2,2
+"9986",0.129291760858749,0.2,"loss in value","Qiu",200,500,0.5,0.5,0.5,2,2
+"9987",0.39344262295082,0.2,"prop deferred with bounds crossing zero","Debiased",200,500,0.5,0.5,0.5,2,2
+"9988",0.665105386416862,0.2,"prop deferred with bounds crossing zero","Qiu",200,500,0.5,0.5,0.5,2,2
+"9989",0.0942408376963351,0.2,"prop wrong treatment among non-deferred","Debiased",200,500,0.5,0.5,0.5,2,2
+"9990",0.242582897033159,0.2,"prop wrong treatment among non-deferred","Qiu",200,500,0.5,0.5,0.5,2,2

@@ -1,0 +1,1201 @@
+"","value","d","metric","method","index","n","lambda","xi","delta","setting1","setting2"
+"1",0.850211635589727,0.3,"value on non-rejected","Debiased",1,500,1.5,1.5,1.5,1,2
+"2",NA,0.3,"value on non-rejected","No-debias",1,500,1.5,1.5,1.5,1,2
+"3",0.576,0.3,"porp rejected","Debiased",1,500,1.5,1.5,1.5,1,2
+"4",1,0.3,"porp rejected","No-debias",1,500,1.5,1.5,1.5,1,2
+"5",0.0973601044434132,0.3,"loss in value","Debiased",1,500,1.5,1.5,1.5,1,2
+"6",0.137859129392169,0.3,"loss in value","No-debias",1,500,1.5,1.5,1.5,1,2
+"7",NA,0.3,"value on non-rejected","Debiased",2,500,1.5,1.5,1.5,1,2
+"8",NA,0.3,"value on non-rejected","No-debias",2,500,1.5,1.5,1.5,1,2
+"9",1,0.3,"porp rejected","Debiased",2,500,1.5,1.5,1.5,1,2
+"10",1,0.3,"porp rejected","No-debias",2,500,1.5,1.5,1.5,1,2
+"11",0.141484848235513,0.3,"loss in value","Debiased",2,500,1.5,1.5,1.5,1,2
+"12",0.141484848235513,0.3,"loss in value","No-debias",2,500,1.5,1.5,1.5,1,2
+"13",0.881995955243349,0.3,"value on non-rejected","Debiased",3,500,1.5,1.5,1.5,1,2
+"14",NA,0.3,"value on non-rejected","No-debias",3,500,1.5,1.5,1.5,1,2
+"15",0.694,0.3,"porp rejected","Debiased",3,500,1.5,1.5,1.5,1,2
+"16",1,0.3,"porp rejected","No-debias",3,500,1.5,1.5,1.5,1,2
+"17",0.099775067838476,0.3,"loss in value","Debiased",3,500,1.5,1.5,1.5,1,2
+"18",0.124190964574933,0.3,"loss in value","No-debias",3,500,1.5,1.5,1.5,1,2
+"19",0.809689565152372,0.3,"value on non-rejected","Debiased",4,500,1.5,1.5,1.5,1,2
+"20",NA,0.3,"value on non-rejected","No-debias",4,500,1.5,1.5,1.5,1,2
+"21",0.118,0.3,"porp rejected","Debiased",4,500,1.5,1.5,1.5,1,2
+"22",1,0.3,"porp rejected","No-debias",4,500,1.5,1.5,1.5,1,2
+"23",0.135949407670788,0.3,"loss in value","Debiased",4,500,1.5,1.5,1.5,1,2
+"24",0.115661701215671,0.3,"loss in value","No-debias",4,500,1.5,1.5,1.5,1,2
+"25",0.917420126391665,0.3,"value on non-rejected","Debiased",5,500,1.5,1.5,1.5,1,2
+"26",NA,0.3,"value on non-rejected","No-debias",5,500,1.5,1.5,1.5,1,2
+"27",0.733,0.3,"porp rejected","Debiased",5,500,1.5,1.5,1.5,1,2
+"28",1,0.3,"porp rejected","No-debias",5,500,1.5,1.5,1.5,1,2
+"29",0.107711697628188,0.3,"loss in value","Debiased",5,500,1.5,1.5,1.5,1,2
+"30",0.118668114095592,0.3,"loss in value","No-debias",5,500,1.5,1.5,1.5,1,2
+"31",0.906593516022669,0.3,"value on non-rejected","Debiased",6,500,1.5,1.5,1.5,1,2
+"32",NA,0.3,"value on non-rejected","No-debias",6,500,1.5,1.5,1.5,1,2
+"33",0.216,0.3,"porp rejected","Debiased",6,500,1.5,1.5,1.5,1,2
+"34",1,0.3,"porp rejected","No-debias",6,500,1.5,1.5,1.5,1,2
+"35",0.119258360346438,0.3,"loss in value","Debiased",6,500,1.5,1.5,1.5,1,2
+"36",0.141441502538778,0.3,"loss in value","No-debias",6,500,1.5,1.5,1.5,1,2
+"37",0.884886777553507,0.3,"value on non-rejected","Debiased",7,500,1.5,1.5,1.5,1,2
+"38",NA,0.3,"value on non-rejected","No-debias",7,500,1.5,1.5,1.5,1,2
+"39",0.787,0.3,"porp rejected","Debiased",7,500,1.5,1.5,1.5,1,2
+"40",1,0.3,"porp rejected","No-debias",7,500,1.5,1.5,1.5,1,2
+"41",0.109235309475616,0.3,"loss in value","Debiased",7,500,1.5,1.5,1.5,1,2
+"42",0.127915762092691,0.3,"loss in value","No-debias",7,500,1.5,1.5,1.5,1,2
+"43",0.905128534510804,0.3,"value on non-rejected","Debiased",8,500,1.5,1.5,1.5,1,2
+"44",NA,0.3,"value on non-rejected","No-debias",8,500,1.5,1.5,1.5,1,2
+"45",0.194,0.3,"porp rejected","Debiased",8,500,1.5,1.5,1.5,1,2
+"46",1,0.3,"porp rejected","No-debias",8,500,1.5,1.5,1.5,1,2
+"47",0.0953665422377767,0.3,"loss in value","Debiased",8,500,1.5,1.5,1.5,1,2
+"48",0.123295809031373,0.3,"loss in value","No-debias",8,500,1.5,1.5,1.5,1,2
+"49",0.92397763784715,0.3,"value on non-rejected","Debiased",9,500,1.5,1.5,1.5,1,2
+"50",0.702329313653085,0.3,"value on non-rejected","No-debias",9,500,1.5,1.5,1.5,1,2
+"51",0.799,0.3,"porp rejected","Debiased",9,500,1.5,1.5,1.5,1,2
+"52",0.977,0.3,"porp rejected","No-debias",9,500,1.5,1.5,1.5,1,2
+"53",0.129536319956845,0.3,"loss in value","Debiased",9,500,1.5,1.5,1.5,1,2
+"54",0.146233017791044,0.3,"loss in value","No-debias",9,500,1.5,1.5,1.5,1,2
+"55",0.857051026378821,0.3,"value on non-rejected","Debiased",10,500,1.5,1.5,1.5,1,2
+"56",NA,0.3,"value on non-rejected","No-debias",10,500,1.5,1.5,1.5,1,2
+"57",0.735,0.3,"porp rejected","Debiased",10,500,1.5,1.5,1.5,1,2
+"58",1,0.3,"porp rejected","No-debias",10,500,1.5,1.5,1.5,1,2
+"59",0.100405597930977,0.3,"loss in value","Debiased",10,500,1.5,1.5,1.5,1,2
+"60",0.119378778493632,0.3,"loss in value","No-debias",10,500,1.5,1.5,1.5,1,2
+"61",0.828285805742264,0.3,"value on non-rejected","Debiased",11,500,1.5,1.5,1.5,1,2
+"62",NA,0.3,"value on non-rejected","No-debias",11,500,1.5,1.5,1.5,1,2
+"63",0.257,0.3,"porp rejected","Debiased",11,500,1.5,1.5,1.5,1,2
+"64",1,0.3,"porp rejected","No-debias",11,500,1.5,1.5,1.5,1,2
+"65",0.130056826819645,0.3,"loss in value","Debiased",11,500,1.5,1.5,1.5,1,2
+"66",0.12921386234929,0.3,"loss in value","No-debias",11,500,1.5,1.5,1.5,1,2
+"67",0.895557392299801,0.3,"value on non-rejected","Debiased",12,500,1.5,1.5,1.5,1,2
+"68",NA,0.3,"value on non-rejected","No-debias",12,500,1.5,1.5,1.5,1,2
+"69",0.149,0.3,"porp rejected","Debiased",12,500,1.5,1.5,1.5,1,2
+"70",1,0.3,"porp rejected","No-debias",12,500,1.5,1.5,1.5,1,2
+"71",0.0899402222258339,0.3,"loss in value","Debiased",12,500,1.5,1.5,1.5,1,2
+"72",0.134722300782573,0.3,"loss in value","No-debias",12,500,1.5,1.5,1.5,1,2
+"73",0.839680488295253,0.3,"value on non-rejected","Debiased",13,500,1.5,1.5,1.5,1,2
+"74",0.787765080204862,0.3,"value on non-rejected","No-debias",13,500,1.5,1.5,1.5,1,2
+"75",0.54,0.3,"porp rejected","Debiased",13,500,1.5,1.5,1.5,1,2
+"76",0.236,0.3,"porp rejected","No-debias",13,500,1.5,1.5,1.5,1,2
+"77",0.104565048866022,0.3,"loss in value","Debiased",13,500,1.5,1.5,1.5,1,2
+"78",0.235282473781063,0.3,"loss in value","No-debias",13,500,1.5,1.5,1.5,1,2
+"79",0.898900160232065,0.3,"value on non-rejected","Debiased",14,500,1.5,1.5,1.5,1,2
+"80",NA,0.3,"value on non-rejected","No-debias",14,500,1.5,1.5,1.5,1,2
+"81",0.298,0.3,"porp rejected","Debiased",14,500,1.5,1.5,1.5,1,2
+"82",1,0.3,"porp rejected","No-debias",14,500,1.5,1.5,1.5,1,2
+"83",0.0917122831702859,0.3,"loss in value","Debiased",14,500,1.5,1.5,1.5,1,2
+"84",0.110366164173217,0.3,"loss in value","No-debias",14,500,1.5,1.5,1.5,1,2
+"85",0.86559139468041,0.3,"value on non-rejected","Debiased",15,500,1.5,1.5,1.5,1,2
+"86",NA,0.3,"value on non-rejected","No-debias",15,500,1.5,1.5,1.5,1,2
+"87",0.703,0.3,"porp rejected","Debiased",15,500,1.5,1.5,1.5,1,2
+"88",1,0.3,"porp rejected","No-debias",15,500,1.5,1.5,1.5,1,2
+"89",0.108478695214788,0.3,"loss in value","Debiased",15,500,1.5,1.5,1.5,1,2
+"90",0.1367235049972,0.3,"loss in value","No-debias",15,500,1.5,1.5,1.5,1,2
+"91",0.845552704622046,0.3,"value on non-rejected","Debiased",16,500,1.5,1.5,1.5,1,2
+"92",0.801362490816189,0.3,"value on non-rejected","No-debias",16,500,1.5,1.5,1.5,1,2
+"93",0.918,0.3,"porp rejected","Debiased",16,500,1.5,1.5,1.5,1,2
+"94",0,0.3,"porp rejected","No-debias",16,500,1.5,1.5,1.5,1,2
+"95",0.128941520783305,0.3,"loss in value","Debiased",16,500,1.5,1.5,1.5,1,2
+"96",0.217491784890717,0.3,"loss in value","No-debias",16,500,1.5,1.5,1.5,1,2
+"97",0.890024587769482,0.3,"value on non-rejected","Debiased",17,500,1.5,1.5,1.5,1,2
+"98",NA,0.3,"value on non-rejected","No-debias",17,500,1.5,1.5,1.5,1,2
+"99",0.249,0.3,"porp rejected","Debiased",17,500,1.5,1.5,1.5,1,2
+"100",1,0.3,"porp rejected","No-debias",17,500,1.5,1.5,1.5,1,2
+"101",0.0832342838919795,0.3,"loss in value","Debiased",17,500,1.5,1.5,1.5,1,2
+"102",0.119368105022544,0.3,"loss in value","No-debias",17,500,1.5,1.5,1.5,1,2
+"103",0.899735326759219,0.3,"value on non-rejected","Debiased",18,500,1.5,1.5,1.5,1,2
+"104",0.724172782586904,0.3,"value on non-rejected","No-debias",18,500,1.5,1.5,1.5,1,2
+"105",0.282,0.3,"porp rejected","Debiased",18,500,1.5,1.5,1.5,1,2
+"106",0.997,0.3,"porp rejected","No-debias",18,500,1.5,1.5,1.5,1,2
+"107",0.082227540318594,0.3,"loss in value","Debiased",18,500,1.5,1.5,1.5,1,2
+"108",0.123775109942337,0.3,"loss in value","No-debias",18,500,1.5,1.5,1.5,1,2
+"109",0.906239688142625,0.3,"value on non-rejected","Debiased",19,500,1.5,1.5,1.5,1,2
+"110",0.804377553713588,0.3,"value on non-rejected","No-debias",19,500,1.5,1.5,1.5,1,2
+"111",0.541,0.3,"porp rejected","Debiased",19,500,1.5,1.5,1.5,1,2
+"112",0.012,0.3,"porp rejected","No-debias",19,500,1.5,1.5,1.5,1,2
+"113",0.108501925063506,0.3,"loss in value","Debiased",19,500,1.5,1.5,1.5,1,2
+"114",0.187687132459593,0.3,"loss in value","No-debias",19,500,1.5,1.5,1.5,1,2
+"115",NA,0.3,"value on non-rejected","Debiased",20,500,1.5,1.5,1.5,1,2
+"116",NA,0.3,"value on non-rejected","No-debias",20,500,1.5,1.5,1.5,1,2
+"117",1,0.3,"porp rejected","Debiased",20,500,1.5,1.5,1.5,1,2
+"118",1,0.3,"porp rejected","No-debias",20,500,1.5,1.5,1.5,1,2
+"119",0.135723528785881,0.3,"loss in value","Debiased",20,500,1.5,1.5,1.5,1,2
+"120",0.135723528785881,0.3,"loss in value","No-debias",20,500,1.5,1.5,1.5,1,2
+"121",0.849597709363565,0.3,"value on non-rejected","Debiased",21,500,1.5,1.5,1.5,1,2
+"122",NA,0.3,"value on non-rejected","No-debias",21,500,1.5,1.5,1.5,1,2
+"123",0.549,0.3,"porp rejected","Debiased",21,500,1.5,1.5,1.5,1,2
+"124",1,0.3,"porp rejected","No-debias",21,500,1.5,1.5,1.5,1,2
+"125",0.0941281406456279,0.3,"loss in value","Debiased",21,500,1.5,1.5,1.5,1,2
+"126",0.132472402043687,0.3,"loss in value","No-debias",21,500,1.5,1.5,1.5,1,2
+"127",0.806381234411029,0.3,"value on non-rejected","Debiased",22,500,1.5,1.5,1.5,1,2
+"128",0.73765242091491,0.3,"value on non-rejected","No-debias",22,500,1.5,1.5,1.5,1,2
+"129",0.025,0.3,"porp rejected","Debiased",22,500,1.5,1.5,1.5,1,2
+"130",0.833,0.3,"porp rejected","No-debias",22,500,1.5,1.5,1.5,1,2
+"131",0.183617087733415,0.3,"loss in value","Debiased",22,500,1.5,1.5,1.5,1,2
+"132",0.17602275609208,0.3,"loss in value","No-debias",22,500,1.5,1.5,1.5,1,2
+"133",0.882618264005882,0.3,"value on non-rejected","Debiased",23,500,1.5,1.5,1.5,1,2
+"134",NA,0.3,"value on non-rejected","No-debias",23,500,1.5,1.5,1.5,1,2
+"135",0.661,0.3,"porp rejected","Debiased",23,500,1.5,1.5,1.5,1,2
+"136",1,0.3,"porp rejected","No-debias",23,500,1.5,1.5,1.5,1,2
+"137",0.0988265147769571,0.3,"loss in value","Debiased",23,500,1.5,1.5,1.5,1,2
+"138",0.133204916446623,0.3,"loss in value","No-debias",23,500,1.5,1.5,1.5,1,2
+"139",0.858423534421387,0.3,"value on non-rejected","Debiased",24,500,1.5,1.5,1.5,1,2
+"140",NA,0.3,"value on non-rejected","No-debias",24,500,1.5,1.5,1.5,1,2
+"141",0.377,0.3,"porp rejected","Debiased",24,500,1.5,1.5,1.5,1,2
+"142",1,0.3,"porp rejected","No-debias",24,500,1.5,1.5,1.5,1,2
+"143",0.0771023815122409,0.3,"loss in value","Debiased",24,500,1.5,1.5,1.5,1,2
+"144",0.125279567760543,0.3,"loss in value","No-debias",24,500,1.5,1.5,1.5,1,2
+"145",0.888011659278544,0.3,"value on non-rejected","Debiased",25,500,1.5,1.5,1.5,1,2
+"146",0.65990200657901,0.3,"value on non-rejected","No-debias",25,500,1.5,1.5,1.5,1,2
+"147",0.437,0.3,"porp rejected","Debiased",25,500,1.5,1.5,1.5,1,2
+"148",0.993,0.3,"porp rejected","No-debias",25,500,1.5,1.5,1.5,1,2
+"149",0.133753070320815,0.3,"loss in value","Debiased",25,500,1.5,1.5,1.5,1,2
+"150",0.144195120853374,0.3,"loss in value","No-debias",25,500,1.5,1.5,1.5,1,2
+"151",0.882026529964133,0.3,"value on non-rejected","Debiased",26,500,1.5,1.5,1.5,1,2
+"152",0.79211100145215,0.3,"value on non-rejected","No-debias",26,500,1.5,1.5,1.5,1,2
+"153",0.318,0.3,"porp rejected","Debiased",26,500,1.5,1.5,1.5,1,2
+"154",0.148,0.3,"porp rejected","No-debias",26,500,1.5,1.5,1.5,1,2
+"155",0.0984008918889665,0.3,"loss in value","Debiased",26,500,1.5,1.5,1.5,1,2
+"156",0.176421106327173,0.3,"loss in value","No-debias",26,500,1.5,1.5,1.5,1,2
+"157",NA,0.3,"value on non-rejected","Debiased",27,500,1.5,1.5,1.5,1,2
+"158",NA,0.3,"value on non-rejected","No-debias",27,500,1.5,1.5,1.5,1,2
+"159",1,0.3,"porp rejected","Debiased",27,500,1.5,1.5,1.5,1,2
+"160",1,0.3,"porp rejected","No-debias",27,500,1.5,1.5,1.5,1,2
+"161",0.122707619203443,0.3,"loss in value","Debiased",27,500,1.5,1.5,1.5,1,2
+"162",0.122707619203443,0.3,"loss in value","No-debias",27,500,1.5,1.5,1.5,1,2
+"163",0.897205111227423,0.3,"value on non-rejected","Debiased",28,500,1.5,1.5,1.5,1,2
+"164",NA,0.3,"value on non-rejected","No-debias",28,500,1.5,1.5,1.5,1,2
+"165",0.227,0.3,"porp rejected","Debiased",28,500,1.5,1.5,1.5,1,2
+"166",1,0.3,"porp rejected","No-debias",28,500,1.5,1.5,1.5,1,2
+"167",0.103303069866709,0.3,"loss in value","Debiased",28,500,1.5,1.5,1.5,1,2
+"168",0.132709661389017,0.3,"loss in value","No-debias",28,500,1.5,1.5,1.5,1,2
+"169",0.871326248800441,0.3,"value on non-rejected","Debiased",29,500,1.5,1.5,1.5,1,2
+"170",NA,0.3,"value on non-rejected","No-debias",29,500,1.5,1.5,1.5,1,2
+"171",0.314,0.3,"porp rejected","Debiased",29,500,1.5,1.5,1.5,1,2
+"172",1,0.3,"porp rejected","No-debias",29,500,1.5,1.5,1.5,1,2
+"173",0.0787222674465109,0.3,"loss in value","Debiased",29,500,1.5,1.5,1.5,1,2
+"174",0.119189674879509,0.3,"loss in value","No-debias",29,500,1.5,1.5,1.5,1,2
+"175",0.880846964967585,0.3,"value on non-rejected","Debiased",30,500,1.5,1.5,1.5,1,2
+"176",0.764809378352103,0.3,"value on non-rejected","No-debias",30,500,1.5,1.5,1.5,1,2
+"177",0.261,0.3,"porp rejected","Debiased",30,500,1.5,1.5,1.5,1,2
+"178",0.733,0.3,"porp rejected","No-debias",30,500,1.5,1.5,1.5,1,2
+"179",0.0869697547094923,0.3,"loss in value","Debiased",30,500,1.5,1.5,1.5,1,2
+"180",0.180890857659807,0.3,"loss in value","No-debias",30,500,1.5,1.5,1.5,1,2
+"181",0.920632621594567,0.3,"value on non-rejected","Debiased",31,500,1.5,1.5,1.5,1,2
+"182",NA,0.3,"value on non-rejected","No-debias",31,500,1.5,1.5,1.5,1,2
+"183",0.971,0.3,"porp rejected","Debiased",31,500,1.5,1.5,1.5,1,2
+"184",1,0.3,"porp rejected","No-debias",31,500,1.5,1.5,1.5,1,2
+"185",0.134852408014407,0.3,"loss in value","Debiased",31,500,1.5,1.5,1.5,1,2
+"186",0.13599651996411,0.3,"loss in value","No-debias",31,500,1.5,1.5,1.5,1,2
+"187",0.817390424277595,0.3,"value on non-rejected","Debiased",32,500,1.5,1.5,1.5,1,2
+"188",NA,0.3,"value on non-rejected","No-debias",32,500,1.5,1.5,1.5,1,2
+"189",0.132,0.3,"porp rejected","Debiased",32,500,1.5,1.5,1.5,1,2
+"190",1,0.3,"porp rejected","No-debias",32,500,1.5,1.5,1.5,1,2
+"191",0.1221214314066,0.3,"loss in value","Debiased",32,500,1.5,1.5,1.5,1,2
+"192",0.12989588818573,0.3,"loss in value","No-debias",32,500,1.5,1.5,1.5,1,2
+"193",0.889847120569447,0.3,"value on non-rejected","Debiased",33,500,1.5,1.5,1.5,1,2
+"194",NA,0.3,"value on non-rejected","No-debias",33,500,1.5,1.5,1.5,1,2
+"195",0.207,0.3,"porp rejected","Debiased",33,500,1.5,1.5,1.5,1,2
+"196",1,0.3,"porp rejected","No-debias",33,500,1.5,1.5,1.5,1,2
+"197",0.077381724139306,0.3,"loss in value","Debiased",33,500,1.5,1.5,1.5,1,2
+"198",0.0998276298714235,0.3,"loss in value","No-debias",33,500,1.5,1.5,1.5,1,2
+"199",0.86942876031264,0.3,"value on non-rejected","Debiased",34,500,1.5,1.5,1.5,1,2
+"200",NA,0.3,"value on non-rejected","No-debias",34,500,1.5,1.5,1.5,1,2
+"201",0.225,0.3,"porp rejected","Debiased",34,500,1.5,1.5,1.5,1,2
+"202",1,0.3,"porp rejected","No-debias",34,500,1.5,1.5,1.5,1,2
+"203",0.124699778290529,0.3,"loss in value","Debiased",34,500,1.5,1.5,1.5,1,2
+"204",0.13044850331485,0.3,"loss in value","No-debias",34,500,1.5,1.5,1.5,1,2
+"205",0.875594929735273,0.3,"value on non-rejected","Debiased",35,500,1.5,1.5,1.5,1,2
+"206",NA,0.3,"value on non-rejected","No-debias",35,500,1.5,1.5,1.5,1,2
+"207",0.244,0.3,"porp rejected","Debiased",35,500,1.5,1.5,1.5,1,2
+"208",1,0.3,"porp rejected","No-debias",35,500,1.5,1.5,1.5,1,2
+"209",0.0872376532141543,0.3,"loss in value","Debiased",35,500,1.5,1.5,1.5,1,2
+"210",0.122238224707486,0.3,"loss in value","No-debias",35,500,1.5,1.5,1.5,1,2
+"211",0.898357296748666,0.3,"value on non-rejected","Debiased",36,500,1.5,1.5,1.5,1,2
+"212",NA,0.3,"value on non-rejected","No-debias",36,500,1.5,1.5,1.5,1,2
+"213",0.258,0.3,"porp rejected","Debiased",36,500,1.5,1.5,1.5,1,2
+"214",1,0.3,"porp rejected","No-debias",36,500,1.5,1.5,1.5,1,2
+"215",0.105730561380901,0.3,"loss in value","Debiased",36,500,1.5,1.5,1.5,1,2
+"216",0.132816499424042,0.3,"loss in value","No-debias",36,500,1.5,1.5,1.5,1,2
+"217",0.894045714003802,0.3,"value on non-rejected","Debiased",37,500,1.5,1.5,1.5,1,2
+"218",NA,0.3,"value on non-rejected","No-debias",37,500,1.5,1.5,1.5,1,2
+"219",0.229,0.3,"porp rejected","Debiased",37,500,1.5,1.5,1.5,1,2
+"220",1,0.3,"porp rejected","No-debias",37,500,1.5,1.5,1.5,1,2
+"221",0.0908404119334067,0.3,"loss in value","Debiased",37,500,1.5,1.5,1.5,1,2
+"222",0.122882139192196,0.3,"loss in value","No-debias",37,500,1.5,1.5,1.5,1,2
+"223",0.897994819887945,0.3,"value on non-rejected","Debiased",38,500,1.5,1.5,1.5,1,2
+"224",NA,0.3,"value on non-rejected","No-debias",38,500,1.5,1.5,1.5,1,2
+"225",0.137,0.3,"porp rejected","Debiased",38,500,1.5,1.5,1.5,1,2
+"226",1,0.3,"porp rejected","No-debias",38,500,1.5,1.5,1.5,1,2
+"227",0.0987249983495156,0.3,"loss in value","Debiased",38,500,1.5,1.5,1.5,1,2
+"228",0.127283363694388,0.3,"loss in value","No-debias",38,500,1.5,1.5,1.5,1,2
+"229",0.891306350057231,0.3,"value on non-rejected","Debiased",39,500,1.5,1.5,1.5,1,2
+"230",NA,0.3,"value on non-rejected","No-debias",39,500,1.5,1.5,1.5,1,2
+"231",0.13,0.3,"porp rejected","Debiased",39,500,1.5,1.5,1.5,1,2
+"232",1,0.3,"porp rejected","No-debias",39,500,1.5,1.5,1.5,1,2
+"233",0.122627943891212,0.3,"loss in value","Debiased",39,500,1.5,1.5,1.5,1,2
+"234",0.136018081600857,0.3,"loss in value","No-debias",39,500,1.5,1.5,1.5,1,2
+"235",0.890559305696992,0.3,"value on non-rejected","Debiased",40,500,1.5,1.5,1.5,1,2
+"236",NA,0.3,"value on non-rejected","No-debias",40,500,1.5,1.5,1.5,1,2
+"237",0.32,0.3,"porp rejected","Debiased",40,500,1.5,1.5,1.5,1,2
+"238",1,0.3,"porp rejected","No-debias",40,500,1.5,1.5,1.5,1,2
+"239",0.107382075952153,0.3,"loss in value","Debiased",40,500,1.5,1.5,1.5,1,2
+"240",0.137273755622388,0.3,"loss in value","No-debias",40,500,1.5,1.5,1.5,1,2
+"241",0.89047655548535,0.3,"value on non-rejected","Debiased",41,500,1.5,1.5,1.5,1,2
+"242",NA,0.3,"value on non-rejected","No-debias",41,500,1.5,1.5,1.5,1,2
+"243",0.277,0.3,"porp rejected","Debiased",41,500,1.5,1.5,1.5,1,2
+"244",1,0.3,"porp rejected","No-debias",41,500,1.5,1.5,1.5,1,2
+"245",0.0798332220838902,0.3,"loss in value","Debiased",41,500,1.5,1.5,1.5,1,2
+"246",0.1043839794833,0.3,"loss in value","No-debias",41,500,1.5,1.5,1.5,1,2
+"247",0.869493143750911,0.3,"value on non-rejected","Debiased",42,500,1.5,1.5,1.5,1,2
+"248",NA,0.3,"value on non-rejected","No-debias",42,500,1.5,1.5,1.5,1,2
+"249",0.345,0.3,"porp rejected","Debiased",42,500,1.5,1.5,1.5,1,2
+"250",1,0.3,"porp rejected","No-debias",42,500,1.5,1.5,1.5,1,2
+"251",0.086761177186106,0.3,"loss in value","Debiased",42,500,1.5,1.5,1.5,1,2
+"252",0.132674054515803,0.3,"loss in value","No-debias",42,500,1.5,1.5,1.5,1,2
+"253",0.86947653489729,0.3,"value on non-rejected","Debiased",43,500,1.5,1.5,1.5,1,2
+"254",NA,0.3,"value on non-rejected","No-debias",43,500,1.5,1.5,1.5,1,2
+"255",0.303,0.3,"porp rejected","Debiased",43,500,1.5,1.5,1.5,1,2
+"256",1,0.3,"porp rejected","No-debias",43,500,1.5,1.5,1.5,1,2
+"257",0.113157588164602,0.3,"loss in value","Debiased",43,500,1.5,1.5,1.5,1,2
+"258",0.120367897140836,0.3,"loss in value","No-debias",43,500,1.5,1.5,1.5,1,2
+"259",0.868191962684815,0.3,"value on non-rejected","Debiased",44,500,1.5,1.5,1.5,1,2
+"260",NA,0.3,"value on non-rejected","No-debias",44,500,1.5,1.5,1.5,1,2
+"261",0.307,0.3,"porp rejected","Debiased",44,500,1.5,1.5,1.5,1,2
+"262",1,0.3,"porp rejected","No-debias",44,500,1.5,1.5,1.5,1,2
+"263",0.0944872686008917,0.3,"loss in value","Debiased",44,500,1.5,1.5,1.5,1,2
+"264",0.125478312866249,0.3,"loss in value","No-debias",44,500,1.5,1.5,1.5,1,2
+"265",0.874100328865945,0.3,"value on non-rejected","Debiased",45,500,1.5,1.5,1.5,1,2
+"266",0.704491884291411,0.3,"value on non-rejected","No-debias",45,500,1.5,1.5,1.5,1,2
+"267",0.592,0.3,"porp rejected","Debiased",45,500,1.5,1.5,1.5,1,2
+"268",0.943,0.3,"porp rejected","No-debias",45,500,1.5,1.5,1.5,1,2
+"269",0.0946242153774012,0.3,"loss in value","Debiased",45,500,1.5,1.5,1.5,1,2
+"270",0.134348660900058,0.3,"loss in value","No-debias",45,500,1.5,1.5,1.5,1,2
+"271",0.895968529373453,0.3,"value on non-rejected","Debiased",46,500,1.5,1.5,1.5,1,2
+"272",NA,0.3,"value on non-rejected","No-debias",46,500,1.5,1.5,1.5,1,2
+"273",0.255,0.3,"porp rejected","Debiased",46,500,1.5,1.5,1.5,1,2
+"274",1,0.3,"porp rejected","No-debias",46,500,1.5,1.5,1.5,1,2
+"275",0.0844253672159622,0.3,"loss in value","Debiased",46,500,1.5,1.5,1.5,1,2
+"276",0.128770800378356,0.3,"loss in value","No-debias",46,500,1.5,1.5,1.5,1,2
+"277",0.892112326599131,0.3,"value on non-rejected","Debiased",47,500,1.5,1.5,1.5,1,2
+"278",NA,0.3,"value on non-rejected","No-debias",47,500,1.5,1.5,1.5,1,2
+"279",0.487,0.3,"porp rejected","Debiased",47,500,1.5,1.5,1.5,1,2
+"280",1,0.3,"porp rejected","No-debias",47,500,1.5,1.5,1.5,1,2
+"281",0.102219104180023,0.3,"loss in value","Debiased",47,500,1.5,1.5,1.5,1,2
+"282",0.132532632297635,0.3,"loss in value","No-debias",47,500,1.5,1.5,1.5,1,2
+"283",0.956389233297167,0.3,"value on non-rejected","Debiased",48,500,1.5,1.5,1.5,1,2
+"284",0.754879426716354,0.3,"value on non-rejected","No-debias",48,500,1.5,1.5,1.5,1,2
+"285",0.969,0.3,"porp rejected","Debiased",48,500,1.5,1.5,1.5,1,2
+"286",0.973,0.3,"porp rejected","No-debias",48,500,1.5,1.5,1.5,1,2
+"287",0.136368045224668,0.3,"loss in value","Debiased",48,500,1.5,1.5,1.5,1,2
+"288",0.142368497246734,0.3,"loss in value","No-debias",48,500,1.5,1.5,1.5,1,2
+"289",0.876505124603115,0.3,"value on non-rejected","Debiased",49,500,1.5,1.5,1.5,1,2
+"290",NA,0.3,"value on non-rejected","No-debias",49,500,1.5,1.5,1.5,1,2
+"291",0.234,0.3,"porp rejected","Debiased",49,500,1.5,1.5,1.5,1,2
+"292",1,0.3,"porp rejected","No-debias",49,500,1.5,1.5,1.5,1,2
+"293",0.0926188933074817,0.3,"loss in value","Debiased",49,500,1.5,1.5,1.5,1,2
+"294",0.137305813712972,0.3,"loss in value","No-debias",49,500,1.5,1.5,1.5,1,2
+"295",0.928754474517806,0.3,"value on non-rejected","Debiased",50,500,1.5,1.5,1.5,1,2
+"296",0.771264019508443,0.3,"value on non-rejected","No-debias",50,500,1.5,1.5,1.5,1,2
+"297",0.999,0.3,"porp rejected","Debiased",50,500,1.5,1.5,1.5,1,2
+"298",0.461,0.3,"porp rejected","No-debias",50,500,1.5,1.5,1.5,1,2
+"299",0.139340950959353,0.3,"loss in value","Debiased",50,500,1.5,1.5,1.5,1,2
+"300",0.231083159240636,0.3,"loss in value","No-debias",50,500,1.5,1.5,1.5,1,2
+"301",0.893230650847324,0.3,"value on non-rejected","Debiased",51,500,1.5,1.5,1.5,1,2
+"302",0.751810482057777,0.3,"value on non-rejected","No-debias",51,500,1.5,1.5,1.5,1,2
+"303",0.99,0.3,"porp rejected","Debiased",51,500,1.5,1.5,1.5,1,2
+"304",0.613,0.3,"porp rejected","No-debias",51,500,1.5,1.5,1.5,1,2
+"305",0.122207649492501,0.3,"loss in value","Debiased",51,500,1.5,1.5,1.5,1,2
+"306",0.19681555258459,0.3,"loss in value","No-debias",51,500,1.5,1.5,1.5,1,2
+"307",0.870589196020305,0.3,"value on non-rejected","Debiased",52,500,1.5,1.5,1.5,1,2
+"308",NA,0.3,"value on non-rejected","No-debias",52,500,1.5,1.5,1.5,1,2
+"309",0.243,0.3,"porp rejected","Debiased",52,500,1.5,1.5,1.5,1,2
+"310",1,0.3,"porp rejected","No-debias",52,500,1.5,1.5,1.5,1,2
+"311",0.0969960867731673,0.3,"loss in value","Debiased",52,500,1.5,1.5,1.5,1,2
+"312",0.128401542822023,0.3,"loss in value","No-debias",52,500,1.5,1.5,1.5,1,2
+"313",0.913955795477445,0.3,"value on non-rejected","Debiased",53,500,1.5,1.5,1.5,1,2
+"314",0.792621800466076,0.3,"value on non-rejected","No-debias",53,500,1.5,1.5,1.5,1,2
+"315",0.235,0.3,"porp rejected","Debiased",53,500,1.5,1.5,1.5,1,2
+"316",0.089,0.3,"porp rejected","No-debias",53,500,1.5,1.5,1.5,1,2
+"317",0.0914268273175446,0.3,"loss in value","Debiased",53,500,1.5,1.5,1.5,1,2
+"318",0.137129378384787,0.3,"loss in value","No-debias",53,500,1.5,1.5,1.5,1,2
+"319",0.880799914850002,0.3,"value on non-rejected","Debiased",54,500,1.5,1.5,1.5,1,2
+"320",NA,0.3,"value on non-rejected","No-debias",54,500,1.5,1.5,1.5,1,2
+"321",0.265,0.3,"porp rejected","Debiased",54,500,1.5,1.5,1.5,1,2
+"322",1,0.3,"porp rejected","No-debias",54,500,1.5,1.5,1.5,1,2
+"323",0.106843873532327,0.3,"loss in value","Debiased",54,500,1.5,1.5,1.5,1,2
+"324",0.13140910813213,0.3,"loss in value","No-debias",54,500,1.5,1.5,1.5,1,2
+"325",0.874854347847934,0.3,"value on non-rejected","Debiased",55,500,1.5,1.5,1.5,1,2
+"326",NA,0.3,"value on non-rejected","No-debias",55,500,1.5,1.5,1.5,1,2
+"327",0.247,0.3,"porp rejected","Debiased",55,500,1.5,1.5,1.5,1,2
+"328",1,0.3,"porp rejected","No-debias",55,500,1.5,1.5,1.5,1,2
+"329",0.081017567396172,0.3,"loss in value","Debiased",55,500,1.5,1.5,1.5,1,2
+"330",0.121032593138426,0.3,"loss in value","No-debias",55,500,1.5,1.5,1.5,1,2
+"331",0.851656512077699,0.3,"value on non-rejected","Debiased",56,500,1.5,1.5,1.5,1,2
+"332",NA,0.3,"value on non-rejected","No-debias",56,500,1.5,1.5,1.5,1,2
+"333",0.664,0.3,"porp rejected","Debiased",56,500,1.5,1.5,1.5,1,2
+"334",1,0.3,"porp rejected","No-debias",56,500,1.5,1.5,1.5,1,2
+"335",0.0965315544897924,0.3,"loss in value","Debiased",56,500,1.5,1.5,1.5,1,2
+"336",0.127476316309552,0.3,"loss in value","No-debias",56,500,1.5,1.5,1.5,1,2
+"337",0.842465217568174,0.3,"value on non-rejected","Debiased",57,500,1.5,1.5,1.5,1,2
+"338",NA,0.3,"value on non-rejected","No-debias",57,500,1.5,1.5,1.5,1,2
+"339",0.456,0.3,"porp rejected","Debiased",57,500,1.5,1.5,1.5,1,2
+"340",1,0.3,"porp rejected","No-debias",57,500,1.5,1.5,1.5,1,2
+"341",0.102201800006064,0.3,"loss in value","Debiased",57,500,1.5,1.5,1.5,1,2
+"342",0.118913812994728,0.3,"loss in value","No-debias",57,500,1.5,1.5,1.5,1,2
+"343",0.89517663676831,0.3,"value on non-rejected","Debiased",58,500,1.5,1.5,1.5,1,2
+"344",NA,0.3,"value on non-rejected","No-debias",58,500,1.5,1.5,1.5,1,2
+"345",0.221,0.3,"porp rejected","Debiased",58,500,1.5,1.5,1.5,1,2
+"346",1,0.3,"porp rejected","No-debias",58,500,1.5,1.5,1.5,1,2
+"347",0.109529119758321,0.3,"loss in value","Debiased",58,500,1.5,1.5,1.5,1,2
+"348",0.132911358973195,0.3,"loss in value","No-debias",58,500,1.5,1.5,1.5,1,2
+"349",0.916618613703327,0.3,"value on non-rejected","Debiased",59,500,1.5,1.5,1.5,1,2
+"350",0.786357849770999,0.3,"value on non-rejected","No-debias",59,500,1.5,1.5,1.5,1,2
+"351",0.666,0.3,"porp rejected","Debiased",59,500,1.5,1.5,1.5,1,2
+"352",0.241,0.3,"porp rejected","No-debias",59,500,1.5,1.5,1.5,1,2
+"353",0.126595197354348,0.3,"loss in value","Debiased",59,500,1.5,1.5,1.5,1,2
+"354",0.179740797190475,0.3,"loss in value","No-debias",59,500,1.5,1.5,1.5,1,2
+"355",0.958360884085372,0.3,"value on non-rejected","Debiased",60,500,1.5,1.5,1.5,1,2
+"356",NA,0.3,"value on non-rejected","No-debias",60,500,1.5,1.5,1.5,1,2
+"357",0.942,0.3,"porp rejected","Debiased",60,500,1.5,1.5,1.5,1,2
+"358",1,0.3,"porp rejected","No-debias",60,500,1.5,1.5,1.5,1,2
+"359",0.120075999729182,0.3,"loss in value","Debiased",60,500,1.5,1.5,1.5,1,2
+"360",0.120247312670314,0.3,"loss in value","No-debias",60,500,1.5,1.5,1.5,1,2
+"361",0.862524423839229,0.3,"value on non-rejected","Debiased",61,500,1.5,1.5,1.5,1,2
+"362",NA,0.3,"value on non-rejected","No-debias",61,500,1.5,1.5,1.5,1,2
+"363",0.484,0.3,"porp rejected","Debiased",61,500,1.5,1.5,1.5,1,2
+"364",1,0.3,"porp rejected","No-debias",61,500,1.5,1.5,1.5,1,2
+"365",0.0854975281684829,0.3,"loss in value","Debiased",61,500,1.5,1.5,1.5,1,2
+"366",0.130848566831344,0.3,"loss in value","No-debias",61,500,1.5,1.5,1.5,1,2
+"367",0.886800945107594,0.3,"value on non-rejected","Debiased",62,500,1.5,1.5,1.5,1,2
+"368",NA,0.3,"value on non-rejected","No-debias",62,500,1.5,1.5,1.5,1,2
+"369",0.607,0.3,"porp rejected","Debiased",62,500,1.5,1.5,1.5,1,2
+"370",1,0.3,"porp rejected","No-debias",62,500,1.5,1.5,1.5,1,2
+"371",0.103816777507887,0.3,"loss in value","Debiased",62,500,1.5,1.5,1.5,1,2
+"372",0.137000072024236,0.3,"loss in value","No-debias",62,500,1.5,1.5,1.5,1,2
+"373",0.88778603003987,0.3,"value on non-rejected","Debiased",63,500,1.5,1.5,1.5,1,2
+"374",NA,0.3,"value on non-rejected","No-debias",63,500,1.5,1.5,1.5,1,2
+"375",0.36,0.3,"porp rejected","Debiased",63,500,1.5,1.5,1.5,1,2
+"376",1,0.3,"porp rejected","No-debias",63,500,1.5,1.5,1.5,1,2
+"377",0.10658838645236,0.3,"loss in value","Debiased",63,500,1.5,1.5,1.5,1,2
+"378",0.141248587772636,0.3,"loss in value","No-debias",63,500,1.5,1.5,1.5,1,2
+"379",0.878534992022705,0.3,"value on non-rejected","Debiased",64,500,1.5,1.5,1.5,1,2
+"380",NA,0.3,"value on non-rejected","No-debias",64,500,1.5,1.5,1.5,1,2
+"381",0.34,0.3,"porp rejected","Debiased",64,500,1.5,1.5,1.5,1,2
+"382",1,0.3,"porp rejected","No-debias",64,500,1.5,1.5,1.5,1,2
+"383",0.0877987904362545,0.3,"loss in value","Debiased",64,500,1.5,1.5,1.5,1,2
+"384",0.135379452052164,0.3,"loss in value","No-debias",64,500,1.5,1.5,1.5,1,2
+"385",NA,0.3,"value on non-rejected","Debiased",65,500,1.5,1.5,1.5,1,2
+"386",NA,0.3,"value on non-rejected","No-debias",65,500,1.5,1.5,1.5,1,2
+"387",1,0.3,"porp rejected","Debiased",65,500,1.5,1.5,1.5,1,2
+"388",1,0.3,"porp rejected","No-debias",65,500,1.5,1.5,1.5,1,2
+"389",0.133152379327345,0.3,"loss in value","Debiased",65,500,1.5,1.5,1.5,1,2
+"390",0.133152379327345,0.3,"loss in value","No-debias",65,500,1.5,1.5,1.5,1,2
+"391",0.879603498028119,0.3,"value on non-rejected","Debiased",66,500,1.5,1.5,1.5,1,2
+"392",NA,0.3,"value on non-rejected","No-debias",66,500,1.5,1.5,1.5,1,2
+"393",0.256,0.3,"porp rejected","Debiased",66,500,1.5,1.5,1.5,1,2
+"394",1,0.3,"porp rejected","No-debias",66,500,1.5,1.5,1.5,1,2
+"395",0.0960005545122038,0.3,"loss in value","Debiased",66,500,1.5,1.5,1.5,1,2
+"396",0.126078798821231,0.3,"loss in value","No-debias",66,500,1.5,1.5,1.5,1,2
+"397",0.833946486576846,0.3,"value on non-rejected","Debiased",67,500,1.5,1.5,1.5,1,2
+"398",NA,0.3,"value on non-rejected","No-debias",67,500,1.5,1.5,1.5,1,2
+"399",0.337,0.3,"porp rejected","Debiased",67,500,1.5,1.5,1.5,1,2
+"400",1,0.3,"porp rejected","No-debias",67,500,1.5,1.5,1.5,1,2
+"401",0.0947344687129869,0.3,"loss in value","Debiased",67,500,1.5,1.5,1.5,1,2
+"402",0.123193315204906,0.3,"loss in value","No-debias",67,500,1.5,1.5,1.5,1,2
+"403",0.862521369625913,0.3,"value on non-rejected","Debiased",68,500,1.5,1.5,1.5,1,2
+"404",0.796186054573974,0.3,"value on non-rejected","No-debias",68,500,1.5,1.5,1.5,1,2
+"405",0.342,0.3,"porp rejected","Debiased",68,500,1.5,1.5,1.5,1,2
+"406",0.184,0.3,"porp rejected","No-debias",68,500,1.5,1.5,1.5,1,2
+"407",0.0858599860304025,0.3,"loss in value","Debiased",68,500,1.5,1.5,1.5,1,2
+"408",0.177270620438615,0.3,"loss in value","No-debias",68,500,1.5,1.5,1.5,1,2
+"409",0.865811173499925,0.3,"value on non-rejected","Debiased",69,500,1.5,1.5,1.5,1,2
+"410",NA,0.3,"value on non-rejected","No-debias",69,500,1.5,1.5,1.5,1,2
+"411",0.287,0.3,"porp rejected","Debiased",69,500,1.5,1.5,1.5,1,2
+"412",1,0.3,"porp rejected","No-debias",69,500,1.5,1.5,1.5,1,2
+"413",0.0981256457809564,0.3,"loss in value","Debiased",69,500,1.5,1.5,1.5,1,2
+"414",0.139586452677959,0.3,"loss in value","No-debias",69,500,1.5,1.5,1.5,1,2
+"415",0.888112374103777,0.3,"value on non-rejected","Debiased",70,500,1.5,1.5,1.5,1,2
+"416",NA,0.3,"value on non-rejected","No-debias",70,500,1.5,1.5,1.5,1,2
+"417",0.466,0.3,"porp rejected","Debiased",70,500,1.5,1.5,1.5,1,2
+"418",1,0.3,"porp rejected","No-debias",70,500,1.5,1.5,1.5,1,2
+"419",0.107360288005873,0.3,"loss in value","Debiased",70,500,1.5,1.5,1.5,1,2
+"420",0.125770478885342,0.3,"loss in value","No-debias",70,500,1.5,1.5,1.5,1,2
+"421",0.889789459161362,0.3,"value on non-rejected","Debiased",71,500,1.5,1.5,1.5,1,2
+"422",0.757731290839671,0.3,"value on non-rejected","No-debias",71,500,1.5,1.5,1.5,1,2
+"423",0.261,0.3,"porp rejected","Debiased",71,500,1.5,1.5,1.5,1,2
+"424",0.468,0.3,"porp rejected","No-debias",71,500,1.5,1.5,1.5,1,2
+"425",0.0870372852997292,0.3,"loss in value","Debiased",71,500,1.5,1.5,1.5,1,2
+"426",0.203468490163513,0.3,"loss in value","No-debias",71,500,1.5,1.5,1.5,1,2
+"427",0.83663752797343,0.3,"value on non-rejected","Debiased",72,500,1.5,1.5,1.5,1,2
+"428",NA,0.3,"value on non-rejected","No-debias",72,500,1.5,1.5,1.5,1,2
+"429",0.301,0.3,"porp rejected","Debiased",72,500,1.5,1.5,1.5,1,2
+"430",1,0.3,"porp rejected","No-debias",72,500,1.5,1.5,1.5,1,2
+"431",0.14184068576983,0.3,"loss in value","Debiased",72,500,1.5,1.5,1.5,1,2
+"432",0.139360404325441,0.3,"loss in value","No-debias",72,500,1.5,1.5,1.5,1,2
+"433",0.852896985011504,0.3,"value on non-rejected","Debiased",73,500,1.5,1.5,1.5,1,2
+"434",NA,0.3,"value on non-rejected","No-debias",73,500,1.5,1.5,1.5,1,2
+"435",0.479,0.3,"porp rejected","Debiased",73,500,1.5,1.5,1.5,1,2
+"436",1,0.3,"porp rejected","No-debias",73,500,1.5,1.5,1.5,1,2
+"437",0.0916645388714705,0.3,"loss in value","Debiased",73,500,1.5,1.5,1.5,1,2
+"438",0.121412236674481,0.3,"loss in value","No-debias",73,500,1.5,1.5,1.5,1,2
+"439",0.850644307962027,0.3,"value on non-rejected","Debiased",74,500,1.5,1.5,1.5,1,2
+"440",NA,0.3,"value on non-rejected","No-debias",74,500,1.5,1.5,1.5,1,2
+"441",0.693,0.3,"porp rejected","Debiased",74,500,1.5,1.5,1.5,1,2
+"442",1,0.3,"porp rejected","No-debias",74,500,1.5,1.5,1.5,1,2
+"443",0.0834471656218473,0.3,"loss in value","Debiased",74,500,1.5,1.5,1.5,1,2
+"444",0.118616301381852,0.3,"loss in value","No-debias",74,500,1.5,1.5,1.5,1,2
+"445",0.896238589993252,0.3,"value on non-rejected","Debiased",75,500,1.5,1.5,1.5,1,2
+"446",0.691007628727464,0.3,"value on non-rejected","No-debias",75,500,1.5,1.5,1.5,1,2
+"447",0.282,0.3,"porp rejected","Debiased",75,500,1.5,1.5,1.5,1,2
+"448",0.998,0.3,"porp rejected","No-debias",75,500,1.5,1.5,1.5,1,2
+"449",0.0958799166643182,0.3,"loss in value","Debiased",75,500,1.5,1.5,1.5,1,2
+"450",0.121780503690381,0.3,"loss in value","No-debias",75,500,1.5,1.5,1.5,1,2
+"451",0.903317085193907,0.3,"value on non-rejected","Debiased",76,500,1.5,1.5,1.5,1,2
+"452",NA,0.3,"value on non-rejected","No-debias",76,500,1.5,1.5,1.5,1,2
+"453",0.304,0.3,"porp rejected","Debiased",76,500,1.5,1.5,1.5,1,2
+"454",1,0.3,"porp rejected","No-debias",76,500,1.5,1.5,1.5,1,2
+"455",0.112736276666023,0.3,"loss in value","Debiased",76,500,1.5,1.5,1.5,1,2
+"456",0.138523929948808,0.3,"loss in value","No-debias",76,500,1.5,1.5,1.5,1,2
+"457",0.918537684375959,0.3,"value on non-rejected","Debiased",77,500,1.5,1.5,1.5,1,2
+"458",NA,0.3,"value on non-rejected","No-debias",77,500,1.5,1.5,1.5,1,2
+"459",0.689,0.3,"porp rejected","Debiased",77,500,1.5,1.5,1.5,1,2
+"460",1,0.3,"porp rejected","No-debias",77,500,1.5,1.5,1.5,1,2
+"461",0.133648273585915,0.3,"loss in value","Debiased",77,500,1.5,1.5,1.5,1,2
+"462",0.146054879330468,0.3,"loss in value","No-debias",77,500,1.5,1.5,1.5,1,2
+"463",0.888777666387813,0.3,"value on non-rejected","Debiased",78,500,1.5,1.5,1.5,1,2
+"464",NA,0.3,"value on non-rejected","No-debias",78,500,1.5,1.5,1.5,1,2
+"465",0.141,0.3,"porp rejected","Debiased",78,500,1.5,1.5,1.5,1,2
+"466",1,0.3,"porp rejected","No-debias",78,500,1.5,1.5,1.5,1,2
+"467",0.0976246801036068,0.3,"loss in value","Debiased",78,500,1.5,1.5,1.5,1,2
+"468",0.135601805427563,0.3,"loss in value","No-debias",78,500,1.5,1.5,1.5,1,2
+"469",0.88902606743087,0.3,"value on non-rejected","Debiased",79,500,1.5,1.5,1.5,1,2
+"470",NA,0.3,"value on non-rejected","No-debias",79,500,1.5,1.5,1.5,1,2
+"471",0.22,0.3,"porp rejected","Debiased",79,500,1.5,1.5,1.5,1,2
+"472",1,0.3,"porp rejected","No-debias",79,500,1.5,1.5,1.5,1,2
+"473",0.07331723107628,0.3,"loss in value","Debiased",79,500,1.5,1.5,1.5,1,2
+"474",0.11193030517394,0.3,"loss in value","No-debias",79,500,1.5,1.5,1.5,1,2
+"475",0.90461885058345,0.3,"value on non-rejected","Debiased",80,500,1.5,1.5,1.5,1,2
+"476",NA,0.3,"value on non-rejected","No-debias",80,500,1.5,1.5,1.5,1,2
+"477",0.21,0.3,"porp rejected","Debiased",80,500,1.5,1.5,1.5,1,2
+"478",1,0.3,"porp rejected","No-debias",80,500,1.5,1.5,1.5,1,2
+"479",0.0802762347985566,0.3,"loss in value","Debiased",80,500,1.5,1.5,1.5,1,2
+"480",0.124805330848844,0.3,"loss in value","No-debias",80,500,1.5,1.5,1.5,1,2
+"481",0.852693039281863,0.3,"value on non-rejected","Debiased",81,500,1.5,1.5,1.5,1,2
+"482",NA,0.3,"value on non-rejected","No-debias",81,500,1.5,1.5,1.5,1,2
+"483",0.377,0.3,"porp rejected","Debiased",81,500,1.5,1.5,1.5,1,2
+"484",1,0.3,"porp rejected","No-debias",81,500,1.5,1.5,1.5,1,2
+"485",0.117698600688327,0.3,"loss in value","Debiased",81,500,1.5,1.5,1.5,1,2
+"486",0.112656626810917,0.3,"loss in value","No-debias",81,500,1.5,1.5,1.5,1,2
+"487",0.914564314895718,0.3,"value on non-rejected","Debiased",82,500,1.5,1.5,1.5,1,2
+"488",NA,0.3,"value on non-rejected","No-debias",82,500,1.5,1.5,1.5,1,2
+"489",0.275,0.3,"porp rejected","Debiased",82,500,1.5,1.5,1.5,1,2
+"490",1,0.3,"porp rejected","No-debias",82,500,1.5,1.5,1.5,1,2
+"491",0.0882434862846149,0.3,"loss in value","Debiased",82,500,1.5,1.5,1.5,1,2
+"492",0.116021367842918,0.3,"loss in value","No-debias",82,500,1.5,1.5,1.5,1,2
+"493",0.876946282744551,0.3,"value on non-rejected","Debiased",83,500,1.5,1.5,1.5,1,2
+"494",0.732011643424198,0.3,"value on non-rejected","No-debias",83,500,1.5,1.5,1.5,1,2
+"495",0.246,0.3,"porp rejected","Debiased",83,500,1.5,1.5,1.5,1,2
+"496",0.792,0.3,"porp rejected","No-debias",83,500,1.5,1.5,1.5,1,2
+"497",0.110490760066307,0.3,"loss in value","Debiased",83,500,1.5,1.5,1.5,1,2
+"498",0.185124795114513,0.3,"loss in value","No-debias",83,500,1.5,1.5,1.5,1,2
+"499",0.880998406508801,0.3,"value on non-rejected","Debiased",84,500,1.5,1.5,1.5,1,2
+"500",NA,0.3,"value on non-rejected","No-debias",84,500,1.5,1.5,1.5,1,2
+"501",0.287,0.3,"porp rejected","Debiased",84,500,1.5,1.5,1.5,1,2
+"502",1,0.3,"porp rejected","No-debias",84,500,1.5,1.5,1.5,1,2
+"503",0.094133335203973,0.3,"loss in value","Debiased",84,500,1.5,1.5,1.5,1,2
+"504",0.128658198433705,0.3,"loss in value","No-debias",84,500,1.5,1.5,1.5,1,2
+"505",0.89816475847424,0.3,"value on non-rejected","Debiased",85,500,1.5,1.5,1.5,1,2
+"506",NA,0.3,"value on non-rejected","No-debias",85,500,1.5,1.5,1.5,1,2
+"507",0.228,0.3,"porp rejected","Debiased",85,500,1.5,1.5,1.5,1,2
+"508",1,0.3,"porp rejected","No-debias",85,500,1.5,1.5,1.5,1,2
+"509",0.11151764867214,0.3,"loss in value","Debiased",85,500,1.5,1.5,1.5,1,2
+"510",0.133733519341045,0.3,"loss in value","No-debias",85,500,1.5,1.5,1.5,1,2
+"511",0.916598071380601,0.3,"value on non-rejected","Debiased",86,500,1.5,1.5,1.5,1,2
+"512",NA,0.3,"value on non-rejected","No-debias",86,500,1.5,1.5,1.5,1,2
+"513",0.306,0.3,"porp rejected","Debiased",86,500,1.5,1.5,1.5,1,2
+"514",1,0.3,"porp rejected","No-debias",86,500,1.5,1.5,1.5,1,2
+"515",0.10255039729082,0.3,"loss in value","Debiased",86,500,1.5,1.5,1.5,1,2
+"516",0.124432545776333,0.3,"loss in value","No-debias",86,500,1.5,1.5,1.5,1,2
+"517",0.896958948367411,0.3,"value on non-rejected","Debiased",87,500,1.5,1.5,1.5,1,2
+"518",NA,0.3,"value on non-rejected","No-debias",87,500,1.5,1.5,1.5,1,2
+"519",0.988,0.3,"porp rejected","Debiased",87,500,1.5,1.5,1.5,1,2
+"520",1,0.3,"porp rejected","No-debias",87,500,1.5,1.5,1.5,1,2
+"521",0.111048796022167,0.3,"loss in value","Debiased",87,500,1.5,1.5,1.5,1,2
+"522",0.111139312317218,0.3,"loss in value","No-debias",87,500,1.5,1.5,1.5,1,2
+"523",0.852502369339428,0.3,"value on non-rejected","Debiased",88,500,1.5,1.5,1.5,1,2
+"524",NA,0.3,"value on non-rejected","No-debias",88,500,1.5,1.5,1.5,1,2
+"525",0.845,0.3,"porp rejected","Debiased",88,500,1.5,1.5,1.5,1,2
+"526",1,0.3,"porp rejected","No-debias",88,500,1.5,1.5,1.5,1,2
+"527",0.112726204034672,0.3,"loss in value","Debiased",88,500,1.5,1.5,1.5,1,2
+"528",0.129866926523508,0.3,"loss in value","No-debias",88,500,1.5,1.5,1.5,1,2
+"529",0.879802930227557,0.3,"value on non-rejected","Debiased",89,500,1.5,1.5,1.5,1,2
+"530",NA,0.3,"value on non-rejected","No-debias",89,500,1.5,1.5,1.5,1,2
+"531",0.25,0.3,"porp rejected","Debiased",89,500,1.5,1.5,1.5,1,2
+"532",1,0.3,"porp rejected","No-debias",89,500,1.5,1.5,1.5,1,2
+"533",0.10530404567089,0.3,"loss in value","Debiased",89,500,1.5,1.5,1.5,1,2
+"534",0.132333748067838,0.3,"loss in value","No-debias",89,500,1.5,1.5,1.5,1,2
+"535",0.842675347255863,0.3,"value on non-rejected","Debiased",90,500,1.5,1.5,1.5,1,2
+"536",NA,0.3,"value on non-rejected","No-debias",90,500,1.5,1.5,1.5,1,2
+"537",0.483,0.3,"porp rejected","Debiased",90,500,1.5,1.5,1.5,1,2
+"538",1,0.3,"porp rejected","No-debias",90,500,1.5,1.5,1.5,1,2
+"539",0.0984725219580875,0.3,"loss in value","Debiased",90,500,1.5,1.5,1.5,1,2
+"540",0.128212305042861,0.3,"loss in value","No-debias",90,500,1.5,1.5,1.5,1,2
+"541",0.902582328659852,0.3,"value on non-rejected","Debiased",91,500,1.5,1.5,1.5,1,2
+"542",NA,0.3,"value on non-rejected","No-debias",91,500,1.5,1.5,1.5,1,2
+"543",0.21,0.3,"porp rejected","Debiased",91,500,1.5,1.5,1.5,1,2
+"544",1,0.3,"porp rejected","No-debias",91,500,1.5,1.5,1.5,1,2
+"545",0.0941405670801032,0.3,"loss in value","Debiased",91,500,1.5,1.5,1.5,1,2
+"546",0.121158792319456,0.3,"loss in value","No-debias",91,500,1.5,1.5,1.5,1,2
+"547",0.826994734595316,0.3,"value on non-rejected","Debiased",92,500,1.5,1.5,1.5,1,2
+"548",NA,0.3,"value on non-rejected","No-debias",92,500,1.5,1.5,1.5,1,2
+"549",0.242,0.3,"porp rejected","Debiased",92,500,1.5,1.5,1.5,1,2
+"550",1,0.3,"porp rejected","No-debias",92,500,1.5,1.5,1.5,1,2
+"551",0.141127505659017,0.3,"loss in value","Debiased",92,500,1.5,1.5,1.5,1,2
+"552",0.136507760942974,0.3,"loss in value","No-debias",92,500,1.5,1.5,1.5,1,2
+"553",0.891964975240113,0.3,"value on non-rejected","Debiased",93,500,1.5,1.5,1.5,1,2
+"554",NA,0.3,"value on non-rejected","No-debias",93,500,1.5,1.5,1.5,1,2
+"555",0.237,0.3,"porp rejected","Debiased",93,500,1.5,1.5,1.5,1,2
+"556",1,0.3,"porp rejected","No-debias",93,500,1.5,1.5,1.5,1,2
+"557",0.0926161741247634,0.3,"loss in value","Debiased",93,500,1.5,1.5,1.5,1,2
+"558",0.128012427373653,0.3,"loss in value","No-debias",93,500,1.5,1.5,1.5,1,2
+"559",0.862012119315711,0.3,"value on non-rejected","Debiased",94,500,1.5,1.5,1.5,1,2
+"560",0.760529683833718,0.3,"value on non-rejected","No-debias",94,500,1.5,1.5,1.5,1,2
+"561",0.899,0.3,"porp rejected","Debiased",94,500,1.5,1.5,1.5,1,2
+"562",0.692,0.3,"porp rejected","No-debias",94,500,1.5,1.5,1.5,1,2
+"563",0.121268162401119,0.3,"loss in value","Debiased",94,500,1.5,1.5,1.5,1,2
+"564",0.184036820679167,0.3,"loss in value","No-debias",94,500,1.5,1.5,1.5,1,2
+"565",0.828749655617709,0.3,"value on non-rejected","Debiased",95,500,1.5,1.5,1.5,1,2
+"566",NA,0.3,"value on non-rejected","No-debias",95,500,1.5,1.5,1.5,1,2
+"567",0.439,0.3,"porp rejected","Debiased",95,500,1.5,1.5,1.5,1,2
+"568",1,0.3,"porp rejected","No-debias",95,500,1.5,1.5,1.5,1,2
+"569",0.0739441361821321,0.3,"loss in value","Debiased",95,500,1.5,1.5,1.5,1,2
+"570",0.108007494647564,0.3,"loss in value","No-debias",95,500,1.5,1.5,1.5,1,2
+"571",0.875337159219952,0.3,"value on non-rejected","Debiased",96,500,1.5,1.5,1.5,1,2
+"572",NA,0.3,"value on non-rejected","No-debias",96,500,1.5,1.5,1.5,1,2
+"573",0.325,0.3,"porp rejected","Debiased",96,500,1.5,1.5,1.5,1,2
+"574",1,0.3,"porp rejected","No-debias",96,500,1.5,1.5,1.5,1,2
+"575",0.104836615411472,0.3,"loss in value","Debiased",96,500,1.5,1.5,1.5,1,2
+"576",0.131174184533073,0.3,"loss in value","No-debias",96,500,1.5,1.5,1.5,1,2
+"577",0.887995646980214,0.3,"value on non-rejected","Debiased",97,500,1.5,1.5,1.5,1,2
+"578",NA,0.3,"value on non-rejected","No-debias",97,500,1.5,1.5,1.5,1,2
+"579",0.295,0.3,"porp rejected","Debiased",97,500,1.5,1.5,1.5,1,2
+"580",1,0.3,"porp rejected","No-debias",97,500,1.5,1.5,1.5,1,2
+"581",0.0986516127033572,0.3,"loss in value","Debiased",97,500,1.5,1.5,1.5,1,2
+"582",0.125806436755094,0.3,"loss in value","No-debias",97,500,1.5,1.5,1.5,1,2
+"583",0.852306040244124,0.3,"value on non-rejected","Debiased",98,500,1.5,1.5,1.5,1,2
+"584",NA,0.3,"value on non-rejected","No-debias",98,500,1.5,1.5,1.5,1,2
+"585",0.295,0.3,"porp rejected","Debiased",98,500,1.5,1.5,1.5,1,2
+"586",1,0.3,"porp rejected","No-debias",98,500,1.5,1.5,1.5,1,2
+"587",0.114191407485549,0.3,"loss in value","Debiased",98,500,1.5,1.5,1.5,1,2
+"588",0.131856455280163,0.3,"loss in value","No-debias",98,500,1.5,1.5,1.5,1,2
+"589",0.873983453723658,0.3,"value on non-rejected","Debiased",99,500,1.5,1.5,1.5,1,2
+"590",NA,0.3,"value on non-rejected","No-debias",99,500,1.5,1.5,1.5,1,2
+"591",0.234,0.3,"porp rejected","Debiased",99,500,1.5,1.5,1.5,1,2
+"592",1,0.3,"porp rejected","No-debias",99,500,1.5,1.5,1.5,1,2
+"593",0.0826579387180506,0.3,"loss in value","Debiased",99,500,1.5,1.5,1.5,1,2
+"594",0.120951748131272,0.3,"loss in value","No-debias",99,500,1.5,1.5,1.5,1,2
+"595",0.906603716127503,0.3,"value on non-rejected","Debiased",100,500,1.5,1.5,1.5,1,2
+"596",NA,0.3,"value on non-rejected","No-debias",100,500,1.5,1.5,1.5,1,2
+"597",0.213,0.3,"porp rejected","Debiased",100,500,1.5,1.5,1.5,1,2
+"598",1,0.3,"porp rejected","No-debias",100,500,1.5,1.5,1.5,1,2
+"599",0.10235778046469,0.3,"loss in value","Debiased",100,500,1.5,1.5,1.5,1,2
+"600",0.133208479912867,0.3,"loss in value","No-debias",100,500,1.5,1.5,1.5,1,2
+"601",0.86687823031741,0.3,"value on non-rejected","Debiased",101,500,1.5,1.5,1.5,1,2
+"602",NA,0.3,"value on non-rejected","No-debias",101,500,1.5,1.5,1.5,1,2
+"603",0.283,0.3,"porp rejected","Debiased",101,500,1.5,1.5,1.5,1,2
+"604",1,0.3,"porp rejected","No-debias",101,500,1.5,1.5,1.5,1,2
+"605",0.102131194329362,0.3,"loss in value","Debiased",101,500,1.5,1.5,1.5,1,2
+"606",0.12172478842586,0.3,"loss in value","No-debias",101,500,1.5,1.5,1.5,1,2
+"607",0.876307942716026,0.3,"value on non-rejected","Debiased",102,500,1.5,1.5,1.5,1,2
+"608",NA,0.3,"value on non-rejected","No-debias",102,500,1.5,1.5,1.5,1,2
+"609",0.235,0.3,"porp rejected","Debiased",102,500,1.5,1.5,1.5,1,2
+"610",1,0.3,"porp rejected","No-debias",102,500,1.5,1.5,1.5,1,2
+"611",0.0883547849218519,0.3,"loss in value","Debiased",102,500,1.5,1.5,1.5,1,2
+"612",0.134260349654924,0.3,"loss in value","No-debias",102,500,1.5,1.5,1.5,1,2
+"613",0.873131692568706,0.3,"value on non-rejected","Debiased",103,500,1.5,1.5,1.5,1,2
+"614",NA,0.3,"value on non-rejected","No-debias",103,500,1.5,1.5,1.5,1,2
+"615",0.206,0.3,"porp rejected","Debiased",103,500,1.5,1.5,1.5,1,2
+"616",1,0.3,"porp rejected","No-debias",103,500,1.5,1.5,1.5,1,2
+"617",0.0902960191642858,0.3,"loss in value","Debiased",103,500,1.5,1.5,1.5,1,2
+"618",0.126940681550277,0.3,"loss in value","No-debias",103,500,1.5,1.5,1.5,1,2
+"619",0.846114123233799,0.3,"value on non-rejected","Debiased",104,500,1.5,1.5,1.5,1,2
+"620",NA,0.3,"value on non-rejected","No-debias",104,500,1.5,1.5,1.5,1,2
+"621",0.807,0.3,"porp rejected","Debiased",104,500,1.5,1.5,1.5,1,2
+"622",1,0.3,"porp rejected","No-debias",104,500,1.5,1.5,1.5,1,2
+"623",0.0954397536633209,0.3,"loss in value","Debiased",104,500,1.5,1.5,1.5,1,2
+"624",0.113798816777454,0.3,"loss in value","No-debias",104,500,1.5,1.5,1.5,1,2
+"625",0.864786728235526,0.3,"value on non-rejected","Debiased",105,500,1.5,1.5,1.5,1,2
+"626",0.773321750287004,0.3,"value on non-rejected","No-debias",105,500,1.5,1.5,1.5,1,2
+"627",0.951,0.3,"porp rejected","Debiased",105,500,1.5,1.5,1.5,1,2
+"628",0.345,0.3,"porp rejected","No-debias",105,500,1.5,1.5,1.5,1,2
+"629",0.102585486248564,0.3,"loss in value","Debiased",105,500,1.5,1.5,1.5,1,2
+"630",0.189032906868239,0.3,"loss in value","No-debias",105,500,1.5,1.5,1.5,1,2
+"631",0.872168441347747,0.3,"value on non-rejected","Debiased",106,500,1.5,1.5,1.5,1,2
+"632",NA,0.3,"value on non-rejected","No-debias",106,500,1.5,1.5,1.5,1,2
+"633",0.402,0.3,"porp rejected","Debiased",106,500,1.5,1.5,1.5,1,2
+"634",1,0.3,"porp rejected","No-debias",106,500,1.5,1.5,1.5,1,2
+"635",0.114262142956729,0.3,"loss in value","Debiased",106,500,1.5,1.5,1.5,1,2
+"636",0.136137881082671,0.3,"loss in value","No-debias",106,500,1.5,1.5,1.5,1,2
+"637",0.862959699510573,0.3,"value on non-rejected","Debiased",107,500,1.5,1.5,1.5,1,2
+"638",NA,0.3,"value on non-rejected","No-debias",107,500,1.5,1.5,1.5,1,2
+"639",0.926,0.3,"porp rejected","Debiased",107,500,1.5,1.5,1.5,1,2
+"640",1,0.3,"porp rejected","No-debias",107,500,1.5,1.5,1.5,1,2
+"641",0.119054657586162,0.3,"loss in value","Debiased",107,500,1.5,1.5,1.5,1,2
+"642",0.127232973328942,0.3,"loss in value","No-debias",107,500,1.5,1.5,1.5,1,2
+"643",0.830561287302392,0.3,"value on non-rejected","Debiased",108,500,1.5,1.5,1.5,1,2
+"644",NA,0.3,"value on non-rejected","No-debias",108,500,1.5,1.5,1.5,1,2
+"645",0.412,0.3,"porp rejected","Debiased",108,500,1.5,1.5,1.5,1,2
+"646",1,0.3,"porp rejected","No-debias",108,500,1.5,1.5,1.5,1,2
+"647",0.0997650647374923,0.3,"loss in value","Debiased",108,500,1.5,1.5,1.5,1,2
+"648",0.133873781254777,0.3,"loss in value","No-debias",108,500,1.5,1.5,1.5,1,2
+"649",0.830554465335678,0.3,"value on non-rejected","Debiased",109,500,1.5,1.5,1.5,1,2
+"650",NA,0.3,"value on non-rejected","No-debias",109,500,1.5,1.5,1.5,1,2
+"651",0.431,0.3,"porp rejected","Debiased",109,500,1.5,1.5,1.5,1,2
+"652",1,0.3,"porp rejected","No-debias",109,500,1.5,1.5,1.5,1,2
+"653",0.105038541033617,0.3,"loss in value","Debiased",109,500,1.5,1.5,1.5,1,2
+"654",0.138464490318622,0.3,"loss in value","No-debias",109,500,1.5,1.5,1.5,1,2
+"655",0.851934740909443,0.3,"value on non-rejected","Debiased",110,500,1.5,1.5,1.5,1,2
+"656",NA,0.3,"value on non-rejected","No-debias",110,500,1.5,1.5,1.5,1,2
+"657",0.324,0.3,"porp rejected","Debiased",110,500,1.5,1.5,1.5,1,2
+"658",1,0.3,"porp rejected","No-debias",110,500,1.5,1.5,1.5,1,2
+"659",0.0922127053830697,0.3,"loss in value","Debiased",110,500,1.5,1.5,1.5,1,2
+"660",0.127287979254349,0.3,"loss in value","No-debias",110,500,1.5,1.5,1.5,1,2
+"661",0.891853915801459,0.3,"value on non-rejected","Debiased",111,500,1.5,1.5,1.5,1,2
+"662",NA,0.3,"value on non-rejected","No-debias",111,500,1.5,1.5,1.5,1,2
+"663",0.24,0.3,"porp rejected","Debiased",111,500,1.5,1.5,1.5,1,2
+"664",1,0.3,"porp rejected","No-debias",111,500,1.5,1.5,1.5,1,2
+"665",0.106927044175677,0.3,"loss in value","Debiased",111,500,1.5,1.5,1.5,1,2
+"666",0.143418975740746,0.3,"loss in value","No-debias",111,500,1.5,1.5,1.5,1,2
+"667",0.894514264142773,0.3,"value on non-rejected","Debiased",112,500,1.5,1.5,1.5,1,2
+"668",NA,0.3,"value on non-rejected","No-debias",112,500,1.5,1.5,1.5,1,2
+"669",0.725,0.3,"porp rejected","Debiased",112,500,1.5,1.5,1.5,1,2
+"670",1,0.3,"porp rejected","No-debias",112,500,1.5,1.5,1.5,1,2
+"671",0.111950921459238,0.3,"loss in value","Debiased",112,500,1.5,1.5,1.5,1,2
+"672",0.12782208892399,0.3,"loss in value","No-debias",112,500,1.5,1.5,1.5,1,2
+"673",0.861922447708358,0.3,"value on non-rejected","Debiased",113,500,1.5,1.5,1.5,1,2
+"674",NA,0.3,"value on non-rejected","No-debias",113,500,1.5,1.5,1.5,1,2
+"675",0.302,0.3,"porp rejected","Debiased",113,500,1.5,1.5,1.5,1,2
+"676",1,0.3,"porp rejected","No-debias",113,500,1.5,1.5,1.5,1,2
+"677",0.0947549949655286,0.3,"loss in value","Debiased",113,500,1.5,1.5,1.5,1,2
+"678",0.119669624788351,0.3,"loss in value","No-debias",113,500,1.5,1.5,1.5,1,2
+"679",0.88172160244077,0.3,"value on non-rejected","Debiased",114,500,1.5,1.5,1.5,1,2
+"680",NA,0.3,"value on non-rejected","No-debias",114,500,1.5,1.5,1.5,1,2
+"681",0.177,0.3,"porp rejected","Debiased",114,500,1.5,1.5,1.5,1,2
+"682",1,0.3,"porp rejected","No-debias",114,500,1.5,1.5,1.5,1,2
+"683",0.0996248069958152,0.3,"loss in value","Debiased",114,500,1.5,1.5,1.5,1,2
+"684",0.138819360177058,0.3,"loss in value","No-debias",114,500,1.5,1.5,1.5,1,2
+"685",0.889544515879563,0.3,"value on non-rejected","Debiased",115,500,1.5,1.5,1.5,1,2
+"686",0.726423076144154,0.3,"value on non-rejected","No-debias",115,500,1.5,1.5,1.5,1,2
+"687",0.207,0.3,"porp rejected","Debiased",115,500,1.5,1.5,1.5,1,2
+"688",0.901,0.3,"porp rejected","No-debias",115,500,1.5,1.5,1.5,1,2
+"689",0.111694444997782,0.3,"loss in value","Debiased",115,500,1.5,1.5,1.5,1,2
+"690",0.15820859122343,0.3,"loss in value","No-debias",115,500,1.5,1.5,1.5,1,2
+"691",0.857611790676702,0.3,"value on non-rejected","Debiased",116,500,1.5,1.5,1.5,1,2
+"692",0.762323337193975,0.3,"value on non-rejected","No-debias",116,500,1.5,1.5,1.5,1,2
+"693",0.269,0.3,"porp rejected","Debiased",116,500,1.5,1.5,1.5,1,2
+"694",0.424,0.3,"porp rejected","No-debias",116,500,1.5,1.5,1.5,1,2
+"695",0.0695020633895717,0.3,"loss in value","Debiased",116,500,1.5,1.5,1.5,1,2
+"696",0.193697455594719,0.3,"loss in value","No-debias",116,500,1.5,1.5,1.5,1,2
+"697",0.917648163448728,0.3,"value on non-rejected","Debiased",117,500,1.5,1.5,1.5,1,2
+"698",NA,0.3,"value on non-rejected","No-debias",117,500,1.5,1.5,1.5,1,2
+"699",0.772,0.3,"porp rejected","Debiased",117,500,1.5,1.5,1.5,1,2
+"700",1,0.3,"porp rejected","No-debias",117,500,1.5,1.5,1.5,1,2
+"701",0.107019319232793,0.3,"loss in value","Debiased",117,500,1.5,1.5,1.5,1,2
+"702",0.122362176035423,0.3,"loss in value","No-debias",117,500,1.5,1.5,1.5,1,2
+"703",0.924118107990825,0.3,"value on non-rejected","Debiased",118,500,1.5,1.5,1.5,1,2
+"704",NA,0.3,"value on non-rejected","No-debias",118,500,1.5,1.5,1.5,1,2
+"705",0.362,0.3,"porp rejected","Debiased",118,500,1.5,1.5,1.5,1,2
+"706",1,0.3,"porp rejected","No-debias",118,500,1.5,1.5,1.5,1,2
+"707",0.118057034199224,0.3,"loss in value","Debiased",118,500,1.5,1.5,1.5,1,2
+"708",0.127121012666328,0.3,"loss in value","No-debias",118,500,1.5,1.5,1.5,1,2
+"709",0.897555338502815,0.3,"value on non-rejected","Debiased",119,500,1.5,1.5,1.5,1,2
+"710",NA,0.3,"value on non-rejected","No-debias",119,500,1.5,1.5,1.5,1,2
+"711",0.248,0.3,"porp rejected","Debiased",119,500,1.5,1.5,1.5,1,2
+"712",1,0.3,"porp rejected","No-debias",119,500,1.5,1.5,1.5,1,2
+"713",0.108993906366442,0.3,"loss in value","Debiased",119,500,1.5,1.5,1.5,1,2
+"714",0.127469928223826,0.3,"loss in value","No-debias",119,500,1.5,1.5,1.5,1,2
+"715",0.882082134305566,0.3,"value on non-rejected","Debiased",120,500,1.5,1.5,1.5,1,2
+"716",0.795701517164922,0.3,"value on non-rejected","No-debias",120,500,1.5,1.5,1.5,1,2
+"717",0.327,0.3,"porp rejected","Debiased",120,500,1.5,1.5,1.5,1,2
+"718",0.012,0.3,"porp rejected","No-debias",120,500,1.5,1.5,1.5,1,2
+"719",0.0970241925362993,0.3,"loss in value","Debiased",120,500,1.5,1.5,1.5,1,2
+"720",0.185684793830695,0.3,"loss in value","No-debias",120,500,1.5,1.5,1.5,1,2
+"721",0.892711942796987,0.3,"value on non-rejected","Debiased",121,500,1.5,1.5,1.5,1,2
+"722",0.761015862707156,0.3,"value on non-rejected","No-debias",121,500,1.5,1.5,1.5,1,2
+"723",0.273,0.3,"porp rejected","Debiased",121,500,1.5,1.5,1.5,1,2
+"724",0.665,0.3,"porp rejected","No-debias",121,500,1.5,1.5,1.5,1,2
+"725",0.0888617976654103,0.3,"loss in value","Debiased",121,500,1.5,1.5,1.5,1,2
+"726",0.167287358058223,0.3,"loss in value","No-debias",121,500,1.5,1.5,1.5,1,2
+"727",0.871475984172474,0.3,"value on non-rejected","Debiased",122,500,1.5,1.5,1.5,1,2
+"728",NA,0.3,"value on non-rejected","No-debias",122,500,1.5,1.5,1.5,1,2
+"729",0.221,0.3,"porp rejected","Debiased",122,500,1.5,1.5,1.5,1,2
+"730",1,0.3,"porp rejected","No-debias",122,500,1.5,1.5,1.5,1,2
+"731",0.0965374784106418,0.3,"loss in value","Debiased",122,500,1.5,1.5,1.5,1,2
+"732",0.129758968128228,0.3,"loss in value","No-debias",122,500,1.5,1.5,1.5,1,2
+"733",0.859463339953452,0.3,"value on non-rejected","Debiased",123,500,1.5,1.5,1.5,1,2
+"734",NA,0.3,"value on non-rejected","No-debias",123,500,1.5,1.5,1.5,1,2
+"735",0.279,0.3,"porp rejected","Debiased",123,500,1.5,1.5,1.5,1,2
+"736",1,0.3,"porp rejected","No-debias",123,500,1.5,1.5,1.5,1,2
+"737",0.104815588409514,0.3,"loss in value","Debiased",123,500,1.5,1.5,1.5,1,2
+"738",0.12424060448629,0.3,"loss in value","No-debias",123,500,1.5,1.5,1.5,1,2
+"739",0.876205812636834,0.3,"value on non-rejected","Debiased",124,500,1.5,1.5,1.5,1,2
+"740",NA,0.3,"value on non-rejected","No-debias",124,500,1.5,1.5,1.5,1,2
+"741",0.305,0.3,"porp rejected","Debiased",124,500,1.5,1.5,1.5,1,2
+"742",1,0.3,"porp rejected","No-debias",124,500,1.5,1.5,1.5,1,2
+"743",0.120250448486921,0.3,"loss in value","Debiased",124,500,1.5,1.5,1.5,1,2
+"744",0.133109126925119,0.3,"loss in value","No-debias",124,500,1.5,1.5,1.5,1,2
+"745",0.90012839615095,0.3,"value on non-rejected","Debiased",125,500,1.5,1.5,1.5,1,2
+"746",0.732350766746557,0.3,"value on non-rejected","No-debias",125,500,1.5,1.5,1.5,1,2
+"747",0.205,0.3,"porp rejected","Debiased",125,500,1.5,1.5,1.5,1,2
+"748",0.906,0.3,"porp rejected","No-debias",125,500,1.5,1.5,1.5,1,2
+"749",0.103370195190586,0.3,"loss in value","Debiased",125,500,1.5,1.5,1.5,1,2
+"750",0.152620438190026,0.3,"loss in value","No-debias",125,500,1.5,1.5,1.5,1,2
+"751",0.960944315016643,0.3,"value on non-rejected","Debiased",126,500,1.5,1.5,1.5,1,2
+"752",NA,0.3,"value on non-rejected","No-debias",126,500,1.5,1.5,1.5,1,2
+"753",0.689,0.3,"porp rejected","Debiased",126,500,1.5,1.5,1.5,1,2
+"754",1,0.3,"porp rejected","No-debias",126,500,1.5,1.5,1.5,1,2
+"755",0.128946622275747,0.3,"loss in value","Debiased",126,500,1.5,1.5,1.5,1,2
+"756",0.130592494682374,0.3,"loss in value","No-debias",126,500,1.5,1.5,1.5,1,2
+"757",0.877308813458013,0.3,"value on non-rejected","Debiased",127,500,1.5,1.5,1.5,1,2
+"758",0.795162270765672,0.3,"value on non-rejected","No-debias",127,500,1.5,1.5,1.5,1,2
+"759",0.553,0.3,"porp rejected","Debiased",127,500,1.5,1.5,1.5,1,2
+"760",0.058,0.3,"porp rejected","No-debias",127,500,1.5,1.5,1.5,1,2
+"761",0.106241932424899,0.3,"loss in value","Debiased",127,500,1.5,1.5,1.5,1,2
+"762",0.226350120986441,0.3,"loss in value","No-debias",127,500,1.5,1.5,1.5,1,2
+"763",0.837494946396193,0.3,"value on non-rejected","Debiased",128,500,1.5,1.5,1.5,1,2
+"764",0.75475322785108,0.3,"value on non-rejected","No-debias",128,500,1.5,1.5,1.5,1,2
+"765",0.642,0.3,"porp rejected","Debiased",128,500,1.5,1.5,1.5,1,2
+"766",0.985,0.3,"porp rejected","No-debias",128,500,1.5,1.5,1.5,1,2
+"767",0.0705633784624705,0.3,"loss in value","Debiased",128,500,1.5,1.5,1.5,1,2
+"768",0.104355178174109,0.3,"loss in value","No-debias",128,500,1.5,1.5,1.5,1,2
+"769",0.903454569193411,0.3,"value on non-rejected","Debiased",129,500,1.5,1.5,1.5,1,2
+"770",NA,0.3,"value on non-rejected","No-debias",129,500,1.5,1.5,1.5,1,2
+"771",0.24,0.3,"porp rejected","Debiased",129,500,1.5,1.5,1.5,1,2
+"772",1,0.3,"porp rejected","No-debias",129,500,1.5,1.5,1.5,1,2
+"773",0.101235121043233,0.3,"loss in value","Debiased",129,500,1.5,1.5,1.5,1,2
+"774",0.131040949532748,0.3,"loss in value","No-debias",129,500,1.5,1.5,1.5,1,2
+"775",0.8793307189237,0.3,"value on non-rejected","Debiased",130,500,1.5,1.5,1.5,1,2
+"776",0.797994298645119,0.3,"value on non-rejected","No-debias",130,500,1.5,1.5,1.5,1,2
+"777",0.401,0.3,"porp rejected","Debiased",130,500,1.5,1.5,1.5,1,2
+"778",0,0.3,"porp rejected","No-debias",130,500,1.5,1.5,1.5,1,2
+"779",0.0810468571740191,0.3,"loss in value","Debiased",130,500,1.5,1.5,1.5,1,2
+"780",0.19683341691493,0.3,"loss in value","No-debias",130,500,1.5,1.5,1.5,1,2
+"781",0.90101252865918,0.3,"value on non-rejected","Debiased",131,500,1.5,1.5,1.5,1,2
+"782",0.795490090006988,0.3,"value on non-rejected","No-debias",131,500,1.5,1.5,1.5,1,2
+"783",0.589,0.3,"porp rejected","Debiased",131,500,1.5,1.5,1.5,1,2
+"784",0.134,0.3,"porp rejected","No-debias",131,500,1.5,1.5,1.5,1,2
+"785",0.0953791485925712,0.3,"loss in value","Debiased",131,500,1.5,1.5,1.5,1,2
+"786",0.207353337247055,0.3,"loss in value","No-debias",131,500,1.5,1.5,1.5,1,2
+"787",NA,0.3,"value on non-rejected","Debiased",132,500,1.5,1.5,1.5,1,2
+"788",NA,0.3,"value on non-rejected","No-debias",132,500,1.5,1.5,1.5,1,2
+"789",1,0.3,"porp rejected","Debiased",132,500,1.5,1.5,1.5,1,2
+"790",1,0.3,"porp rejected","No-debias",132,500,1.5,1.5,1.5,1,2
+"791",0.132678893139809,0.3,"loss in value","Debiased",132,500,1.5,1.5,1.5,1,2
+"792",0.132678893139809,0.3,"loss in value","No-debias",132,500,1.5,1.5,1.5,1,2
+"793",0.872045447082745,0.3,"value on non-rejected","Debiased",133,500,1.5,1.5,1.5,1,2
+"794",NA,0.3,"value on non-rejected","No-debias",133,500,1.5,1.5,1.5,1,2
+"795",0.268,0.3,"porp rejected","Debiased",133,500,1.5,1.5,1.5,1,2
+"796",1,0.3,"porp rejected","No-debias",133,500,1.5,1.5,1.5,1,2
+"797",0.0771515214585883,0.3,"loss in value","Debiased",133,500,1.5,1.5,1.5,1,2
+"798",0.11688064275214,0.3,"loss in value","No-debias",133,500,1.5,1.5,1.5,1,2
+"799",0.94218962291502,0.3,"value on non-rejected","Debiased",134,500,1.5,1.5,1.5,1,2
+"800",NA,0.3,"value on non-rejected","No-debias",134,500,1.5,1.5,1.5,1,2
+"801",0.674,0.3,"porp rejected","Debiased",134,500,1.5,1.5,1.5,1,2
+"802",1,0.3,"porp rejected","No-debias",134,500,1.5,1.5,1.5,1,2
+"803",0.122670099715542,0.3,"loss in value","Debiased",134,500,1.5,1.5,1.5,1,2
+"804",0.132071495095259,0.3,"loss in value","No-debias",134,500,1.5,1.5,1.5,1,2
+"805",0.855239539565062,0.3,"value on non-rejected","Debiased",135,500,1.5,1.5,1.5,1,2
+"806",NA,0.3,"value on non-rejected","No-debias",135,500,1.5,1.5,1.5,1,2
+"807",0.301,0.3,"porp rejected","Debiased",135,500,1.5,1.5,1.5,1,2
+"808",1,0.3,"porp rejected","No-debias",135,500,1.5,1.5,1.5,1,2
+"809",0.123221233115996,0.3,"loss in value","Debiased",135,500,1.5,1.5,1.5,1,2
+"810",0.134054212516029,0.3,"loss in value","No-debias",135,500,1.5,1.5,1.5,1,2
+"811",0.916230109637539,0.3,"value on non-rejected","Debiased",136,500,1.5,1.5,1.5,1,2
+"812",NA,0.3,"value on non-rejected","No-debias",136,500,1.5,1.5,1.5,1,2
+"813",0.251,0.3,"porp rejected","Debiased",136,500,1.5,1.5,1.5,1,2
+"814",1,0.3,"porp rejected","No-debias",136,500,1.5,1.5,1.5,1,2
+"815",0.107428353234799,0.3,"loss in value","Debiased",136,500,1.5,1.5,1.5,1,2
+"816",0.131440465716617,0.3,"loss in value","No-debias",136,500,1.5,1.5,1.5,1,2
+"817",0.8959356758592,0.3,"value on non-rejected","Debiased",137,500,1.5,1.5,1.5,1,2
+"818",NA,0.3,"value on non-rejected","No-debias",137,500,1.5,1.5,1.5,1,2
+"819",0.211,0.3,"porp rejected","Debiased",137,500,1.5,1.5,1.5,1,2
+"820",1,0.3,"porp rejected","No-debias",137,500,1.5,1.5,1.5,1,2
+"821",0.0989839971810844,0.3,"loss in value","Debiased",137,500,1.5,1.5,1.5,1,2
+"822",0.13047232083094,0.3,"loss in value","No-debias",137,500,1.5,1.5,1.5,1,2
+"823",0.889733398742335,0.3,"value on non-rejected","Debiased",138,500,1.5,1.5,1.5,1,2
+"824",0.769153789557251,0.3,"value on non-rejected","No-debias",138,500,1.5,1.5,1.5,1,2
+"825",0.248,0.3,"porp rejected","Debiased",138,500,1.5,1.5,1.5,1,2
+"826",0.524,0.3,"porp rejected","No-debias",138,500,1.5,1.5,1.5,1,2
+"827",0.0949135966123083,0.3,"loss in value","Debiased",138,500,1.5,1.5,1.5,1,2
+"828",0.208269439109935,0.3,"loss in value","No-debias",138,500,1.5,1.5,1.5,1,2
+"829",0.870416740627153,0.3,"value on non-rejected","Debiased",139,500,1.5,1.5,1.5,1,2
+"830",NA,0.3,"value on non-rejected","No-debias",139,500,1.5,1.5,1.5,1,2
+"831",0.218,0.3,"porp rejected","Debiased",139,500,1.5,1.5,1.5,1,2
+"832",1,0.3,"porp rejected","No-debias",139,500,1.5,1.5,1.5,1,2
+"833",0.100614279078371,0.3,"loss in value","Debiased",139,500,1.5,1.5,1.5,1,2
+"834",0.141856205008522,0.3,"loss in value","No-debias",139,500,1.5,1.5,1.5,1,2
+"835",0.893980538512791,0.3,"value on non-rejected","Debiased",140,500,1.5,1.5,1.5,1,2
+"836",NA,0.3,"value on non-rejected","No-debias",140,500,1.5,1.5,1.5,1,2
+"837",0.177,0.3,"porp rejected","Debiased",140,500,1.5,1.5,1.5,1,2
+"838",1,0.3,"porp rejected","No-debias",140,500,1.5,1.5,1.5,1,2
+"839",0.0808301987551562,0.3,"loss in value","Debiased",140,500,1.5,1.5,1.5,1,2
+"840",0.124911473680444,0.3,"loss in value","No-debias",140,500,1.5,1.5,1.5,1,2
+"841",0.868666701385121,0.3,"value on non-rejected","Debiased",141,500,1.5,1.5,1.5,1,2
+"842",0.800498016858695,0.3,"value on non-rejected","No-debias",141,500,1.5,1.5,1.5,1,2
+"843",0.805,0.3,"porp rejected","Debiased",141,500,1.5,1.5,1.5,1,2
+"844",0,0.3,"porp rejected","No-debias",141,500,1.5,1.5,1.5,1,2
+"845",0.115633951866681,0.3,"loss in value","Debiased",141,500,1.5,1.5,1.5,1,2
+"846",0.218692671262904,0.3,"loss in value","No-debias",141,500,1.5,1.5,1.5,1,2
+"847",0.834277271504229,0.3,"value on non-rejected","Debiased",142,500,1.5,1.5,1.5,1,2
+"848",NA,0.3,"value on non-rejected","No-debias",142,500,1.5,1.5,1.5,1,2
+"849",0.347,0.3,"porp rejected","Debiased",142,500,1.5,1.5,1.5,1,2
+"850",1,0.3,"porp rejected","No-debias",142,500,1.5,1.5,1.5,1,2
+"851",0.123951132921255,0.3,"loss in value","Debiased",142,500,1.5,1.5,1.5,1,2
+"852",0.1291012895074,0.3,"loss in value","No-debias",142,500,1.5,1.5,1.5,1,2
+"853",0.865709098255736,0.3,"value on non-rejected","Debiased",143,500,1.5,1.5,1.5,1,2
+"854",NA,0.3,"value on non-rejected","No-debias",143,500,1.5,1.5,1.5,1,2
+"855",0.939,0.3,"porp rejected","Debiased",143,500,1.5,1.5,1.5,1,2
+"856",1,0.3,"porp rejected","No-debias",143,500,1.5,1.5,1.5,1,2
+"857",0.141283765856383,0.3,"loss in value","Debiased",143,500,1.5,1.5,1.5,1,2
+"858",0.147642278305452,0.3,"loss in value","No-debias",143,500,1.5,1.5,1.5,1,2
+"859",0.82398531953199,0.3,"value on non-rejected","Debiased",144,500,1.5,1.5,1.5,1,2
+"860",0.238244871066049,0.3,"value on non-rejected","No-debias",144,500,1.5,1.5,1.5,1,2
+"861",0.334,0.3,"porp rejected","Debiased",144,500,1.5,1.5,1.5,1,2
+"862",0.996,0.3,"porp rejected","No-debias",144,500,1.5,1.5,1.5,1,2
+"863",0.114306975694211,0.3,"loss in value","Debiased",144,500,1.5,1.5,1.5,1,2
+"864",0.118699065163957,0.3,"loss in value","No-debias",144,500,1.5,1.5,1.5,1,2
+"865",0.889594039584908,0.3,"value on non-rejected","Debiased",145,500,1.5,1.5,1.5,1,2
+"866",NA,0.3,"value on non-rejected","No-debias",145,500,1.5,1.5,1.5,1,2
+"867",0.327,0.3,"porp rejected","Debiased",145,500,1.5,1.5,1.5,1,2
+"868",1,0.3,"porp rejected","No-debias",145,500,1.5,1.5,1.5,1,2
+"869",0.0873434055094683,0.3,"loss in value","Debiased",145,500,1.5,1.5,1.5,1,2
+"870",0.125598351067588,0.3,"loss in value","No-debias",145,500,1.5,1.5,1.5,1,2
+"871",0.883289039521812,0.3,"value on non-rejected","Debiased",146,500,1.5,1.5,1.5,1,2
+"872",0.793098262144477,0.3,"value on non-rejected","No-debias",146,500,1.5,1.5,1.5,1,2
+"873",0.246,0.3,"porp rejected","Debiased",146,500,1.5,1.5,1.5,1,2
+"874",0.287,0.3,"porp rejected","No-debias",146,500,1.5,1.5,1.5,1,2
+"875",0.102010333494429,0.3,"loss in value","Debiased",146,500,1.5,1.5,1.5,1,2
+"876",0.19278828510618,0.3,"loss in value","No-debias",146,500,1.5,1.5,1.5,1,2
+"877",0.865879916078487,0.3,"value on non-rejected","Debiased",147,500,1.5,1.5,1.5,1,2
+"878",NA,0.3,"value on non-rejected","No-debias",147,500,1.5,1.5,1.5,1,2
+"879",0.416,0.3,"porp rejected","Debiased",147,500,1.5,1.5,1.5,1,2
+"880",1,0.3,"porp rejected","No-debias",147,500,1.5,1.5,1.5,1,2
+"881",0.117768546779745,0.3,"loss in value","Debiased",147,500,1.5,1.5,1.5,1,2
+"882",0.137330669437122,0.3,"loss in value","No-debias",147,500,1.5,1.5,1.5,1,2
+"883",0.894267682933547,0.3,"value on non-rejected","Debiased",148,500,1.5,1.5,1.5,1,2
+"884",NA,0.3,"value on non-rejected","No-debias",148,500,1.5,1.5,1.5,1,2
+"885",0.349,0.3,"porp rejected","Debiased",148,500,1.5,1.5,1.5,1,2
+"886",1,0.3,"porp rejected","No-debias",148,500,1.5,1.5,1.5,1,2
+"887",0.111246259337543,0.3,"loss in value","Debiased",148,500,1.5,1.5,1.5,1,2
+"888",0.134509182774722,0.3,"loss in value","No-debias",148,500,1.5,1.5,1.5,1,2
+"889",0.868145602869338,0.3,"value on non-rejected","Debiased",149,500,1.5,1.5,1.5,1,2
+"890",NA,0.3,"value on non-rejected","No-debias",149,500,1.5,1.5,1.5,1,2
+"891",0.323,0.3,"porp rejected","Debiased",149,500,1.5,1.5,1.5,1,2
+"892",1,0.3,"porp rejected","No-debias",149,500,1.5,1.5,1.5,1,2
+"893",0.107144694414199,0.3,"loss in value","Debiased",149,500,1.5,1.5,1.5,1,2
+"894",0.143262709533798,0.3,"loss in value","No-debias",149,500,1.5,1.5,1.5,1,2
+"895",0.858133981234092,0.3,"value on non-rejected","Debiased",150,500,1.5,1.5,1.5,1,2
+"896",NA,0.3,"value on non-rejected","No-debias",150,500,1.5,1.5,1.5,1,2
+"897",0.266,0.3,"porp rejected","Debiased",150,500,1.5,1.5,1.5,1,2
+"898",1,0.3,"porp rejected","No-debias",150,500,1.5,1.5,1.5,1,2
+"899",0.0981099610780707,0.3,"loss in value","Debiased",150,500,1.5,1.5,1.5,1,2
+"900",0.120437409895305,0.3,"loss in value","No-debias",150,500,1.5,1.5,1.5,1,2
+"901",0.898882472658698,0.3,"value on non-rejected","Debiased",151,500,1.5,1.5,1.5,1,2
+"902",NA,0.3,"value on non-rejected","No-debias",151,500,1.5,1.5,1.5,1,2
+"903",0.169,0.3,"porp rejected","Debiased",151,500,1.5,1.5,1.5,1,2
+"904",1,0.3,"porp rejected","No-debias",151,500,1.5,1.5,1.5,1,2
+"905",0.0833636975984565,0.3,"loss in value","Debiased",151,500,1.5,1.5,1.5,1,2
+"906",0.131594098435139,0.3,"loss in value","No-debias",151,500,1.5,1.5,1.5,1,2
+"907",NA,0.3,"value on non-rejected","Debiased",152,500,1.5,1.5,1.5,1,2
+"908",0.780354864615001,0.3,"value on non-rejected","No-debias",152,500,1.5,1.5,1.5,1,2
+"909",1,0.3,"porp rejected","Debiased",152,500,1.5,1.5,1.5,1,2
+"910",0.268,0.3,"porp rejected","No-debias",152,500,1.5,1.5,1.5,1,2
+"911",0.127543120021728,0.3,"loss in value","Debiased",152,500,1.5,1.5,1.5,1,2
+"912",0.222891130765378,0.3,"loss in value","No-debias",152,500,1.5,1.5,1.5,1,2
+"913",0.861212889357964,0.3,"value on non-rejected","Debiased",153,500,1.5,1.5,1.5,1,2
+"914",NA,0.3,"value on non-rejected","No-debias",153,500,1.5,1.5,1.5,1,2
+"915",0.296,0.3,"porp rejected","Debiased",153,500,1.5,1.5,1.5,1,2
+"916",1,0.3,"porp rejected","No-debias",153,500,1.5,1.5,1.5,1,2
+"917",0.103318653643522,0.3,"loss in value","Debiased",153,500,1.5,1.5,1.5,1,2
+"918",0.122042359581927,0.3,"loss in value","No-debias",153,500,1.5,1.5,1.5,1,2
+"919",NA,0.3,"value on non-rejected","Debiased",154,500,1.5,1.5,1.5,1,2
+"920",0.671603105136831,0.3,"value on non-rejected","No-debias",154,500,1.5,1.5,1.5,1,2
+"921",1,0.3,"porp rejected","Debiased",154,500,1.5,1.5,1.5,1,2
+"922",0.991,0.3,"porp rejected","No-debias",154,500,1.5,1.5,1.5,1,2
+"923",0.132790293711728,0.3,"loss in value","Debiased",154,500,1.5,1.5,1.5,1,2
+"924",0.13554105453689,0.3,"loss in value","No-debias",154,500,1.5,1.5,1.5,1,2
+"925",0.886537086512499,0.3,"value on non-rejected","Debiased",155,500,1.5,1.5,1.5,1,2
+"926",NA,0.3,"value on non-rejected","No-debias",155,500,1.5,1.5,1.5,1,2
+"927",0.229,0.3,"porp rejected","Debiased",155,500,1.5,1.5,1.5,1,2
+"928",1,0.3,"porp rejected","No-debias",155,500,1.5,1.5,1.5,1,2
+"929",0.0960960042396101,0.3,"loss in value","Debiased",155,500,1.5,1.5,1.5,1,2
+"930",0.128296428320793,0.3,"loss in value","No-debias",155,500,1.5,1.5,1.5,1,2
+"931",0.88482954015049,0.3,"value on non-rejected","Debiased",156,500,1.5,1.5,1.5,1,2
+"932",NA,0.3,"value on non-rejected","No-debias",156,500,1.5,1.5,1.5,1,2
+"933",0.248,0.3,"porp rejected","Debiased",156,500,1.5,1.5,1.5,1,2
+"934",1,0.3,"porp rejected","No-debias",156,500,1.5,1.5,1.5,1,2
+"935",0.0966911802173376,0.3,"loss in value","Debiased",156,500,1.5,1.5,1.5,1,2
+"936",0.132977089792745,0.3,"loss in value","No-debias",156,500,1.5,1.5,1.5,1,2
+"937",0.837435615562779,0.3,"value on non-rejected","Debiased",157,500,1.5,1.5,1.5,1,2
+"938",NA,0.3,"value on non-rejected","No-debias",157,500,1.5,1.5,1.5,1,2
+"939",0.579,0.3,"porp rejected","Debiased",157,500,1.5,1.5,1.5,1,2
+"940",1,0.3,"porp rejected","No-debias",157,500,1.5,1.5,1.5,1,2
+"941",0.0743858477326929,0.3,"loss in value","Debiased",157,500,1.5,1.5,1.5,1,2
+"942",0.117314938279393,0.3,"loss in value","No-debias",157,500,1.5,1.5,1.5,1,2
+"943",0.859744555504637,0.3,"value on non-rejected","Debiased",158,500,1.5,1.5,1.5,1,2
+"944",NA,0.3,"value on non-rejected","No-debias",158,500,1.5,1.5,1.5,1,2
+"945",0.256,0.3,"porp rejected","Debiased",158,500,1.5,1.5,1.5,1,2
+"946",1,0.3,"porp rejected","No-debias",158,500,1.5,1.5,1.5,1,2
+"947",0.0859922118359585,0.3,"loss in value","Debiased",158,500,1.5,1.5,1.5,1,2
+"948",0.127513074146738,0.3,"loss in value","No-debias",158,500,1.5,1.5,1.5,1,2
+"949",0.834115369963124,0.3,"value on non-rejected","Debiased",159,500,1.5,1.5,1.5,1,2
+"950",0.759764745253198,0.3,"value on non-rejected","No-debias",159,500,1.5,1.5,1.5,1,2
+"951",0.323,0.3,"porp rejected","Debiased",159,500,1.5,1.5,1.5,1,2
+"952",0.78,0.3,"porp rejected","No-debias",159,500,1.5,1.5,1.5,1,2
+"953",0.0869341320539251,0.3,"loss in value","Debiased",159,500,1.5,1.5,1.5,1,2
+"954",0.161004928752377,0.3,"loss in value","No-debias",159,500,1.5,1.5,1.5,1,2
+"955",0.885575590545661,0.3,"value on non-rejected","Debiased",160,500,1.5,1.5,1.5,1,2
+"956",0.694118433187786,0.3,"value on non-rejected","No-debias",160,500,1.5,1.5,1.5,1,2
+"957",0.199,0.3,"porp rejected","Debiased",160,500,1.5,1.5,1.5,1,2
+"958",0.958,0.3,"porp rejected","No-debias",160,500,1.5,1.5,1.5,1,2
+"959",0.0925590763634074,0.3,"loss in value","Debiased",160,500,1.5,1.5,1.5,1,2
+"960",0.143039217922066,0.3,"loss in value","No-debias",160,500,1.5,1.5,1.5,1,2
+"961",0.800963976137435,0.3,"value on non-rejected","Debiased",161,500,1.5,1.5,1.5,1,2
+"962",NA,0.3,"value on non-rejected","No-debias",161,500,1.5,1.5,1.5,1,2
+"963",0.082,0.3,"porp rejected","Debiased",161,500,1.5,1.5,1.5,1,2
+"964",1,0.3,"porp rejected","No-debias",161,500,1.5,1.5,1.5,1,2
+"965",0.153330706257217,0.3,"loss in value","Debiased",161,500,1.5,1.5,1.5,1,2
+"966",0.1206966069932,0.3,"loss in value","No-debias",161,500,1.5,1.5,1.5,1,2
+"967",0.836487199528867,0.3,"value on non-rejected","Debiased",162,500,1.5,1.5,1.5,1,2
+"968",NA,0.3,"value on non-rejected","No-debias",162,500,1.5,1.5,1.5,1,2
+"969",0.248,0.3,"porp rejected","Debiased",162,500,1.5,1.5,1.5,1,2
+"970",1,0.3,"porp rejected","No-debias",162,500,1.5,1.5,1.5,1,2
+"971",0.131849945263596,0.3,"loss in value","Debiased",162,500,1.5,1.5,1.5,1,2
+"972",0.128122765653051,0.3,"loss in value","No-debias",162,500,1.5,1.5,1.5,1,2
+"973",0.88747425401711,0.3,"value on non-rejected","Debiased",163,500,1.5,1.5,1.5,1,2
+"974",NA,0.3,"value on non-rejected","No-debias",163,500,1.5,1.5,1.5,1,2
+"975",0.163,0.3,"porp rejected","Debiased",163,500,1.5,1.5,1.5,1,2
+"976",1,0.3,"porp rejected","No-debias",163,500,1.5,1.5,1.5,1,2
+"977",0.106878008720493,0.3,"loss in value","Debiased",163,500,1.5,1.5,1.5,1,2
+"978",0.131568481565236,0.3,"loss in value","No-debias",163,500,1.5,1.5,1.5,1,2
+"979",NA,0.3,"value on non-rejected","Debiased",164,500,1.5,1.5,1.5,1,2
+"980",0.726833063545509,0.3,"value on non-rejected","No-debias",164,500,1.5,1.5,1.5,1,2
+"981",1,0.3,"porp rejected","Debiased",164,500,1.5,1.5,1.5,1,2
+"982",0.839,0.3,"porp rejected","No-debias",164,500,1.5,1.5,1.5,1,2
+"983",0.12041406904854,0.3,"loss in value","Debiased",164,500,1.5,1.5,1.5,1,2
+"984",0.150634626008317,0.3,"loss in value","No-debias",164,500,1.5,1.5,1.5,1,2
+"985",0.896054122122102,0.3,"value on non-rejected","Debiased",165,500,1.5,1.5,1.5,1,2
+"986",NA,0.3,"value on non-rejected","No-debias",165,500,1.5,1.5,1.5,1,2
+"987",0.23,0.3,"porp rejected","Debiased",165,500,1.5,1.5,1.5,1,2
+"988",1,0.3,"porp rejected","No-debias",165,500,1.5,1.5,1.5,1,2
+"989",0.0973203474409758,0.3,"loss in value","Debiased",165,500,1.5,1.5,1.5,1,2
+"990",0.118804537730169,0.3,"loss in value","No-debias",165,500,1.5,1.5,1.5,1,2
+"991",0.868213116678564,0.3,"value on non-rejected","Debiased",166,500,1.5,1.5,1.5,1,2
+"992",NA,0.3,"value on non-rejected","No-debias",166,500,1.5,1.5,1.5,1,2
+"993",0.254,0.3,"porp rejected","Debiased",166,500,1.5,1.5,1.5,1,2
+"994",1,0.3,"porp rejected","No-debias",166,500,1.5,1.5,1.5,1,2
+"995",0.0955332255538795,0.3,"loss in value","Debiased",166,500,1.5,1.5,1.5,1,2
+"996",0.128381937475525,0.3,"loss in value","No-debias",166,500,1.5,1.5,1.5,1,2
+"997",0.940446889686071,0.3,"value on non-rejected","Debiased",167,500,1.5,1.5,1.5,1,2
+"998",0.800787280109017,0.3,"value on non-rejected","No-debias",167,500,1.5,1.5,1.5,1,2
+"999",0.96,0.3,"porp rejected","Debiased",167,500,1.5,1.5,1.5,1,2
+"1000",0.00900000000000001,0.3,"porp rejected","No-debias",167,500,1.5,1.5,1.5,1,2
+"1001",0.130183182259683,0.3,"loss in value","Debiased",167,500,1.5,1.5,1.5,1,2
+"1002",0.170062532225017,0.3,"loss in value","No-debias",167,500,1.5,1.5,1.5,1,2
+"1003",0.887159957953043,0.3,"value on non-rejected","Debiased",168,500,1.5,1.5,1.5,1,2
+"1004",NA,0.3,"value on non-rejected","No-debias",168,500,1.5,1.5,1.5,1,2
+"1005",0.222,0.3,"porp rejected","Debiased",168,500,1.5,1.5,1.5,1,2
+"1006",1,0.3,"porp rejected","No-debias",168,500,1.5,1.5,1.5,1,2
+"1007",0.0970869038739064,0.3,"loss in value","Debiased",168,500,1.5,1.5,1.5,1,2
+"1008",0.142655364223149,0.3,"loss in value","No-debias",168,500,1.5,1.5,1.5,1,2
+"1009",0.883135757028508,0.3,"value on non-rejected","Debiased",169,500,1.5,1.5,1.5,1,2
+"1010",NA,0.3,"value on non-rejected","No-debias",169,500,1.5,1.5,1.5,1,2
+"1011",0.205,0.3,"porp rejected","Debiased",169,500,1.5,1.5,1.5,1,2
+"1012",1,0.3,"porp rejected","No-debias",169,500,1.5,1.5,1.5,1,2
+"1013",0.0663570488581487,0.3,"loss in value","Debiased",169,500,1.5,1.5,1.5,1,2
+"1014",0.110975356573471,0.3,"loss in value","No-debias",169,500,1.5,1.5,1.5,1,2
+"1015",0.869902684967675,0.3,"value on non-rejected","Debiased",170,500,1.5,1.5,1.5,1,2
+"1016",NA,0.3,"value on non-rejected","No-debias",170,500,1.5,1.5,1.5,1,2
+"1017",0.361,0.3,"porp rejected","Debiased",170,500,1.5,1.5,1.5,1,2
+"1018",1,0.3,"porp rejected","No-debias",170,500,1.5,1.5,1.5,1,2
+"1019",0.0839991077238045,0.3,"loss in value","Debiased",170,500,1.5,1.5,1.5,1,2
+"1020",0.118754641325746,0.3,"loss in value","No-debias",170,500,1.5,1.5,1.5,1,2
+"1021",0.88856346935876,0.3,"value on non-rejected","Debiased",171,500,1.5,1.5,1.5,1,2
+"1022",NA,0.3,"value on non-rejected","No-debias",171,500,1.5,1.5,1.5,1,2
+"1023",0.15,0.3,"porp rejected","Debiased",171,500,1.5,1.5,1.5,1,2
+"1024",1,0.3,"porp rejected","No-debias",171,500,1.5,1.5,1.5,1,2
+"1025",0.0994616644516227,0.3,"loss in value","Debiased",171,500,1.5,1.5,1.5,1,2
+"1026",0.125734345269917,0.3,"loss in value","No-debias",171,500,1.5,1.5,1.5,1,2
+"1027",0.839590178566174,0.3,"value on non-rejected","Debiased",172,500,1.5,1.5,1.5,1,2
+"1028",NA,0.3,"value on non-rejected","No-debias",172,500,1.5,1.5,1.5,1,2
+"1029",0.686,0.3,"porp rejected","Debiased",172,500,1.5,1.5,1.5,1,2
+"1030",1,0.3,"porp rejected","No-debias",172,500,1.5,1.5,1.5,1,2
+"1031",0.0871422792234653,0.3,"loss in value","Debiased",172,500,1.5,1.5,1.5,1,2
+"1032",0.122172932590028,0.3,"loss in value","No-debias",172,500,1.5,1.5,1.5,1,2
+"1033",0.862839296074838,0.3,"value on non-rejected","Debiased",173,500,1.5,1.5,1.5,1,2
+"1034",NA,0.3,"value on non-rejected","No-debias",173,500,1.5,1.5,1.5,1,2
+"1035",0.332,0.3,"porp rejected","Debiased",173,500,1.5,1.5,1.5,1,2
+"1036",1,0.3,"porp rejected","No-debias",173,500,1.5,1.5,1.5,1,2
+"1037",0.103872664354251,0.3,"loss in value","Debiased",173,500,1.5,1.5,1.5,1,2
+"1038",0.13978639977553,0.3,"loss in value","No-debias",173,500,1.5,1.5,1.5,1,2
+"1039",0.866943754470889,0.3,"value on non-rejected","Debiased",174,500,1.5,1.5,1.5,1,2
+"1040",NA,0.3,"value on non-rejected","No-debias",174,500,1.5,1.5,1.5,1,2
+"1041",0.249,0.3,"porp rejected","Debiased",174,500,1.5,1.5,1.5,1,2
+"1042",1,0.3,"porp rejected","No-debias",174,500,1.5,1.5,1.5,1,2
+"1043",0.0826831032199093,0.3,"loss in value","Debiased",174,500,1.5,1.5,1.5,1,2
+"1044",0.124325536191747,0.3,"loss in value","No-debias",174,500,1.5,1.5,1.5,1,2
+"1045",0.891023370074642,0.3,"value on non-rejected","Debiased",175,500,1.5,1.5,1.5,1,2
+"1046",NA,0.3,"value on non-rejected","No-debias",175,500,1.5,1.5,1.5,1,2
+"1047",0.248,0.3,"porp rejected","Debiased",175,500,1.5,1.5,1.5,1,2
+"1048",1,0.3,"porp rejected","No-debias",175,500,1.5,1.5,1.5,1,2
+"1049",0.118250031332086,0.3,"loss in value","Debiased",175,500,1.5,1.5,1.5,1,2
+"1050",0.13780327581939,0.3,"loss in value","No-debias",175,500,1.5,1.5,1.5,1,2
+"1051",0.860014566448173,0.3,"value on non-rejected","Debiased",176,500,1.5,1.5,1.5,1,2
+"1052",NA,0.3,"value on non-rejected","No-debias",176,500,1.5,1.5,1.5,1,2
+"1053",0.352,0.3,"porp rejected","Debiased",176,500,1.5,1.5,1.5,1,2
+"1054",1,0.3,"porp rejected","No-debias",176,500,1.5,1.5,1.5,1,2
+"1055",0.132412259172449,0.3,"loss in value","Debiased",176,500,1.5,1.5,1.5,1,2
+"1056",0.137223406951757,0.3,"loss in value","No-debias",176,500,1.5,1.5,1.5,1,2
+"1057",0.902692966302024,0.3,"value on non-rejected","Debiased",177,500,1.5,1.5,1.5,1,2
+"1058",NA,0.3,"value on non-rejected","No-debias",177,500,1.5,1.5,1.5,1,2
+"1059",0.245,0.3,"porp rejected","Debiased",177,500,1.5,1.5,1.5,1,2
+"1060",1,0.3,"porp rejected","No-debias",177,500,1.5,1.5,1.5,1,2
+"1061",0.0895546724668705,0.3,"loss in value","Debiased",177,500,1.5,1.5,1.5,1,2
+"1062",0.129498354851313,0.3,"loss in value","No-debias",177,500,1.5,1.5,1.5,1,2
+"1063",0.861479881902422,0.3,"value on non-rejected","Debiased",178,500,1.5,1.5,1.5,1,2
+"1064",NA,0.3,"value on non-rejected","No-debias",178,500,1.5,1.5,1.5,1,2
+"1065",0.289,0.3,"porp rejected","Debiased",178,500,1.5,1.5,1.5,1,2
+"1066",1,0.3,"porp rejected","No-debias",178,500,1.5,1.5,1.5,1,2
+"1067",0.116052428178279,0.3,"loss in value","Debiased",178,500,1.5,1.5,1.5,1,2
+"1068",0.13279981767307,0.3,"loss in value","No-debias",178,500,1.5,1.5,1.5,1,2
+"1069",0.881661677191579,0.3,"value on non-rejected","Debiased",179,500,1.5,1.5,1.5,1,2
+"1070",NA,0.3,"value on non-rejected","No-debias",179,500,1.5,1.5,1.5,1,2
+"1071",0.883,0.3,"porp rejected","Debiased",179,500,1.5,1.5,1.5,1,2
+"1072",1,0.3,"porp rejected","No-debias",179,500,1.5,1.5,1.5,1,2
+"1073",0.0933860111455762,0.3,"loss in value","Debiased",179,500,1.5,1.5,1.5,1,2
+"1074",0.10297231495907,0.3,"loss in value","No-debias",179,500,1.5,1.5,1.5,1,2
+"1075",0.894198024700967,0.3,"value on non-rejected","Debiased",180,500,1.5,1.5,1.5,1,2
+"1076",NA,0.3,"value on non-rejected","No-debias",180,500,1.5,1.5,1.5,1,2
+"1077",0.297,0.3,"porp rejected","Debiased",180,500,1.5,1.5,1.5,1,2
+"1078",1,0.3,"porp rejected","No-debias",180,500,1.5,1.5,1.5,1,2
+"1079",0.0751948837364074,0.3,"loss in value","Debiased",180,500,1.5,1.5,1.5,1,2
+"1080",0.11762384562981,0.3,"loss in value","No-debias",180,500,1.5,1.5,1.5,1,2
+"1081",0.864197792862201,0.3,"value on non-rejected","Debiased",181,500,1.5,1.5,1.5,1,2
+"1082",NA,0.3,"value on non-rejected","No-debias",181,500,1.5,1.5,1.5,1,2
+"1083",0.244,0.3,"porp rejected","Debiased",181,500,1.5,1.5,1.5,1,2
+"1084",1,0.3,"porp rejected","No-debias",181,500,1.5,1.5,1.5,1,2
+"1085",0.102532909128838,0.3,"loss in value","Debiased",181,500,1.5,1.5,1.5,1,2
+"1086",0.116743295573363,0.3,"loss in value","No-debias",181,500,1.5,1.5,1.5,1,2
+"1087",0.913085620697323,0.3,"value on non-rejected","Debiased",182,500,1.5,1.5,1.5,1,2
+"1088",NA,0.3,"value on non-rejected","No-debias",182,500,1.5,1.5,1.5,1,2
+"1089",0.991,0.3,"porp rejected","Debiased",182,500,1.5,1.5,1.5,1,2
+"1090",1,0.3,"porp rejected","No-debias",182,500,1.5,1.5,1.5,1,2
+"1091",0.124146586701488,0.3,"loss in value","Debiased",182,500,1.5,1.5,1.5,1,2
+"1092",0.12364878818199,0.3,"loss in value","No-debias",182,500,1.5,1.5,1.5,1,2
+"1093",0.903394214046326,0.3,"value on non-rejected","Debiased",183,500,1.5,1.5,1.5,1,2
+"1094",NA,0.3,"value on non-rejected","No-debias",183,500,1.5,1.5,1.5,1,2
+"1095",0.223,0.3,"porp rejected","Debiased",183,500,1.5,1.5,1.5,1,2
+"1096",1,0.3,"porp rejected","No-debias",183,500,1.5,1.5,1.5,1,2
+"1097",0.100414013247638,0.3,"loss in value","Debiased",183,500,1.5,1.5,1.5,1,2
+"1098",0.126188439927365,0.3,"loss in value","No-debias",183,500,1.5,1.5,1.5,1,2
+"1099",0.956695953539596,0.3,"value on non-rejected","Debiased",184,500,1.5,1.5,1.5,1,2
+"1100",NA,0.3,"value on non-rejected","No-debias",184,500,1.5,1.5,1.5,1,2
+"1101",0.613,0.3,"porp rejected","Debiased",184,500,1.5,1.5,1.5,1,2
+"1102",1,0.3,"porp rejected","No-debias",184,500,1.5,1.5,1.5,1,2
+"1103",0.137923501721323,0.3,"loss in value","Debiased",184,500,1.5,1.5,1.5,1,2
+"1104",0.139998664145149,0.3,"loss in value","No-debias",184,500,1.5,1.5,1.5,1,2
+"1105",0.823388923652002,0.3,"value on non-rejected","Debiased",185,500,1.5,1.5,1.5,1,2
+"1106",NA,0.3,"value on non-rejected","No-debias",185,500,1.5,1.5,1.5,1,2
+"1107",0.262,0.3,"porp rejected","Debiased",185,500,1.5,1.5,1.5,1,2
+"1108",1,0.3,"porp rejected","No-debias",185,500,1.5,1.5,1.5,1,2
+"1109",0.129372490022344,0.3,"loss in value","Debiased",185,500,1.5,1.5,1.5,1,2
+"1110",0.121656915165479,0.3,"loss in value","No-debias",185,500,1.5,1.5,1.5,1,2
+"1111",0.887563231430583,0.3,"value on non-rejected","Debiased",186,500,1.5,1.5,1.5,1,2
+"1112",0.804264049944444,0.3,"value on non-rejected","No-debias",186,500,1.5,1.5,1.5,1,2
+"1113",0.164,0.3,"porp rejected","Debiased",186,500,1.5,1.5,1.5,1,2
+"1114",0.015,0.3,"porp rejected","No-debias",186,500,1.5,1.5,1.5,1,2
+"1115",0.0946194826052075,0.3,"loss in value","Debiased",186,500,1.5,1.5,1.5,1,2
+"1116",0.17420951723324,0.3,"loss in value","No-debias",186,500,1.5,1.5,1.5,1,2
+"1117",0.912449201226734,0.3,"value on non-rejected","Debiased",187,500,1.5,1.5,1.5,1,2
+"1118",NA,0.3,"value on non-rejected","No-debias",187,500,1.5,1.5,1.5,1,2
+"1119",0.218,0.3,"porp rejected","Debiased",187,500,1.5,1.5,1.5,1,2
+"1120",1,0.3,"porp rejected","No-debias",187,500,1.5,1.5,1.5,1,2
+"1121",0.0966272044351907,0.3,"loss in value","Debiased",187,500,1.5,1.5,1.5,1,2
+"1122",0.12357537950228,0.3,"loss in value","No-debias",187,500,1.5,1.5,1.5,1,2
+"1123",0.943303529911125,0.3,"value on non-rejected","Debiased",188,500,1.5,1.5,1.5,1,2
+"1124",NA,0.3,"value on non-rejected","No-debias",188,500,1.5,1.5,1.5,1,2
+"1125",0.772,0.3,"porp rejected","Debiased",188,500,1.5,1.5,1.5,1,2
+"1126",1,0.3,"porp rejected","No-debias",188,500,1.5,1.5,1.5,1,2
+"1127",0.120892185013375,0.3,"loss in value","Debiased",188,500,1.5,1.5,1.5,1,2
+"1128",0.126968010567451,0.3,"loss in value","No-debias",188,500,1.5,1.5,1.5,1,2
+"1129",0.873397488280331,0.3,"value on non-rejected","Debiased",189,500,1.5,1.5,1.5,1,2
+"1130",NA,0.3,"value on non-rejected","No-debias",189,500,1.5,1.5,1.5,1,2
+"1131",0.266,0.3,"porp rejected","Debiased",189,500,1.5,1.5,1.5,1,2
+"1132",1,0.3,"porp rejected","No-debias",189,500,1.5,1.5,1.5,1,2
+"1133",0.0953774696089737,0.3,"loss in value","Debiased",189,500,1.5,1.5,1.5,1,2
+"1134",0.13532125072033,0.3,"loss in value","No-debias",189,500,1.5,1.5,1.5,1,2
+"1135",0.844448655467477,0.3,"value on non-rejected","Debiased",190,500,1.5,1.5,1.5,1,2
+"1136",NA,0.3,"value on non-rejected","No-debias",190,500,1.5,1.5,1.5,1,2
+"1137",0.793,0.3,"porp rejected","Debiased",190,500,1.5,1.5,1.5,1,2
+"1138",1,0.3,"porp rejected","No-debias",190,500,1.5,1.5,1.5,1,2
+"1139",0.10568382694961,0.3,"loss in value","Debiased",190,500,1.5,1.5,1.5,1,2
+"1140",0.126189774989797,0.3,"loss in value","No-debias",190,500,1.5,1.5,1.5,1,2
+"1141",NA,0.3,"value on non-rejected","Debiased",191,500,1.5,1.5,1.5,1,2
+"1142",NA,0.3,"value on non-rejected","No-debias",191,500,1.5,1.5,1.5,1,2
+"1143",1,0.3,"porp rejected","Debiased",191,500,1.5,1.5,1.5,1,2
+"1144",1,0.3,"porp rejected","No-debias",191,500,1.5,1.5,1.5,1,2
+"1145",0.131755282286731,0.3,"loss in value","Debiased",191,500,1.5,1.5,1.5,1,2
+"1146",0.131755282286731,0.3,"loss in value","No-debias",191,500,1.5,1.5,1.5,1,2
+"1147",0.868460540758112,0.3,"value on non-rejected","Debiased",192,500,1.5,1.5,1.5,1,2
+"1148",NA,0.3,"value on non-rejected","No-debias",192,500,1.5,1.5,1.5,1,2
+"1149",0.289,0.3,"porp rejected","Debiased",192,500,1.5,1.5,1.5,1,2
+"1150",1,0.3,"porp rejected","No-debias",192,500,1.5,1.5,1.5,1,2
+"1151",0.100877308026744,0.3,"loss in value","Debiased",192,500,1.5,1.5,1.5,1,2
+"1152",0.133291178633247,0.3,"loss in value","No-debias",192,500,1.5,1.5,1.5,1,2
+"1153",0.894738192093771,0.3,"value on non-rejected","Debiased",193,500,1.5,1.5,1.5,1,2
+"1154",NA,0.3,"value on non-rejected","No-debias",193,500,1.5,1.5,1.5,1,2
+"1155",0.168,0.3,"porp rejected","Debiased",193,500,1.5,1.5,1.5,1,2
+"1156",1,0.3,"porp rejected","No-debias",193,500,1.5,1.5,1.5,1,2
+"1157",0.104483927312323,0.3,"loss in value","Debiased",193,500,1.5,1.5,1.5,1,2
+"1158",0.138156059990281,0.3,"loss in value","No-debias",193,500,1.5,1.5,1.5,1,2
+"1159",0.905519599148574,0.3,"value on non-rejected","Debiased",194,500,1.5,1.5,1.5,1,2
+"1160",NA,0.3,"value on non-rejected","No-debias",194,500,1.5,1.5,1.5,1,2
+"1161",0.425,0.3,"porp rejected","Debiased",194,500,1.5,1.5,1.5,1,2
+"1162",1,0.3,"porp rejected","No-debias",194,500,1.5,1.5,1.5,1,2
+"1163",0.0977384565064694,0.3,"loss in value","Debiased",194,500,1.5,1.5,1.5,1,2
+"1164",0.123663183987718,0.3,"loss in value","No-debias",194,500,1.5,1.5,1.5,1,2
+"1165",0.881120079424192,0.3,"value on non-rejected","Debiased",195,500,1.5,1.5,1.5,1,2
+"1166",0.78366366426035,0.3,"value on non-rejected","No-debias",195,500,1.5,1.5,1.5,1,2
+"1167",0.328,0.3,"porp rejected","Debiased",195,500,1.5,1.5,1.5,1,2
+"1168",0.351,0.3,"porp rejected","No-debias",195,500,1.5,1.5,1.5,1,2
+"1169",0.109873076656378,0.3,"loss in value","Debiased",195,500,1.5,1.5,1.5,1,2
+"1170",0.212935444317586,0.3,"loss in value","No-debias",195,500,1.5,1.5,1.5,1,2
+"1171",0.873705395502808,0.3,"value on non-rejected","Debiased",196,500,1.5,1.5,1.5,1,2
+"1172",NA,0.3,"value on non-rejected","No-debias",196,500,1.5,1.5,1.5,1,2
+"1173",0.486,0.3,"porp rejected","Debiased",196,500,1.5,1.5,1.5,1,2
+"1174",1,0.3,"porp rejected","No-debias",196,500,1.5,1.5,1.5,1,2
+"1175",0.114475928270901,0.3,"loss in value","Debiased",196,500,1.5,1.5,1.5,1,2
+"1176",0.133367450619906,0.3,"loss in value","No-debias",196,500,1.5,1.5,1.5,1,2
+"1177",0.895408201003982,0.3,"value on non-rejected","Debiased",197,500,1.5,1.5,1.5,1,2
+"1178",NA,0.3,"value on non-rejected","No-debias",197,500,1.5,1.5,1.5,1,2
+"1179",0.24,0.3,"porp rejected","Debiased",197,500,1.5,1.5,1.5,1,2
+"1180",1,0.3,"porp rejected","No-debias",197,500,1.5,1.5,1.5,1,2
+"1181",0.105284310335314,0.3,"loss in value","Debiased",197,500,1.5,1.5,1.5,1,2
+"1182",0.135811770968996,0.3,"loss in value","No-debias",197,500,1.5,1.5,1.5,1,2
+"1183",0.892641237186294,0.3,"value on non-rejected","Debiased",198,500,1.5,1.5,1.5,1,2
+"1184",NA,0.3,"value on non-rejected","No-debias",198,500,1.5,1.5,1.5,1,2
+"1185",0.228,0.3,"porp rejected","Debiased",198,500,1.5,1.5,1.5,1,2
+"1186",1,0.3,"porp rejected","No-debias",198,500,1.5,1.5,1.5,1,2
+"1187",0.0912013309623844,0.3,"loss in value","Debiased",198,500,1.5,1.5,1.5,1,2
+"1188",0.122481588899059,0.3,"loss in value","No-debias",198,500,1.5,1.5,1.5,1,2
+"1189",0.876039450529584,0.3,"value on non-rejected","Debiased",199,500,1.5,1.5,1.5,1,2
+"1190",NA,0.3,"value on non-rejected","No-debias",199,500,1.5,1.5,1.5,1,2
+"1191",0.249,0.3,"porp rejected","Debiased",199,500,1.5,1.5,1.5,1,2
+"1192",1,0.3,"porp rejected","No-debias",199,500,1.5,1.5,1.5,1,2
+"1193",0.0995966688798763,0.3,"loss in value","Debiased",199,500,1.5,1.5,1.5,1,2
+"1194",0.127778497061127,0.3,"loss in value","No-debias",199,500,1.5,1.5,1.5,1,2
+"1195",0.871932884147318,0.3,"value on non-rejected","Debiased",200,500,1.5,1.5,1.5,1,2
+"1196",0.747092135227817,0.3,"value on non-rejected","No-debias",200,500,1.5,1.5,1.5,1,2
+"1197",0.251,0.3,"porp rejected","Debiased",200,500,1.5,1.5,1.5,1,2
+"1198",0.912,0.3,"porp rejected","No-debias",200,500,1.5,1.5,1.5,1,2
+"1199",0.0715640218342415,0.3,"loss in value","Debiased",200,500,1.5,1.5,1.5,1,2
+"1200",0.127827435131857,0.3,"loss in value","No-debias",200,500,1.5,1.5,1.5,1,2
